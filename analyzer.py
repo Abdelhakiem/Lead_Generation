@@ -4,9 +4,9 @@ from typing import Dict, List, Tuple, Optional
 import os
 from dataclasses import dataclass
 import time
-from db import Database
+#from db import Database
 
-db = Database(host="", user="", password="", db="")
+# db = Database(host="", user="", password="", db="")
 
 @dataclass
 class UserProfile:
@@ -677,7 +677,7 @@ class LLMUserProfileAnalyzer:
 
 def main():
     try:
-        analyzer = LLMUserProfileAnalyzer(api_key='')
+        analyzer = LLMUserProfileAnalyzer(api_key='AIzaSyD6eKRd58k6oVwx4eqXGTLRHKqjw1_XECQ')
         file_path = "dummy_users.json"
         
         users = analyzer.load_users_from_file(file_path)
