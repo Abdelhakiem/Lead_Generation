@@ -1,0 +1,50 @@
+[
+  {
+    "first_name": "Sara",
+    "last_name": "El-Naggar",
+    "age": 24,
+    "gender": "Female",
+    "marital_status": "Single",
+    "education": "BA Marketing",
+    "job": "Marketing Specialist",
+    "location": "Zagazig",
+    "top_interests": [
+      {
+        "interest": "fashion",
+        "percentage": 40
+      },
+      {
+        "interest": "music",
+        "percentage": 30
+      },
+      {
+        "interest": "marketing",
+        "percentage": 30
+      }
+    ],
+    "personality_summary": "This 24-year-old marketing specialist is a driven and enthusiastic individual with a passion for fashion and pop culture, as evidenced by their frequent attendance at fashion shows and concerts.  Their bilingual posts (English and Arabic) reflect a modern, well-rounded personality balancing a demanding professional life with a vibrant social and personal life, including travel plans and shopping excursions, showcasing a blend of professional ambition and a zest for life common among young professionals in Egypt.",
+    "key_activities": [
+      "Launched a new marketing campaign and is awaiting results.",
+      "Attended a fashion show in Cairo.",
+      "Planning a trip to Sharm El-Sheikh.",
+      "Bought a new dress.",
+      "Attended a concert."
+    ],
+    "total_posts": 10,
+    "top_habits": [
+      "Listening to music while working",
+      "Attending marketing/fashion events"
+    ],
+    "top_hobby": "Fashion",
+    "travel_indicators": "rare",
+    "life_indicators": [
+      "Evening relaxation activities",
+      "Dedicated work engagement",
+      "Active social interactions"
+    ],
+    "spending_indicators": [
+      "Spends on leisure activities",
+      "Secondary travel expenditures"
+    ]
+  }
+]
