@@ -677,7 +677,7 @@ class LLMUserProfileAnalyzer:
 
 def main():
     try:
-        analyzer = LLMUserProfileAnalyzer(api_key='AIzaSyD6eKRd58k6oVwx4eqXGTLRHKqjw1_XECQ')
+        analyzer = LLMUserProfileAnalyzer(api_key='')
         file_path = "dummy_users.json"
         
         users = analyzer.load_users_from_file(file_path)
