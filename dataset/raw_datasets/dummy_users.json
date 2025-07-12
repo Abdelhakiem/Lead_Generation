@@ -1,1198 +1,4 @@
-[
-  {
-    "UserName": "Hany Kamal",
-    "Age": 39,
-    "Gender": "Male",
-    "MaritalStatus": "Married",
-    "Education": "BSc Electrical Engineering",
-    "Job": "Maintenance Manager",
-    "Location": "Port Said",
-    "Interests": ["technology", "automotive", "sports"],
-    "Posts": [
-      "تمت ترقية أنظمة الإضاءة في مصنع بورسعيد لتحكم ذكي. التوفير في الطاقة واضح منذ الشهر الأول",
-      "ورشة صيانة السيارات الهجينة يوم الخميس في نادي المهندسين. الحضور مجاني للمهتمين",
-      "شاهدت مباراة المصري والاتحاد السكندري. الأداء كان متكافئاً رغم النتيجة",
-      "ارتفاع أسعار قطع غيار السيارات صعب على المواطن العادي. هل في بدائل محلية جيدة؟",
-      "نظام الإنذار الجديد في المصنع قلل الأعطال بنسبة 30% هذا الربع"
-    ]
-  },
-  {
-    "UserName": "Samira Adel",
-    "Age": 34,
-    "Gender": "Female",
-    "MaritalStatus": "Divorced",
-    "Education": "BA Commerce",
-    "Job": "Accountant",
-    "Location": "Tanta",
-    "Interests": ["finance", "education", "fashion"],
-    "Posts": [
-      "ورشة محاسبة إلكترونية للمشروعات الصغيرة في جمعية رجال الأعمال بالغربية",
-      "التغيرات الجديدة في قانون الضرائب تحتاج دراسة متأنية قبل التطبيق",
-      "الملابس الشتوية في محلات تاندا بأسعار معقولة هذا الموسم. الجودة مقبولة",
-      "نظام cloud accounting وفر وقت كبير في إعداد التقارير الشهرية",
-      "زيادة أسعار المواد الخام أثرت على موازنات كثير من الشركات المحلية"
-    ]
-  },
-  {
-    "UserName": "Mostafa Salem",
-    "Age": 45,
-    "Gender": "Male",
-    "MaritalStatus": "Widowed",
-    "Education": "Diploma in Agriculture",
-    "Job": "Farm Owner",
-    "Location": "Kafr El Sheikh",
-    "Interests": ["education", "health", "technology"],
-    "Posts": [
-      "بداية موسم زراعة القمح هذا الأسبوع. الأمطار الأخيرة مفيدة للأرض",
-      "ورشة عن الزراعة التعاقدية في مديرية الزراعة بكفر الشيخ",
-      "سعر الأسمدة هذا الموسم أعلى من العام الماضي بنسبة 15% تقريباً",
-      "تجربة نظام الري بالتنقيط الجديد أعطت نتائج جيدة في محصول الطماطم",
-      "الطلب على المنتجات العضوية في زيادة مستمرة رغم ارتفاع السعر"
-    ]
-  },
-  {
-    "UserName": "Dina Hassan",
-    "Age": 29,
-    "Gender": "Female",
-    "MaritalStatus": "Single",
-    "Education": "BSc Computer Science",
-    "Job": "IT Support Specialist",
-    "Location": "Maadi",
-    "Interests": ["technology", "music", "fashion"],
-    "Posts": [
-      "تحديث أنظمة الحماية في الشركة اكتمل بدون أي توقف للعمل",
-      "حفلة موسيقية في قاعة ساقية الصاوي يوم الجمعة. الأسعار في المتناول",
-      "الملابس الشتوية في مول العرب بتناسب مختلف الأذواق والأسعار",
-      "ورشة عن أمن المعلومات للموظفين الجدد الأسبوع القادم",
-      "ارتفاع الطلب على خدمات الصيانة المنزلية للتكنولوجيا في الفترة الأخيرة"
-    ]
-  },
-  {
-    "UserName": "Karim Fawzy",
-    "Age": 31,
-    "Gender": "Male",
-    "MaritalStatus": "Married",
-    "Education": "BSc Chemistry",
-    "Job": "Lab Supervisor",
-    "Location": "Suez",
-    "Interests": ["health", "technology", "sports"],
-    "Posts": [
-      "فحص جودة المياه في منطقة السويس الجديدة أظهر نتائج مطابقة للمواصفات",
-      "مباراة السلة بين النادي الأهلي ونادي السويس كانت متقاربة المستوى",
-      "التحديثات الجديدة في أجهزة المختبر سهلت عملية التحاليل الروتينية",
-      "ورشة سلامة المختبرات في غرفة الصناعات يوم الثلاثاء",
-      "ارتفاع أسعار المواد الكيميائية المستوردة يؤثر على تكلفة التحاليل"
-    ]
-  },
-  {
-    "UserName": "Nada Magdy",
-    "Age": 26,
-    "Gender": "Female",
-    "MaritalStatus": "Single",
-    "Education": "BA Translation",
-    "Job": "Freelance Translator",
-    "Location": "Heliopolis",
-    "Interests": ["education", "traveling", "music"],
-    "Posts": [
-      "ترجمة مستندات فنية لشركة مقاولات اكتملت في الموعد المحدد",
-      "رحلة إلى الغردقة الشهر القادم. الأسعار في الفنادق معقولة حالياً",
-      "ورشة الترجمة القانونية في المركز الثقافي الفرنسي بمصر الجديدة",
-      "حفلات الأوبرا هذا الشهر تشمل أعمالاً كلاسيكية وعربية",
-      "الطلب على الترجمة الطبية في ازدياد مع توسع القطاع الصحي"
-    ]
-  },
-  {
-    "UserName": "Adel Rashwan",
-    "Age": 50,
-    "Gender": "Male",
-    "MaritalStatus": "Married",
-    "Education": "High School",
-    "Job": "Bakery Owner",
-    "Location": "Damanhour",
-    "Interests": ["food", "health", "education"],
-    "Posts": [
-      "أسعار الدقيق المدعم هذا الشهر ثابتة والحمد لله",
-      "ورشة عن سلامة الغذاء في غرفة تجارة البحيرة الأسبوع القادم",
-      "الطلب على الخبز البلدي في زيادة مع بداية الشتاء",
-      "جودة القمح المحلي هذا الموسم أفضل من العام الماضي",
-      "التكاليف التشغيلية للمخابز ارتفعت لكن الأسعار ثابتة"
-    ]
-  },
-  {
-    "UserName": "Rania Kamel",
-    "Age": 36,
-    "Gender": "Female",
-    "MaritalStatus": "Divorced",
-    "Education": "Diploma in Nursing",
-    "Job": "Clinic Nurse",
-    "Location": "Beni Suef",
-    "Interests": ["health", "education", "fashion"],
-    "Posts": [
-      "حملة التطعيمات في المدارس الابتدائية ببني سويف اكتملت بنجاح",
-      "أسعار الأدوية الأساسية مستقرة هذا الشهر في الصيدليات",
-      "الملابس الشتوية في سوق بني سويف بتناسب مختلف الميزانيات",
-      "دورة إنعاش القلب الرئوي للمواطنين في مستشفى الجامعة",
-      "الوعي الصحي لدى الأهالي في تحسن ملحوظ خلال السنوات الأخيرة"
-    ]
-  },
-  {
-    "UserName": "Omar El-Sherif",
-    "Age": 28,
-    "Gender": "Male",
-    "MaritalStatus": "Single",
-    "Education": "BSc Mechanical Engineering",
-    "Job": "Production Engineer",
-    "Location": "10th of Ramadan City",
-    "Interests": ["technology", "automotive", "sports"],
-    "Posts": [
-      "تحسين خط الإنتاج في المصنع خفض وقت التصنيع 20%",
-      "أسعار السيارات المستعملة مستقرة نسبياً هذه الفترة",
-      "مباراة الزمالك والمقاولون كانت على مستوى جيد",
-      "ورشة صيانة المعدات الصناعية في مدينة العاشر",
-      "المواد الخام المحلية بدأت تنافس المستوردة في الجودة"
-    ]
-  },
-  {
-    "UserName": "Mona Abdel-Rahman",
-    "Age": 33,
-    "Gender": "Female",
-    "MaritalStatus": "Married",
-    "Education": "BA Economics",
-    "Job": "Bank Teller",
-    "Location": "Zamalek",
-    "Interests": ["finance", "education", "fashion"],
-    "Posts": [
-      "الفروع الجديدة للبنك في التجمع الخامس تقدم خدمات أسرع للعملاء",
-      "ورشة التوعية المصرفية للطلبة الجامعيين في فرع جامعة القاهرة",
-      "المعاملات الإلكترونية في البنك زادت 40% هذا العام",
-      "عروض الملابس الشتوية في سيتي سنتر مناسبة لمختلف الأذواق",
-      "سعر الدولار مستقر في البنوك خلال الأسبوع الحالي"
-    ]
-  },
-  {
-    "UserName": "Ahmed Sobhy",
-    "Age": 42,
-    "Gender": "Male",
-    "MaritalStatus": "Married",
-    "Education": "Diploma in Education",
-    "Job": "High School Teacher",
-    "Location": "Minya",
-    "Interests": ["education", "sports", "health"],
-    "Posts": [
-      "الاستعدادات لامتحانات الفصل الدراسي الأول بدأت في المدارس",
-      "مبادرة محو الأمية في قرى المنيا تحقق نتائج إيجابية",
-      "دورة الإسعافات الأولية للمعلمين في مديرية التربية والتعليم",
-      "نتائج مباريات كرة القدم للمدارس الثانوية الأسبوع القادم",
-      "تحسن مستوى الطلاب في المواد العلمية هذه السنة"
-    ]
-  },
-  {
-    "UserName": "Yasmin Fouad",
-    "Age": 30,
-    "Gender": "Female",
-    "MaritalStatus": "Single",
-    "Education": "BSc Pharmacy",
-    "Job": "Pharmacist",
-    "Location": "Sheikh Zayed",
-    "Interests": ["health", "education", "fashion"],
-    "Posts": [
-      "التوعية عن الاستخدام الصحيح للمضادات الحيوية في الصيدليات ضرورية",
-      "الملابس الشتوية في مول مصر أسعارها مناسبة هذا الموسم",
-      "دورة جديدة عن المكملات الغذائية في نقابة الصيادلة",
-      "أسعار الأدوية المزمنة مستقرة في السوق المحلي",
-      "الوعي الصحي لدى المرضى في تحسن ملحوظ"
-    ]
-  },
-  {
-    "UserName": "Tarek Mohamed",
-    "Age": 47,
-    "Gender": "Male",
-    "MaritalStatus": "Divorced",
-    "Education": "BSc Civil Engineering",
-    "Job": "Site Engineer",
-    "Location": "New Administrative Capital",
-    "Interests": ["technology", "sports", "automotive"],
-    "Posts": [
-      "مشروع العاصمة الإدارية يسير حسب الجدول الزمني المحدد",
-      "أسعار مواد البناء شهدت استقراراً نسبياً هذا الشهر",
-      "مباراة الأهلي والترجي كانت على مستوى تنافسي جيد",
-      "السيارات الكهربائية في مصر تحتاج بنية تحتية مناسبة",
-      "التقنيات الجديدة في البناء توفر الوقت والجهد"
-    ]
-  },
-  {
-    "UserName": "Sara El-Gabry",
-    "Age": 25,
-    "Gender": "Female",
-    "MaritalStatus": "Single",
-    "Education": "BA Mass Communication",
-    "Job": "Content Creator",
-    "Location": "Giza",
-    "Interests": ["fashion", "education", "music"],
-    "Posts": [
-      "ورشة إنشاء المحتوى الرقمي في جامعة القاهرة الأسبوع القادم",
-      "حفلات الموسيقى العربية في دار الأوبرا هذا الشهر متنوعة",
-      "عروض الأزياء في مول سيتي ستارز تشمل ماركات محلية وعالمية",
-      "الطلب على المحتوى التعليمي الإلكتروني في ازدياد مستمر",
-      "أسعار معدات التصوير شهدت انخفاضاً ملحوظاً مؤخراً"
-    ]
-  },
-  {
-    "UserName": "Hossam Ali",
-    "Age": 38,
-    "Gender": "Male",
-    "MaritalStatus": "Married",
-    "Education": "Diploma in Accounting",
-    "Job": "Warehouse Manager",
-    "Location": "Badr City",
-    "Interests": ["finance", "technology", "sports"],
-    "Posts": [
-      "نظام إدارة المستودعات الجديد حسن كفاءة العمل بنسبة 25%",
-      "أسعار الشحن الدولي شهدت انخفاضاً طفيفاً هذا الربع",
-      "دورة إدارة المخزون في غرفة تجارة القاهرة",
-      "مباريات الدوري العام لكرة القدم مستمرة بمستوى تنافسي جيد",
-      "المواد الخام في المستودعات تكفي للإنتاج لثلاثة أشهر"
-    ]
-  },
-  {
-    "UserName": "Amira Salah",
-    "Age": 32,
-    "Gender": "Female",
-    "MaritalStatus": "Married",
-    "Education": "BA English",
-    "Job": "Private Tutor",
-    "Location": "Nasr City",
-    "Interests": ["education", "traveling", "health"],
-    "Posts": [
-      "دورات اللغة الإنجليزية للكبار في المركز الثقافي البريطاني",
-      "رحلة إلى شرم الشيخ الشهر القادم. درجات الحرارة مناسبة حالياً",
-      "الوعي بأهمية التعليم المستمر في ازدياد بين الشباب",
-      "ورشة تطوير الذات للمرأة العاملة في جمعية الرعاية المتكاملة",
-      "المواد التعليمية الإلكترونية سهلت عملية التدريس عن بعد"
-    ]
-  },
-  {
-    "UserName": "Mohamed Ibrahim",
-    "Age": 44,
-    "Gender": "Male",
-    "MaritalStatus": "Married",
-    "Education": "BSc Commerce",
-    "Job": "Sales Manager",
-    "Location": "Mansoura",
-    "Interests": ["finance", "technology", "automotive"],
-    "Posts": [
-      "مبيعات الشركة هذا الربع تجاوزت التوقعات بنسبة 15%",
-      "السيارات الكهربائية في مصر تحتاج دعم حكومي لانتشار أوسع",
-      "نظام CRM الجديد حسن متابعة العملاء بشكل ملحوظ",
-      "الأسواق المحلية في الدلتا تشهد نمواً في القوة الشرائية",
-      "دورة المبيعات الاحترافية في غرفة تجارة الدقهلية"
-    ]
-  },
-  {
-    "UserName": "Fatma Mahmoud",
-    "Age": 29,
-    "Gender": "Female",
-    "MaritalStatus": "Single",
-    "Education": "Diploma in Graphic Design",
-    "Job": "Designer",
-    "Location": "New Cairo",
-    "Interests": ["fashion", "technology", "education"],
-    "Posts": [
-      "عروض الأزياء في مول العرب تشمل تصاميم مصرية وعالمية",
-      "ورشة التصميم الجرافيكي في الجامعة الأمريكية الأسبوع القادم",
-      "البرامج الحديثة للتصميم سهلت العمل وزادت الإنتاجية",
-      "دورات تطوير المهارات في مجال التصميم مطلوبة في سوق العمل",
-      "المعارض الفنية في الحي الثقافي بالسادس من أكتوبر تستحق الزيارة"
-    ]
-  },
-  {
-    "UserName": "Khaled Samir",
-    "Age": 51,
-    "Gender": "Male",
-    "MaritalStatus": "Divorced",
-    "Education": "BSc Agriculture",
-    "Job": "Irrigation Specialist",
-    "Location": "Fayoum",
-    "Interests": ["technology", "health", "education"],
-    "Posts": [
-      "نظم الري الحديثة في الفيوم ساهمت في توفير 30% من المياه",
-      "دورة الزراعة العضوية في مديرية الزراعة بالفيوم",
-      "أسعار المحاصيل الزراعية هذا الموسم أفضل من العام الماضي",
-      "الوعي بأهمية ترشيد المياه في ازدياد بين المزارعين",
-      "التقنيات الحديثة في الزراعة توفر الجهد وتزيد الإنتاج"
-    ]
-  },
-  {
-    "UserName": "Nourhan Ashraf",
-    "Age": 27,
-    "Gender": "Female",
-    "MaritalStatus": "Single",
-    "Education": "BSc Architecture",
-    "Job": "Junior Architect",
-    "Location": "Mohandeseen",
-    "Interests": ["technology", "education", "traveling"],
-    "Posts": [
-      "مشروع التخرج للطلبة الجدد في كلية الهندسة هذا العام مميز",
-      "البرامج الحديثة للتصميم المعماري سهلت عملية التصميم",
-      "رحلة إلى الإسكندرية نهاية الأسبوع. الطقس مناسب للزيارة",
-      "ورشة التصميم المستدام في نقابة المهندسين",
-      "التصاميم المعمارية الحديثة تراعي الظروف البيئية أكثر من قبل"
-    ]
-  },
-  {
-    "UserName": "Amgad Hassan",
-    "Age": 36,
-    "Gender": "Male",
-    "MaritalStatus": "Married",
-    "Education": "Diploma in Tourism",
-    "Job": "Travel Agent",
-    "Location": "Hurghada",
-    "Interests": ["traveling", "food", "sports"],
-    "Posts": [
-      "السياحة في الغردقة تشهد انتعاشاً هذا الموسم",
-      "عروض السفر إلى شرم الشيخ بأسعار تنافسية حالياً",
-      "المطاعم السياحية في المنطقة توفر أطباقاً متنوعة بجودة جيدة",
-      "الأنشطة البحرية متاحة للسياح بمستويات أمان عالية",
-      "دورة اللغة الروسية لموظفي السياحة في غرفة السياحة"
-    ]
-  },
-    {
-      "UserName": "Fatma Abdel-Rahman",
-      "Age": 28,
-      "Gender": "Female",
-      "MaritalStatus": "Single",
-      "Education": "BA English Literature",
-      "Job": "Teacher",
-      "Location": "Cairo",
-      "Interests": ["books", "traveling", "coffee"],
-      "Posts": [
-        "Just finished grading papers. Time for a cup of Nescafé! #teacherlife",
-        "Visited the Book Fair in Nasr City today. Got some great finds! #bookworm",
-        "Planning a trip to Alex. Any good coffee spots by the sea? #travel",
-        "بحب أقرأ روايات بالليل مع فنجان قهوة. الجو بيكون مثالي!",
-        "Started reading a new novel by Alaa Al Aswany. Loving it so far! #literature",
-        "النهاردة كنت في كافيه في وسط البلد. الجو كان تحفة!",
-        "Thinking of starting a book club at school. Any takers? #teaching",
-        "Went to the Nile Corniche with friends. Perfect evening vibes! #Cairo",
-        "بحب أسافر وأكتشف ثقافات جديدة. نفسى أروح الساحل الشمالي السنة دى.",
-        "Teaching Shakespeare today. Kids loved it more than I expected! #english"
-      ]
-    },
-    {
-      "UserName": "Ahmed Mostafa",
-      "Age": 35,
-      "Gender": "Male",
-      "MaritalStatus": "Married",
-      "Education": "BSc Computer Science",
-      "Job": "Software Developer",
-      "Location": "Giza",
-      "Interests": ["coding", "gaming", "music"],
-      "Posts": [
-        "Finally fixed that bug at work. Time to chill! #coding",
-        "Played FIFA with the guys last night. Epic match! #gaming",
-        "Listening to some Amr Diab tracks while coding. Keeps me going! #music",
-        "عايز أعمل بروجيكت جديد. حد عنده فكرة حلوة؟",
-        "Went to a tech meetup in Smart Village. Cool ideas there! #tech",
-        "الجو في الجيزة حلو النهاردة. نفسى ألعب بلايستيشن برة البيت!",
-        "Planning a weekend in Sahel. Any good spots for a quick getaway? #travel",
-        "Coding a new app for fun. Might share it soon! #developer",
-        "بحب أسمع أغاني قديمة وأنا بشتغل. بتديني طاقة!",
-        "Friday vibes: coffee, code, and some shaabi tunes. #Egypt"
-      ]
-    },
-    {
-      "UserName": "Noura El-Khouly",
-      "Age": 23,
-      "Gender": "Female",
-      "MaritalStatus": "Single",
-      "Education": "BSc Pharmacy",
-      "Job": "Pharmacist",
-      "Location": "Alexandria",
-      "Interests": ["health", "fashion", "sea"],
-      "Posts": [
-        "Busy day at the pharmacy. Time to unwind! #healthcare",
-        "Bought a new dress from San Stefano mall. Love it! #fashion",
-        "Walked by the sea at Montaza today. So relaxing! #Alex",
-        "بحب أتمشى على البحر بعد الشغل. بيريحني جدًا!",
-        "Learning about new meds at work. Always something new! #pharmacy",
-        "الجو في اسكندرية تحفة النهاردة. نفسى أروح المعمورة.",
-        "Planning a trip to Marsa Matrouh. Any beach recs? #travel",
-        "Tried a new skincare routine. My skin’s glowing! #selfcare",
-        "بحب أجرب حاجات جديدة في الموضة. النهاردة جبت جاكيت شيك!",
-        "Friday night by the Corniche with friends. Best vibes! #sea"
-      ]
-    },
-    {
-      "UserName": "Youssef El-Gamal",
-      "Age": 41,
-      "Gender": "Male",
-      "MaritalStatus": "Married",
-      "Education": "BA Business",
-      "Job": "Shop Owner",
-      "Location": "Mansoura",
-      "Interests": ["business", "food", "sports"],
-      "Posts": [
-        "Big sale at the shop today. Customers were happy! #business",
-        "Made koshari for dinner. Family loved it! #foodie",
-        "Watched the Zamalek match. What a game! #football",
-        "عايز أعمل منيو جديد للمحل. حد عنده اقتراحات؟",
-        "Went to the Mansoura stadium with my son. Fun day! #sports",
-        "الجو في المنصورة حلو النهاردة. نفسى أروح السوق أتمشى.",
-        "Planning a family trip to Damietta. Any food spots? #travel",
-        "Business is tough sometimes, but rewarding! #entrepreneur",
-        "بحب أجرب أكل جديد. النهاردة عملت محشي كرنب!",
-        "Friday prayers then a walk by the Nile. Perfect day! #Mansoura"
-      ]
-    },
-    {
-      "UserName": "Dina El-Sherbiny",
-      "Age": 30,
-      "Gender": "Female",
-      "MaritalStatus": "Divorced",
-      "Education": "BA Interior Design",
-      "Job": "Designer",
-      "Location": "Sharm El-Sheikh",
-      "Interests": ["design", "traveling", "yoga"],
-      "Posts": [
-        "Finished a new project for a client. Looks amazing! #design",
-        "Went snorkeling at Ras Mohammed. Stunning views! #travel",
-        "Morning yoga by the beach. Best way to start the day! #yoga",
-        "بحب أعمل ديكور جديد. النهاردة خلّصت غرفة تحفة!",
-        "Planning a trip to Dahab. Any chill spots? #Sharm",
-        "الجو في شرم حلو جدًا. نفسى أروح نعمة باي أتمشى.",
-        "Tried a new design trend. Clients loved it! #interiordesign",
-        "Yoga with a sea view is pure bliss! #wellness",
-        "بحب أسافر وأشوف أماكن مختلفة. نفسى أزور الأقصر قريب.",
-        "Friday vibes: coffee and sketching new ideas! #designer"
-      ]
-    },
-    {
-      "UserName": "Ibrahim El-Fouly",
-      "Age": 19,
-      "Gender": "Male",
-      "MaritalStatus": "Single",
-      "Education": "High School",
-      "Job": "Student",
-      "Location": "Aswan",
-      "Interests": ["gaming", "music", "friends"],
-      "Posts": [
-        "Aced my math exam today. Time to game! #studentlife",
-        "Played Call of Duty with the squad. We crushed it! #gaming",
-        "Listening to Tamer Hosny’s new song. On repeat! #music",
-        "بحب ألعب أونلاين مع أصحابي. النهاردة كسبنا كل الماتشات!",
-        "Went to Philae Temple with friends. Cool day out! #Aswan",
-        "الجو في أسوان حلو النهاردة. نفسى أروح النيل ألعب كورة.",
-        "Planning a hangout by the river. Any ideas? #chill",
-        "New headphones just arrived. Sound is unreal! #tech",
-        "بحب أسمع أغاني وأنا بذاكر. بتخليني أركز أكتر!",
-        "Friday night gaming marathon with the crew! #friends"
-      ]
-    },
-    {
-      "UserName": "Salma El-Zahhar",
-      "Age": 47,
-      "Gender": "Female",
-      "MaritalStatus": "Widowed",
-      "Education": "BSc Chemistry",
-      "Job": "Lab Technician",
-      "Location": "Hurghada",
-      "Interests": ["science", "cooking", "sea"],
-      "Posts": [
-        "Busy day at the lab. Experiments went well! #science",
-        "Made basbousa for the family. So yummy! #cooking",
-        "Walked by the Red Sea today. So peaceful! #Hurghada",
-        "بحب أعمل حلويات في البيت. النهاردة كانت ناجحة جدًا!",
-        "Learning new lab techniques at work. Exciting stuff! #chemistry",
-        "الجو في الغردقة تحفة. نفسى أروح الجونة أتمشى.",
-        "Planning a boat trip with friends. Any tips? #sea",
-        "Science and cooking are my therapy! #multitasking",
-        "بحب البحر والهدوء بتاعه. بيريح الاعصاب!",
-        "Friday vibes: tea and a good book by the shore! #relax"
-      ]
-    },
-    {
-      "UserName": "Khaled El-Badry",
-      "Age": 52,
-      "Gender": "Male",
-      "MaritalStatus": "Married",
-      "Education": "BA Law",
-      "Job": "Lawyer",
-      "Location": "Fayoum",
-      "Interests": ["law", "history", "traveling"],
-      "Posts": [
-        "Won a tough case today. Hard work pays off! #lawyer",
-        "Visited Wadi El Rayan. History and nature in one! #Fayoum",
-        "Planning a trip to Luxor. Any temple recs? #travel",
-        "عايز أزور أماكن أثرية جديدة. حد يعرف مكان حلو؟",
-        "Reading about ancient Egyptian laws. Fascinating! #history",
-        "الجو في الفيوم حلو النهاردة. نفسى أروح البحيرة أتمشى.",
-        "Court days are long, but rewarding! #justice",
-        "بحب أقرأ عن التاريخ القديم. بيفتح عيني على حاجات كتير!",
-        "Friday prayers then a walk by the lake. Perfect day! #peace",
-        "Thinking of writing a legal blog. Any interest? #law"
-      ]
-    },
-    {
-      "UserName": "Mariam El-Helaly",
-      "Age": 26,
-      "Gender": "Female",
-      "MaritalStatus": "Single",
-      "Education": "BA Marketing",
-      "Job": "Social Media Manager",
-      "Location": "Port Said",
-      "Interests": ["marketing", "fashion", "coffee"],
-      "Posts": [
-        "Launched a new campaign today. Fingers crossed! #marketing",
-        "Bought a new scarf from the local market. So chic! #fashion",
-        "Sipping coffee by the canal. Perfect morning! #PortSaid",
-        "بحب أشتغل على حملات جديدة. النهاردة كان يوم ممتع!",
-        "Planning a trip to Cairo. Any cool cafes? #travel",
-        "الجو في بورسعيد حلو النهاردة. نفسى أروح الكورنيش.",
-        "Tried a new coffee blend. Obsessed! #coffeeaddict",
-        "Social media trends change so fast. Gotta keep up! #work",
-        "بحب أجرب ستايلات جديدة. النهاردة لقيت جاكيت تحفة!",
-        "Friday vibes: coffee and brainstorming ideas! #creative"
-      ]
-    },
-    {
-      "UserName": "Samy El-Naggar",
-      "Age": 33,
-      "Gender": "Male",
-      "MaritalStatus": "Married",
-      "Education": "BSc Engineering",
-      "Job": "Civil Engineer",
-      "Location": "Suez",
-      "Interests": ["construction", "sports", "tech"],
-      "Posts": [
-        "Finished a bridge design today. Big win! #engineering",
-        "Watched the Ahly match last night. What a goal! #football",
-        "Checking out new construction tech. Cool stuff! #innovation",
-        "عايز أجرب أدوات جديدة في الشغل. حد عنده اقتراحات؟",
-        "Went jogging by the canal. Great workout! #Suez",
-        "الجو في السويس حلو النهاردة. نفسى أروح النادي ألعب.",
-        "Planning a trip to Ain Sokhna. Any recs? #travel",
-        "Building things is my passion! #construction",
-        "بحب أتابع ماتشات الكورة مع أصحابي. الجو بيكون رهيب!",
-        "Friday vibes: tea and planning new projects! #engineer"
-      ]
-    },
-    {
-      "UserName": "Lina El-Sherif",
-      "Age": 39,
-      "Gender": "Female",
-      "MaritalStatus": "Married",
-      "Education": "BA Education",
-      "Job": "School Principal",
-      "Location": "Tanta",
-      "Interests": ["education", "cooking", "family"],
-      "Posts": [
-        "Busy day at school. Kids are full of energy! #education",
-        "Made molokhia for dinner. Family approved! #cooking",
-        "Planning a family day out in Tanta. Any ideas? #family",
-        "بحب أعمل أكل للعيلة. النهاردة كان يوم مميز!",
-        "Met with teachers today. Great teamwork! #school",
-        "الجو في طنطا حلو النهاردة. نفسى أروح السوق أتسوق.",
-        "Kids’ exams are coming up. Busy season! #principal",
-        "Cooking and teaching are my two loves! #multitasking",
-        "بحب أقضي وقت مع العيلة. بيخليني أحس بالسعادة!",
-        "Friday vibes: coffee and family time! #Tanta"
-      ]
-    },
-    {
-      "UserName": "Hany El-Masry",
-      "Age": 45,
-      "Gender": "Male",
-      "MaritalStatus": "Divorced",
-      "Education": "BSc Agriculture",
-      "Job": "Farmer",
-      "Location": "Zagazig",
-      "Interests": ["farming", "nature", "food"],
-      "Posts": [
-        "Harvest season is here. Hard work but worth it! #farming",
-        "Went to the fields today. Nature is amazing! #Zagazig",
-        "Made fresh foul for breakfast. Best meal ever! #food",
-        "بحب أشتغل في الأرض. النهاردة كان يوم مرهق بس حلو!",
-        "Planning a trip to the Delta. Any nature spots? #travel",
-        "الجو في الزقازيق حلو النهاردة. نفسى أروح النهر أتمشى.",
-        "Fresh crops from the farm today. So proud! #agriculture",
-        "Farming life is tough but fulfilling! #nature",
-        "بحب الأكل البلدي. النهاردة عملت طعمية كمان!",
-        "Friday vibes: tea and a walk in the fields! #peace"
-      ]
-    },
-    {
-      "UserName": "Reem El-Kady",
-      "Age": 27,
-      "Gender": "Female",
-      "MaritalStatus": "Single",
-      "Education": "BA Journalism",
-      "Job": "Reporter",
-      "Location": "Beni Suef",
-      "Interests": ["news", "traveling", "photography"],
-      "Posts": [
-        "Filed a story today. Deadline met! #journalism",
-        "Took some pics by the Nile. Stunning views! #photography",
-        "Planning a trip to Minya. Any hidden gems? #travel",
-        "بحب أصور المناظر الطبيعية. النهاردة كنت عند النيل!",
-        "Covered a local event in Beni Suef. Busy day! #news",
-        "الجو في بني سويف حلو النهاردة. نفسى أروح الكورنيش.",
-        "Editing photos from last week’s shoot. Love this! #hobby",
-        "Reporting keeps me on my toes! #journalist",
-        "بحب أسافر وأكتشف حاجات جديدة. نفسى أزور سيوة قريب!",
-        "Friday vibes: coffee and writing my next piece! #work"
-      ]
-    },
-    {
-      "UserName": "Tamer El-Dessouky",
-      "Age": 36,
-      "Gender": "Male",
-      "MaritalStatus": "Married",
-      "Education": "BSc Medicine",
-      "Job": "Doctor",
-      "Location": "Damietta",
-      "Interests": ["health", "sports", "family"],
-      "Posts": [
-        "Long shift at the hospital today. Tired but happy! #doctor",
-        "Played football with friends. Great workout! #sports",
-        "Family dinner night. Made some kfta! #family",
-        "بحب أقضي وقت مع العيلة بعد الشغل. بيريحني جدًا!",
-        "Learning new medical techniques. Always growing! #health",
-        "الجو في دمياط حلو النهاردة. نفسى أروح البحر ألعب.",
-        "Planning a family trip to Ras El Bar. Any tips? #travel",
-        "Saving lives one patient at a time! #medicine",
-        "بحب ألعب كورة مع أصحابي. النهاردة كان ماتش رهيب!",
-        "Friday vibes: tea and chilling with the kids! #Damietta"
-      ]
-    },
-    {
-      "UserName": "Aya El-Sharkawy",
-      "Age": 31,
-      "Gender": "Female",
-      "MaritalStatus": "Single",
-      "Education": "BA Graphic Design",
-      "Job": "Freelancer",
-      "Location": "Ismailia",
-      "Interests": ["art", "music", "coffee"],
-      "Posts": [
-        "Finished a logo for a client. They loved it! #design",
-        "Listening to Fairouz while working. So soothing! #music",
-        "Sipping coffee by the canal. Perfect vibe! #Ismailia",
-        "بحب أشتغل على تصاميم جديدة. النهاردة كان يوم ممتع!",
-        "Planning a trip to Cairo. Any art spots? #travel",
-        "الجو في الإسماعيلية حلو النهاردة. نفسى أروح الكافيه.",
-        "Sketching some new ideas. Creativity flowing! #art",
-        "Freelancing is freedom and stress combined! #work",
-        "بحب أسمع أغاني قديمة وأنا بصمم. بتديني إلهام!",
-        "Friday vibes: coffee and a good playlist! #chill"
-      ]
-    },
-    {
-      "UserName": "Mostafa El-Gindy",
-      "Age": 50,
-      "Gender": "Male",
-      "MaritalStatus": "Married",
-      "Education": "BSc Economics",
-      "Job": "Bank Manager",
-      "Location": "Kafr El-Sheikh",
-      "Interests": ["finance", "history", "food"],
-      "Posts": [
-        "Busy day at the bank. Numbers everywhere! #finance",
-        "Visited a local museum. Loved the history! #KafrElSheikh",
-        "Made taameya for breakfast. Family loved it! #food",
-        "عايز أعرف رأيكم في الاستثمار في البورصة. حلو ولا لأ؟",
-        "Reading about Egypt’s economic past. So interesting! #history",
-        "الجو في كفر الشيخ حلو النهاردة. نفسى أروح السوق.",
-        "Planning a trip to Alex. Any food recs? #travel",
-        "Managing money is my game! #banking",
-        "بحب الأكل البلدي. النهاردة عملت محشي بطاطس!",
-        "Friday vibes: tea and a walk by the fields! #relax"
-      ]
-    },
-    {
-      "UserName": "Shaimaa El-Sayed",
-      "Age": 25,
-      "Gender": "Female",
-      "MaritalStatus": "Single",
-      "Education": "BA Psychology",
-      "Job": "Counselor",
-      "Location": "Minya",
-      "Interests": ["mentalhealth", "books", "nature"],
-      "Posts": [
-        "Helped a client today. Feels good! #counseling",
-        "Reading a psychology book by the Nile. Perfect! #books",
-        "Walked in the fields today. So calming! #Minya",
-        "بحب أقرأ عن الصحة النفسية. النهاردة بقرأ عن القلق!",
-        "Planning a trip to Beni Hasan. Any tips? #travel",
-        "الجو في المنيا حلو النهاردة. نفسى أروح الطبيعة.",
-        "Learning new therapy techniques. Exciting! #mentalhealth",
-        "Nature and books are my escape! #wellness",
-        "بحب أتمشى في الهوا النقي. بيريح الدماغ!",
-        "Friday vibes: tea and a good read! #chill"
-      ]
-    },
-    {
-      "UserName": "Adel El-Mahdy",
-      "Age": 43,
-      "Gender": "Male",
-      "MaritalStatus": "Married",
-      "Education": "BSc Physics",
-      "Job": "Teacher",
-      "Location": "Qena",
-      "Interests": ["science", "sports", "family"],
-      "Posts": [
-        "Taught a fun physics lesson today. Kids loved it! #science",
-        "Played basketball with friends. Great sweat! #sports",
-        "Family picnic by the Nile. Awesome day! #Qena",
-        "بحب أشرح العلوم للطلبة. النهاردة كان درس ممتع!",
-        "Planning a trip to Aswan. Any family spots? #travel",
-        "الجو في قنا حلو النهاردة. نفسى أروح النادي ألعب.",
-        "Experimented with a new teaching method. Worked well! #education",
-        "Science and family time are my balance! #life",
-        "بحب ألعب رياضة مع أصحابي. النهاردة كان ماتش حلو!",
-        "Friday vibes: coffee and chilling with the kids! #relax"
-      ]
-    },
-    {
-      "UserName": "Nada El-Farouk",
-      "Age": 29,
-      "Gender": "Female",
-      "MaritalStatus": "Single",
-      "Education": "BA Fine Arts",
-      "Job": "Painter",
-      "Location": "Sohag",
-      "Interests": ["art", "music", "traveling"],
-      "Posts": [
-        "Finished a new painting today. So proud! #art",
-        "Listening to Umm Kulthum while painting. Pure vibes! #music",
-        "Planning a trip to Luxor. Any art inspo? #travel",
-        "بحب أرسم وأنا بغني. النهاردة كان يوم ملهم!",
-        "Sold a piece at a local exhibit. Happy day! #Sohag",
-        "الجو في سوهاج حلو النهاردة. نفسى أروح النيل أرسم.",
-        "Tried a new art technique. Loving the results! #creative",
-        "Art is my soul’s language! #painter",
-        "بحب أسافر وأشوف أماكن جديدة. نفسى أزور الأقصر قريب!",
-        "Friday vibes: tea and sketching by the river! #chill"
-      ]
-    },
-    {
-      "UserName": "Ziad El-Rashidy",
-      "Age": 38,
-      "Gender": "Male",
-      "MaritalStatus": "Married",
-      "Education": "BSc Architecture",
-      "Job": "Architect",
-      "Location": "Assiut",
-      "Interests": ["design", "history", "food"],
-      "Posts": [
-        "Designed a new villa today. Exciting project! #architecture",
-        "Visited an old mosque in Assiut. Amazing history! #history",
-        "Made hawawshi for dinner. Family loved it! #food",
-        "بحب أصمم مباني جديدة. النهاردة كان يوم ممتع!",
-        "Planning a trip to Cairo. Any design inspo? #travel",
-        "الجو في أسيوط حلو النهاردة. نفسى أروح السوق أتمشى.",
-        "Reading about Pharaonic architecture. So cool! #design",
-        "Building dreams one blueprint at a time! #architect",
-        "بحب الأكل البيتي. النهاردة عملت مكرونة بالبشاميل!",
-        "Friday vibes: coffee and sketching new ideas! #work"
-      ]
-    },
-    {
-      "UserName": "Nermin Saleh",
-      "Age": 29,
-      "Gender": "Female",
-      "MaritalStatus": "Married",
-      "Education": "BSc Pharmacy",
-      "Job": "Pharmacist",
-      "Location": "Cairo",
-      "Interests": ["health", "education", "technology"],
-      "Posts": [
-        "شاركت اليوم في ورشة عمل عن الأدوية الحيوية وكيفية تخزينها بالشروط المناسبة لضمان الفعالية.",
-        "أنصح دائماً بالتحقق من تاريخ الصلاحية قبل استخدام أي دواء وتخزينه في مكان جاف وبارد.",
-        "حضرت ندوة عن التعلم الإلكتروني في كلية الصيدلة وكانت منصة Moodle سهلة الاستخدام للطلاب.",
-        "تابعت تقريراً عن تطبيقات الصحة الرقمية وكيف يمكن للمرضى متابعة ضغط الدم عبر الهاتف.",
-        "أعددت نشرة إرشادية عن التداخلات الدوائية الشائعة وشاركتها مع الزملاء داخل الصيدلية.",
-        "بدأت تعلم أساسيات Python لأتمتة بعض المهام الحسابية المتعلقة بالجرعات الدوائية.",
-        "شاركوني تجاربكم في استخدام تطبيقات متابعة الدواء وعدد مرات التذكير اليومية.",
-        "حضرت دورة عن إدارة المخزون بالصيدليات وكيفية تقليل الهدر باستخدام نظام FIFO.",
-        "نشرت دراسة صغيرة عن تأثير التكنولوجيا الحيوية في إنتاج اللقاحات الحديثة.",
-        "خططت لزيارة معرض الصحة القادم في القاهرة لعرض أحدث الأجهزة الطبية."
-      ]
-    },
-    {
-      "UserName": "Tala Mahmoud",
-      "Age": 24,
-      "Gender": "Female",
-      "MaritalStatus": "Single",
-      "Education": "BSc Graphic Design",
-      "Job": "Freelance Designer",
-      "Location": "Alexandria",
-      "Interests": ["technology", "traveling", "fashion"],
-      "Posts": [
-        "صممت اليوم شعاراً جديداً لمشروع صغير وأستخدمت ألوان هادئة لتعكس روح العلامة.",
-        "أنهيت جلسة تصوير للأزياء على كورنيش الإسكندرية واستفدت من الإضاءة الطبيعية.",
-        "ليس هناك أفضل من القهوة الصباحية أثناء العمل على مشروع جديد في المقهى.",
-        "شاركت في ورشة عن التصميم التفاعلي باستخدام Adobe XD وكانت تجربة مفيدة.",
-        "خططت لرحلة قصيرة إلى سيوة لاستكشاف النسيج الصحراوي واستخدامه في تصميم الأقمشة.",
-        "استخدمت تقنية grid في تنسيق البوسترات الجديدة للحصول على توازن بصري أفضل.",
-        "نشرت تصميمات لبطاقات دعوة زفاف على صفحتي وتلقيت ردود إيجابية من المتابعين.",
-        "أنصح بالاطلاع على مدونات التصميم العالمية لتوسيع المدارك واستلهام أفكار جديدة.",
-        "عملت اليوم على إعداد ملف PDF تفاعلي وعرضته على العميل عبر رابط مباشر.",
-        "احتفلت بإتمام مشروع branding كامل لشركة محلية وحصلت على تقييم ممتاز."
-      ]
-    },
-    {
-      "UserName": "Mahmoud Adel",
-      "Age": 33,
-      "Gender": "Male",
-      "MaritalStatus": "Married",
-      "Education": "MBA Finance",
-      "Job": "Accountant",
-      "Location": "Giza",
-      "Interests": ["finance", "food", "traveling"],
-      "Posts": [
-        "أغلقنا اليوم دفاتر شهر يونيو وتم إجراء مراجعة دقيقة للأرقام قبل العرض الإداري.",
-        "ناقشنا في الاجتماع الاستراتيجي تخصيص ميزانية جديدة لتطوير فرع الشركة في 6 أكتوبر.",
-        "جربت مطعم جديد في الزمالك يقدم وجبات صحية وبأسعار معقولة وشاركت رأيي مع الزملاء.",
-        "خططت لرحلة عمل قصيرة إلى الأقصر تشمل زيارة بعض المعابد والتعرف على التاريخ الاقتصادي القديم.",
-        "أعمل حالياً على نموذج Excel لتوقعات التدفقات النقدية للفصل القادم بناءً على بيانات السنة الماضية.",
-        "شارك برامج تخطيط موارد المؤسسات ERP ساعدنا في تقليل الأخطاء المحاسبية بنسبة ملحوظة.",
-        "أوصي باستخدام أدوات مثل Power BI لعرض التقارير المالية بطريقة تفاعلية وسهلة الفهم.",
-        "تناولت ساندويتش فول وفلافل في المقهى المجاور للمكتب وكان مثالياً لوجبة سريعة قبل الاجتماع.",
-        "حضرت ورشة عن معيار IFRS وأثره على إعداد القوائم المالية للشركات متعددة الجنسيات.",
-        "بدأت دراسة أساسيات Python لتحليل البيانات المالية وأتمتة بعض العمليات الروتينية."
-      ]
-    },
-    {
-      "UserName": "Asmaa El‑Kady",
-      "Age": 26,
-      "Gender": "Female",
-      "MaritalStatus": "Single",
-      "Education": "BSc Education",
-      "Job": "English Teacher",
-      "Location": "Mansoura",
-      "Interests": ["education", "music", "traveling"],
-      "Posts": [
-        "حضرت اليوم درساً تفاعلياً عن مهارات المحادثة ودمجت مقاطع صوتية لتدريب النطق.",
-        "أنشأت مجموعة دراسية على Telegram لمساعدة الطلاب على تبادل الموارد والأسئلة.",
-        "شاركت تجربة تطبيق Quizlet في مراجعة المفردات وكان له أثر إيجابي على الطلاب.",
-        "خططت لرحلة تعليمية إلى المتحف القومي للتاريخ الطبيعي لتعزيز جانبي الثقافة العامة.",
-        "استخدمت موسيقى هادئة أثناء اختبار القراءة لتحسين تركيز الطلبة وتقليل التوتر.",
-        "نشرت رابط فيديو تعليمي عن قواعد الأزمنة باللغة الإنجليزية وطلبت من المتابعين مشاركة آرائهم.",
-        "ناقشت مع زملائي طرق استخدام Kahoot في تقييم فهم الطلاب بطريقة ممتعة.",
-        "حضرت ورشة عن التعلم المدمج Blended Learning وتعرفت على منصات عديدة تدعم ذلك.",
-        "أنصح بتخصيص 10 دقائق يومياً لمراجعة الكلمات الجديدة للحفاظ على استمرارية التعلم.",
-        "عملت على إعداد درس عن الأدب الإنجليزي الكلاسيكي تضمن نصوصاً مشوقة وتمارين تفاعلية."
-      ]
-    },
-    {
-      "UserName": "Yassin Gamal",
-      "Age": 31,
-      "Gender": "Male",
-      "MaritalStatus": "Married",
-      "Education": "BSc Sports Science",
-      "Job": "Physiotherapist",
-      "Location": "Port Said",
-      "Interests": ["health", "sports", "music"],
-      "Posts": [
-        "أجرينا اليوم تقييم حالة رياضي مصاب بالتواء الكاحل وبدأنا خطة إعادة تأهيل مركزة.",
-        "أنصح بممارسة تمارين التمدد قبل وبعد التمرين للحد من خطر الإصابة وتحسين المرونة.",
-        "حضرت ورشة عمل عن تقنيات العلاج بالتحفيز الكهربائي وكيفية تطبيقها في العيادة.",
-        "استمعت لمقطوعات موسيقية هادئة أثناء جلسة العلاج فساهمت في استرخاء المريض.",
-        "شاركت فيديو قصير لشرح تمرين للتعافي من آلام أسفل الظهر ولاقى تفاعلاً جيداً.",
-        "خططت لرحلة ركض جماعي على كورنيش بورسعيد لتعزيز النشاط البدني بين الأصدقاء.",
-        "أعددت نشرة توعوية عن أهمية النوم الجيد ودوره في تحسين أداء الرياضيين.",
-        "ناقشت مع زملائي أحدث الدراسات حول تأثير العلاج اليدوي على سرعة الشفاء.",
-        "استخدمت تطبيق MyFitnessPal لمتابعة نظام التغذية الخاص بالمريض وإجراء التعديلات اللازمة.",
-        "أنشأت مجموعة دعم عبر WhatsApp للرياضيين لمتابعة التمارين وتبادل الخبرات."
-      ]
-    },
-    {
-      "UserName": "Rania Mostafa",
-      "Age": 28,
-      "Gender": "Female",
-      "MaritalStatus": "Single",
-      "Education": "BSc Tourism",
-      "Job": "Tour Guide",
-      "Location": "Luxor",
-      "Interests": ["traveling", "education", "food"],
-      "Posts": [
-        "أرشدت اليوم مجموعة سياحية لأبو سمبل وشاركتهم قصص التاريخ الفرعوني بأسلوب مشوق.",
-        "أنصح بزيارة وادي الملوك قبل الظهر للاستمتاع بالألوان الطبيعية داخل المقابر دون ازدحام كبير.",
-        "شاركت وصفة كركديه مثلجة مع السياح وكانت إضافة ممتعة لتجربتهم الصيفية.",
-        "حضرت تدريباً عن استخدام تقنيات الواقع الافتراضي في الجولات الافتراضية وأرى مستقبل مشرق.",
-        "خططت لجولة خاصة في صعيد مصر تتضمن ورش حرف يدوية وتجربة المطبخ المحلي في القرى.",
-        "نشرت صوراً للأعمدة الضخمة في معبد الكرنك مع شرح مبسط لأهميتها الأثرية.",
-        "استخدمت تطبيق Google Maps لتتبع مسار الجولة وتجنب المشاكل المرورية في المدينة القديمة.",
-        "أنشأت دليل PDF صغير يحتوي على أفضل المطاعم التي تقدم المأكولات النوبية.",
-        "حجزت رحلة نيلية خاصة لجموع صغيرة لتوفير تجربة هادئة ومميزة بعيدة عن الزحام.",
-        "شاركت تقييمات عن الفنادق المختلفة على TripAdvisor لمساعدة الزوار الجدد في الاختيار."
-      ]
-    },
-    {
-      "UserName": "Ihab Zaki",
-      "Age": 35,
-      "Gender": "Male",
-      "MaritalStatus": "Married",
-      "Education": "BSc Electrical Engineering",
-      "Job": "Systems Analyst",
-      "Location": "Aswan",
-      "Interests": ["technology", "finance", "traveling"],
-      "Posts": [
-        "قمت اليوم بتحليل متطلبات نظام إدارة الطاقة في محطة كهرباء وتوثيقها بدقة عالية.",
-        "ناقشت مع الفريق دمج مستشعرات IoT لمراقبة استهلاك الوقود وتحسين الكفاءة التشغيلية.",
-        "حضرت ندوة عن شبكات 5G وتأثيرها على الصناعة وتمت مناقشة جوانب الأمان والسرعة.",
-        "خططت لرحلة عمل إلى القاهرة لحضور مؤتمر عن التحول الرقمي في قطاع الطاقة.",
-        "أنهيت نموذج Excel لحساب تكاليف الصيانة الدورية واستخدمت دوال معقدة لتسريع العملية.",
-        "نشرت مقالاً قصيراً عن أهمية التمويل البنكي لتحديث البنية التحتية في المناطق النائية.",
-        "جربت مقهى جديد في أسوان يقدم المشروبات المثلجة والمناظر الخلابة على النيل.",
-        "أنصح باستخدام أدوات Visualization مثل Power BI لعرض البيانات الفنية بطريقة واضحة.",
-        "ناقشت آليات حماية الشبكات الصناعية في عرض قدمته لإدارة المحطة.",
-        "حضرت ورشة عمل عن إدارة المشاريع باستخدام Scrum وScrum Board لتتبع المهام."
-      ]
-    },
-    {
-      "UserName": "Heba Nabil",
-      "Age": 32,
-      "Gender": "Female",
-      "MaritalStatus": "Widowed",
-      "Education": "MSc Public Health",
-      "Job": "Health Administrator",
-      "Location": "Tanta",
-      "Interests": ["health", "education", "finance"],
-      "Posts": [
-        "أشرفت اليوم على توزيع اللقاحات في المستشفى وتأكدت من توافر جميع المعدات اللازمة.",
-        "ناقشت مع فريق الإدارة خطة تقليل الفاقد في الأدوية وتطبيق نظام المراقبة الإلكترونية.",
-        "حضرت دورة عن أساليب جمع البيانات الصحية الإلكترونية وكيفية تحليلها لاتخاذ القرارات.",
-        "أنشأت تقريراً ماليّاً يوضح تكاليف التشغيل والصيانة للفترة الماضية وأرسلته إلى الإدارة.",
-        "خططت لورشة تدريبية للكوادر الطبية عن مهارات التواصل مع المرضى وتحسين الخدمة.",
-        "شاركت دراسة عن دور الصحة المدرسية في تعزيز وعي الطلاب بالممارسات الصحية.",
-        "زارني وفد من منظمة الصحة العالمية للاطلاع على أفضل الممارسات داخل المستشفى.",
-        "نشرت توجيهاً للعاملين بأهمية التوثيق الدقيق لحركة المرضى وتقارير المتابعة.",
-        "استخدمت نظام إلكتروني لحجز المواعيد يقلل من الازدحام ويختصر وقت الانتظار.",
-        "أنصح بتخصيص جلسات دعم نفسي للمرضى بعد الإجراءات الجراحية لتسريع التعافي."
-      ]
-    },
-    {
-      "UserName": "Karim Radwan",
-      "Age": 38,
-      "Gender": "Male",
-      "MaritalStatus": "Married",
-      "Education": "BSc Automotive Engineering",
-      "Job": "Garage Owner",
-      "Location": "Fayoum",
-      "Interests": ["automotive", "finance", "traveling"],
-      "Posts": [
-        "استقبلت اليوم سيارة لشخصية معروفة وقمت بصيانة كاملة لنظام الفرامل وتغيير الزيوت.",
-        "أنصح بعمل صيانة دورية كل 5000 كيلومتر للحفاظ على أداء المحرك وتقليل التآكل.",
-        "ناقشت تسعير خدمات الصيانة مع المحاسب لضمان ربحية مناسبة وتنافسية في السوق المحلي.",
-        "خططت لرحلة بالدراجة النارية إلى رأس غارب نهاية الأسبوع لاستكشاف الطرق الصحراوية.",
-        "استخدمت قطع غيار أصلية لمنع المشاكل المستقبلية وتقديم خدمة موثوقة للعملاء.",
-        "نشرت فيديو يوضح طريقة تغيير فلتر الهواء في المنزل بمجهود بسيط وتكلفة منخفضة.",
-        "حصلت على تقييم خمس نجوم من عميل وشاركني رأيه الجيد عن سرعة وجودة الخدمة.",
-        "أنصح بتفقد ضغط الإطارات أسبوعياً لتجنب انعدام التوازن وتقليل استهلاك الوقود.",
-        "استخدمت برنامج حسابي لتتبع المخزون وتحديث الأسعار بشكل آلي داخل الورشة.",
-        "حضرت دورة عن تكنولوجيا المركبات الكهربائية واستعد لتقديم خدمات شحن وصيانة لها."
-      ]
-    },
-    {
-      "UserName": "Nadine Farid",
-      "Age": 25,
-      "Gender": "Female",
-      "MaritalStatus": "Single",
-      "Education": "BSc Music",
-      "Job": "Choir Conductor",
-      "Location": "Mansoura",
-      "Interests": ["music", "education", "traveling"],
-      "Posts": [
-        "قمت اليوم بتدريب جوقة الطلاب على مقطع كلاسيكي واستخدمت تمارين صوتية جديدة لتعزيز التناغم.",
-        "حجزت رحلة إلى القاهرة لحضور مهرجان الموسيقى الكلاسيكية وأتطلع لتبادل الخبرات.",
-        "نشرت مقطع فيديو قصير لتمرين الإحماء الصوتي وطلبت من المتابعين تجربته وتقييمه.",
-        "أنصح بالاستماع إلى مقطوعات Mozart قبل التدريبات لتهيئة الأذن والحنجرة.",
-        "حضرت ورشة عن تقنية الصوت المحيطي Surround Sound وكيفية استخدامه في الحفلات.",
-        "خططت لجولة ثقافية داخل مدينة تونة الجبل للتعرف على التراث الموسيقي القديم.",
-        "استخدمت تطبيق Sheet Music Scanner لتسهيل قراءة النوطة وتوفير الوقت في التحضير.",
-        "شاركت نصائح للحفاظ على الصحة الصوتية مثل شرب الماء الدافئ وتجنب المنبهات.",
-        "التنسيق مع فرق الآلات المختلفة يتطلب الصبر والتواصل الدقيق لضمان الانسجام.",
-        "سبق وقدمت حفل خيرية للأطفال في دار الأيتام لتعزيز ثقافة الموسيقى لديهم."
-      ]
-    },
-    {
-      "UserName": "Walid Sherif",
-      "Age": 30,
-      "Gender": "Male",
-      "MaritalStatus": "Married",
-      "Education": "BSc Civil Engineering",
-      "Job": "Site Engineer",
-      "Location": "Ismailia",
-      "Interests": ["technology", "finance", "sports"],
-      "Posts": [
-        "قمت اليوم بالإشراف على صب الخرسانة في أحد الأعمدة وتأكدت من جودة الخلط والاهتزاز المناسب.",
-        "ناقشت مع المقاول جدول تنفيذ الأعمال لتجنب التأخير وضمان الالتزام بالمواصفات الفنية.",
-        "حضرت ندوة عن برامج تصميم الإنشاءات باستخدام SAP2000 وكيفية تحليل الأحمال بدقة.",
-        "خططت لرحلة قصيرة لزيارة بحيرة التمساح واستكشاف الطبيعة الخلابة بعد ضغط العمل.",
-        "استخدمت تطبيقات إدارة المشاريع PM tools لتتبع تقدم العمل وتوثيق أي تغييرات.",
-        "أنصح بشرب كمية مناسبة من الماء وتناول وجبات خفيفة للحفاظ على الطاقة في المواقع الحارة.",
-        "تابعت مباراة كرة القدم بين الأهلي والزمالك وشجعت الفريق الأحمر بحماس مع الزملاء.",
-        "نشرت صوراً لعملية تركيب القوالب الخشبية قبل الصب لمشاركة التقدم مع العميل.",
-        "ناقشت استراتيجيات التمويل البنكي لمشروعات البنية التحتية مع قسم الشؤون المالية.",
-        "بدأت تعلم أساسيات GIS لاستخدامها في تخطيط مواقع المشاريع وتقييم التضاريس."
-      ]
-    },
-    {
-      "UserName": "Dina Kamel",
-      "Age": 26,
-      "Gender": "Female",
-      "MaritalStatus": "Single",
-      "Education": "BSc Fashion Design",
-      "Job": "Boutique Owner",
-      "Location": "Alexandria",
-      "Interests": ["fashion", "food", "traveling"],
-      "Posts": [
-        "افتتحت اليوم مجموعة جديدة من فساتين السهرة في البوتيك وكانت الإطلالات أنيقة وجذابة.",
-        "أنصح بزيارة المقهى المجاور لتناول المعجنات الفرنسية اللذيذة أثناء الاستراحة.",
-        "قمت برحلة قصيرة إلى واحة سيوة لاستلهام تصاميم مستوحاة من الثقافة البدوية.",
-        "أنجزت طلبية كبيرة لعرس هذا الأسبوع واختارت العروس فستاناً بتطريز يدوي مميز.",
-        "استخدمت خامات قطنية عالية الجودة في التشكيلة الصيفية لتوفير مزيد من الراحة.",
-        "شاركت صور القطع الجديدة على Instagram وتفاعلت مع متابعين أبدوا إعجابهم.",
-        "ننظم غداً عرض أزياء مصغر في البوتيك لدعوة العملاء وتجربة القطع قبل الشراء.",
-        "خططت لإقامة ورشة لتعليم أساسيات الخياطة للمبتدئين للاستفادة من المساحة الفارغة.",
-        "نشرت رابط الموقع الإلكتروني لتسهيل عرض الأسعار واستقبال الطلبات أونلاين.",
-        "أحضرت نباتات زرع صغيرة داخل المحل لإضفاء جو طبيعي ومريح للزوار."
-      ]
-    },
-    {
-      "UserName": "Hany Farouk",
-      "Age": 40,
-      "Gender": "Male",
-      "MaritalStatus": "Married",
-      "Education": "BSc Computer Engineering",
-      "Job": "Network Administrator",
-      "Location": "Giza",
-      "Interests": ["technology", "education", "finance"],
-      "Posts": [
-        "قمت اليوم بتحديث إعدادات الراوتر المركزي لضمان سرعة واستقرار الاتصال داخل الشركة.",
-        "ناقشت مع فريق تكنولوجيا المعلومات خطة الانتقال إلى بنية IPv6 لتجنب نفاد العناوين.",
-        "حضرت ورشة عن أمن الشبكات وكيفية استخدام VPN وfirewall لتعزيز الحماية.",
-        "بدأت في إعداد دورة تدريبية للموظفين عن الممارسات الجيدة في استخدام البريد الإلكتروني.",
-        "أنتهيت من إنشاء تقارير أداء الخادم باستخدام Grafana وPrometheus للعرض على الإدارة.",
-        "خططت لرحلة عمل قصيرة إلى الاسكندرية لحضور مؤتمر عن الذكاء الاصطناعي في الشبكات.",
-        "استخدمت أدوات مراقبة الشبكة لملاحظة حركة المرور وتحديد أي اختناقات محتملة.",
-        "أنصح بتغيير كلمات المرور دورياً وتفعيل المصادقة الثنائية لحسابات الموظفين.",
-        "نشرت مقالاً عن دمج تقنيات SDN في البنية التحتية للشركات المتوسطة الحجم.",
-        "شاركت مثالاً عملياً عن إعداد VLANs متعددة لضمان عزل حركة الشبكة بين الأقسام."
-      ]
-    },
-    {
-      "UserName": "Noha Salah",
-      "Age": 23,
-      "Gender": "Female",
-      "MaritalStatus": "Single",
-      "Education": "BSc Marketing",
-      "Job": "Social Media Coordinator",
-      "Location": "Shibin El Kom",
-      "Interests": ["marketing", "music", "fashion"],
-      "Posts": [
-        "نشرت اليوم خطة محتوى لشهر يوليو تشمل حملات تفاعلية ومسابقات على Facebook وInstagram.",
-        "حضرت جلسة تدريب عن أدوات التحليل Social Media Analytics وكيفية قياس معدلات التفاعل.",
-        "أنصح بإضافة فيديوهات قصيرة Reels لزيادة الوصول والتفاعل مع الجمهور بشكل أسرع.",
-        "جربت موسيقى هادئة في خلفية أحد الفيديوهات ولاحظت ارتفاع نسبة المشاهدة بنسبة 15%.",
-        "خططت لتعاون مع مؤثرين محليين في مجال الموضة لتوسيع نطاق العلامة التجارية.",
-        "استخدمت أداة Buffer لجدولة المنشورات وتوفير الوقت وترتيبها حسب أفضل توقيت للنشر.",
-        "شاركت صورة من جلسة التصوير الأخيرة مع تعليق عن مجموعة الصيف الجديدة.",
-        "ناقشت مع الفريق استراتيجية استخدام الهاشتاجات الصحيحة للوصول إلى شريحة أوسع.",
-        "حضرت ورشة عن كتابة النصوص الإعلانية Copywriting وكيفية جذب انتباه المتابعين.",
-        "شاركت مقطع Live للرد على أسئلة المتابعين حول أحدث العروض والمسابقات."
-      ]
-    },
-    {
-      "UserName": "Yara Adel",
-      "Age": 21,
-      "Gender": "Female",
-      "MaritalStatus": "Single",
-      "Education": "High School",
-      "Job": "Intern",
-      "Location": "Zagazig",
-      "Interests": ["education", "technology", "music"],
-      "Posts": [
-        "انضممت اليوم إلى فريق تدريب داخل شركة تقنية للتعرف على أساسيات البرمجة بلغة Java.",
-        "حضرت درساً عن مفاهيم Data Structures وربطتها بالمشاريع التطبيقية في الجامعة.",
-        "استمعت لموسيقى كلاسيكية أثناء مذاكرة المصطلحات التقنية لتعزيز التركيز وتقليل الإجهاد.",
-        "شاركت تجربتي الأولى في استخدام Git وGitHub لإدارة الأكواد ومتابعة التعديلات.",
-        "أنصح باتباع دورة online قصيرة قبل بدء التدريب لتكوين خلفية أساسية تساعد على السرعة.",
-        "قمت بإنشاء ملف README احترافي لعرض المهارات والمشاريع الشخصية على GitHub.",
-        "خططت لزيارة مكتبة الجامعة للبحث عن كتب متقدمة في الخوارزميات والتحليل العددي.",
-        "نشرت رابط مدونة شخصية كتبت فيها عن تجربتي كمتدربة وأهدافي المستقبلية في مجال التقنية.",
-        "جربت تطبيق Study Timer لتنظيم وقت المذاكرة والراحة بأوقات محددة لزيادة الفاعلية.",
-        "شاركت مع أصدقائي مجموعة موارد تعليمية مجانية على الإنترنت لدعم التعلم الذاتي."
-      ]
-    },
-    {
-      "UserName": "Mostafa El‑Helw",
-      "Age": 36,
-      "Gender": "Male",
-      "MaritalStatus": "Married",
-      "Education": "MBA Operations",
-      "Job": "Logistics Coordinator",
-      "Location": "Hurghada",
-      "Interests": ["finance", "traveling", "technology"],
-      "Posts": [
-        "تابعت اليوم تقريراً عن تأثر سلاسل التوريد العالمية بأزمة الشحن البحري وناقشت الإجراءات الوقائية.",
-        "استخدمنا نظام تتبع جديد لتسجيل وصول الشحنات وتقليل التأخير في التخليص الجمركي.",
-        "خططت لزيارة ميناء السويس الأسبوع القادم للاطلاع على أحدث المعدات اللوجستية.",
-        "ناقشت مع الشركاء المحليين إمكانية استخدام تطبيقات Blockchain لتعقب البضائع.",
-        "حضرت ورشة عن تحسين إدارة المخزون باستخدام Lean Principles لتقليل الهدر وتعظيم الكفاءة.",
-        "أنصح بتطبيق مؤشرات KPI شهرية لمتابعة أداء الشحنات ووقت التسليم بدقة.",
-        "شاركت بيانات تحليلية في تقرير Finance يوضح التكاليف الفعلية مقابل التوقعات الشهرية.",
-        "جربت خدمة تتبع رقمية عبر SMS لتزويد العملاء بمعلومات حالة الشحنة لحظة بلحظة.",
-        "خططت لجولة تعريفية قصيرة للقائمين على المستودعات لتدريبهم على النظام الجديد.",
-        "نشرت مقالاً مبسطاً عن دور التكنولوجيا في تحسين العمليات اللوجستية بالموقع الداخلي."
-      ]
-    },
-    {
-      "UserName": "Dalia Mostafa",
-      "Age": 28,
-      "Gender": "Female",
-      "MaritalStatus": "Single",
-      "Education": "BSc Food Science",
-      "Job": "Product Developer",
-      "Location": "Beni Suef",
-      "Interests": ["food", "health", "education"],
-      "Posts": [
-        "عملت اليوم على تطوير وصفة خبز غني بالألياف باستخدام دقيق الشوفان الكامل.",
-        "حضرت دورة عن معايير الجودة الغذائية ISO 22000 وكيفية تطبيقها في خطوط الإنتاج.",
-        "أنصح بإضافة بذور الكتان والعسل الطبيعي لزيادة القيمة الغذائية للطعام.",
-        "ناقشت مع فريق البحث مدى تأثير طرق التعبئة المختلفة على فترة صلاحية المنتجات.",
-        "نشرت عرضاً تقديمياً مبسطاً عن عناصر التصميم الغذائي لتغليف جذاب وعملي.",
-        "جربت وصفة بطاطس مشوية بتوابل صحية وقلت نسبة الملح مقارنة بالوصفة التقليدية.",
-        "شاركت نتائج اختبار حساسية لبعض العملاء على مكونات جديدة في العينة الأولية.",
-        "خططت لتنظيم ورشة تذوق مجانية لعرض منتجاتنا والحصول على تقييمات مباشرة.",
-        "استخدمت تطبيق Excel لتحليل بيانات الاستبيان حول تفضيلات الطعم والألوان.",
-        "حضرت لقاء مع طلاب كلية الزراعة لتعريفهم بمرحلة تطوير المنتجات الغذائية."
-      ]
-    },
-    {
-      "UserName": "Walid Farag",
-      "Age": 49,
-      "Gender": "Male",
-      "MaritalStatus": "Married",
-      "Education": "High School",
-      "Job": "Coffee Shop Owner",
-      "Location": "Sharm El Sheikh",
-      "Interests": ["food", "traveling", "finance"],
-      "Posts": [
-        "افتتحنا فرع جديد للمقهى على الكورنيش وكانت الإطلالة على البحر جذابة جداً للزبائن.",
-        "جربت حبوب قهوة من إثيوبيا وكانت نكهتها مميزة وشاركتها مع الزوار في جلسة تذوق.",
-        "أنصح بزوار شرم الشيخ بزيارة الكافيه خلال الغروب للاستمتاع بالجو والموسيقى الهادئة.",
-        "تابعت تقريراً عن تكلفة المعيشة في المدينة وقارنتها مع الإيرادات الشهرية للمقهى.",
-        "نشرت قائمة المشروبات الجديدة الصيفية وتلقيت طلبات كثيرة على الفانش ومشروبات الفواكه.",
-        "استخدمت برنامج مالي بسيط لإدارة الفواتير وتتبع الأرباح اليومية بسهولة.",
-        "خططت لتنظيم أمسية ثقافية تجمع بين الشعر والموسيقى لجذب شرائح جديدة من العملاء.",
-        "ناقشت مع الموظفين أهمية خدمة العملاء وتدريبهم على مهارات التواصل الفعال.",
-        "قمت بتحليل تكاليف التوريد من الموردين المحليين واختيار أفضل العروض لجودة عالية.",
-        "حضرت دورة عن تصميم ديكور داخلي للمقاهي وكيفية اختيار الإضاءة المناسبة."
-      ]
-    },
-    {
+[{
       "UserName": "Aya Shaker",
       "Age": 22,
       "Gender": "Female",
@@ -1200,7 +6,6 @@
       "Education": "High School",
       "Job": "Intern Graphic Designer",
       "Location": "Cairo",
-      "Interests": ["technology", "education", "fashion"],
       "Posts": [
         "بدأت التدريب اليوم على تصميم الشعارات التجارية واستخدمت أدوات Adobe Illustrator للمرة الأولى.",
         "حضرت درساً عن أساسيات الطباعة الثلاثية الألوان وكيفية اختيار الألوان المناسبة للعلامة.",
@@ -1213,7 +18,44 @@
         "ناقشت مع المستر المشرف استخدام تقنية wireframing قبل الانتقال إلى التصميم التفصيلي.",
         "جربت دمج عناصر عربية تقليدية في تصميم بطاقة عمل إلكترونية لعميل محلي."
       ]
-    },
+    },{
+    "UserName": "Nadia Fawzy",
+    "Age": 34,
+    "Gender": "Female",
+    "MaritalStatus": "Divorced",
+    "Education": "BEd Arabic Literature",
+    "Job": "High School Teacher",
+    "Location": "Asyut",
+    "Posts": [
+      "حضرت اليوم درس عن الأدب الجاهلي—طلاب المدرسة تفاعلوا بشكل مميز مع القصائد.",
+      "تجربتي مع مطعم Al‑Masry في أسيوط كانت ممتازة—koshari و molokhia لا يعلى عليهما! 🍛",
+      "Planning cultural field trip to Luxor—معابد الكرنك ووادي الملوك on the itinerary.",
+      "Shared link to educational resources: www.asuit‑edu.org/literature for colleagues and students.",
+      "Late night grading essays—found some تحليلات أدبية رائعة من الطلاب.",
+      "Anyone جرب تطبيق Kahoot لتنفيذ quizzes في الفصل؟ Looking for interactive tools.",
+      "Weekend workshop عن كتابة السيرة الذاتية للثانويين—hoping to empower students for future careers.",
+      "Listening to Abdel Halim Hafez before النوم gives me energy لليوم التالي. 🎶"
+    ]
+  },
+  {
+    "UserName": "Hussein Adel",
+    "Age": 20,
+    "Gender": "Male",
+    "MaritalStatus": "Single",
+    "Education": "Undergraduate BSc Computer Engineering",
+    "Job": "Student",
+    "Location": "Zagazig",
+    "Posts": [
+      "Finished my first FPGA project في lab—implemented simple UART communication. Feeling accomplished! 🖥️",
+      "لاحقاً هشارك في مسابقة البرمجة بـ ACM ICPC regional—wish me luck! 🤞",
+      "Anyone جرب Intel NUC كمبيوتر صغير للتطوير؟ بحب فكرة compact computing.",
+      "تابعت ماتش ليفربول ضد مانشستر يونايتد أمس—نهاية مثيرة! ⚽🔥",
+      "Late night gaming session: CS:GO مع الأصدقاء in LAN party—الأدرينالين عالي!",
+      "Reading about blockchain وتطبيقاته beyond cryptocurrency—could revolutionize supply chain.",
+      "Cooking my own pasta carbonara لأول مرة—نجحت التجربة واحلى نتيجة! 🍝",
+      "Shared link to my GitHub: github.com/hussein‑ael for capstone projects."
+    ]
+  },
     {
       "UserName": "Ramy Youssef",
       "Age": 45,
@@ -1222,7 +64,6 @@
       "Education": "BSc Civil Engineering",
       "Job": "Project Director",
       "Location": "Sohag",
-      "Interests": ["technology", "finance", "sports"],
       "Posts": [
         "تابعت اليوم سير الأعمال في مشروع جسر جديد وتأكدت من الالتزام بالمخططات الهندسية.",
         "ناقشت تخصيص الميزانية مع قسم المالية للتأكد من توفر الأموال لمراحل التنفيذ القادمة.",
@@ -1244,7 +85,6 @@
       "Education": "BSc Fashion Design",
       "Job": "Retail Buyer",
       "Location": "Mansoura",
-      "Interests": ["fashion", "traveling", "food"],
       "Posts": [
         "زرت مصنع أقمشة محلي في المنوفية اليوم لاختيار خامات جديدة لمجموعتنا القادمة.",
         "ناقشت مع فريق المشتريات شروط التفاوض على الأسعار وضمان جودة الأقمشة.",
@@ -1266,7 +106,6 @@
       "Education": "BSc Computer Science",
       "Job": "Software Engineer",
       "Location": "Cairo",
-      "Interests": ["technology", "traveling", "food"],
       "Posts": [
         "Just finished a great project using React and Node.js. Feeling accomplished! #webdev",
         "Planning a trip to Luxor next month. Any recommendations for must-see places? #travel",
@@ -1288,7 +127,6 @@
       "Education": "BA Literature",
       "Job": "Teacher",
       "Location": "Alexandria",
-      "Interests": ["education", "traveling", "music"],
       "Posts": [
         "Just started teaching a new class. Excited to inspire young minds! #education",
         "Visited the Bibliotheca Alexandrina today. Such a beautiful place! #history",
@@ -1310,11 +148,10 @@
       "Education": "MBA",
       "Job": "Business Consultant",
       "Location": "Mansoura",
-      "Interests": ["finance", "sports", "automotive"],
       "Posts": [
         "Analyzing the latest market trends. Interesting times ahead! #finance",
         "Watched the El Ahly vs Zamalek match last night. What a game! #football",
-        "Test drove the new Tesla Model 3. Impressive technology! #automotive",
+        "Test drove the new Tesla Model 3. Impressive ! #automotive",
         "عايز أعرف رأيكم في الاستثمار في العملات الرقمية. هل هو مجال واعد؟",
         "Attended a conference on sustainable business practices. Eye-opening! #sustainability",
         "Planning to start a podcast on business strategies. Any topic suggestions? #podcast",
@@ -1332,7 +169,6 @@
       "Education": "BSc Pharmacy",
       "Job": "Pharmacist",
       "Location": "Giza",
-      "Interests": ["health", "fashion", "food"],
       "Posts": [
         "Just finished a shift at the pharmacy. Long day but rewarding! #healthcare",
         "Tried a new skincare routine. My skin feels amazing! #beauty",
@@ -1354,7 +190,6 @@
       "Education": "BSc Engineering",
       "Job": "Civil Engineer",
       "Location": "Aswan",
-      "Interests": ["technology", "sports", "traveling"],
       "Posts": [
         "Working on a new construction project. Exciting times! #engineering",
         "Played football with friends over the weekend. Great exercise! #sports",
@@ -1376,7 +211,6 @@
       "Education": "BA Psychology",
       "Job": "Therapist",
       "Location": "Luxor",
-      "Interests": ["health", "education", "music"],
       "Posts": [
         "Just finished a therapy session. Feeling fulfilled! #mentalhealth",
         "Attended a workshop on mindfulness. Very enlightening! #wellness",
@@ -1398,7 +232,7 @@
       "Education": "High School",
       "Job": "Student",
       "Location": "Sharm El-Sheikh",
-      "Interests": ["sports", "music", "fashion"],
+
       "Posts": [
         "Just finished my exams. Time to relax! #studentlife",
         "Went surfing at Naama Bay. Awesome waves! #sports",
@@ -1420,13 +254,12 @@
       "Education": "BSc Architecture",
       "Job": "Architect",
       "Location": "Hurghada",
-      "Interests": ["technology", "traveling", "food"],
       "Posts": [
         "Working on a new design project. Exciting challenges! #architecture",
         "Visited the pyramids last week. Such an inspiration! #history",
         "Tried a new seafood restaurant. Delicious! #foodie",
         "بحب أجرب مأكولات جديدة. النهاردة كنت في مطعم ياباني.",
-        "Attended a conference on smart cities. Very informative! #technology",
+        "Attended a conference on smart cities. Very informative! #",
         "Planning a trip to Europe. Any city recommendations? #travel",
         "الجو في الغردقة حلو اليوم. نفسي أروح البحر أتمشى.",
         "Reading a book on sustainable architecture. Highly recommend it! #sustainability",
@@ -1442,7 +275,6 @@
       "Education": "BSc Agriculture",
       "Job": "Farmer",
       "Location": "Fayoum",
-      "Interests": ["health", "education", "automotive"],
       "Posts": [
         "Harvesting season is here. Hard work but rewarding! #farming",
         "Attended a workshop on organic farming. Learned a lot! #sustainability",
@@ -1464,7 +296,6 @@
       "Education": "BA Fine Arts",
       "Job": "Artist",
       "Location": "Port Said",
-      "Interests": ["fashion", "music", "traveling"],
       "Posts": [
         "Just finished a new painting. Feeling inspired! #art",
         "Attended a fashion show in Cairo. Amazing designs! #fashion",
@@ -1486,7 +317,6 @@
       "Education": "BSc Medicine",
       "Job": "Doctor",
       "Location": "Suez",
-      "Interests": ["health", "sports", "technology"],
       "Posts": [
         "Just finished a long shift at the hospital. Tired but satisfied! #healthcare",
         "Went for a run this morning. Great way to start the day! #fitness",
@@ -1508,7 +338,6 @@
       "Education": "BA History",
       "Job": "Museum Curator",
       "Location": "Aswan",
-      "Interests": ["education", "traveling", "food"],
       "Posts": [
         "Just organized a new exhibit at the museum. Exciting times! #history",
         "Visited the Nubian Museum today. Such a beautiful place! #culture",
@@ -1530,7 +359,6 @@
       "Education": "BSc Law",
       "Job": "Lawyer",
       "Location": "Tanta",
-      "Interests": ["finance", "sports", "automotive"],
       "Posts": [
         "Just won a case in court. Feeling accomplished! #law",
         "Watched the Egypt vs Tunisia match last night. Great game! #football",
@@ -1552,7 +380,6 @@
       "Education": "BA Marketing",
       "Job": "Marketing Specialist",
       "Location": "Zagazig",
-      "Interests": ["fashion", "music", "traveling"],
       "Posts": [
         "Just launched a new campaign. Excited to see the results! #marketing",
         "Attended a fashion show in Cairo. Amazing designs! #fashion",
@@ -1574,10 +401,9 @@
       "Education": "BSc Physics",
       "Job": "Researcher",
       "Location": "Beni Suef",
-      "Interests": ["technology", "education", "health"],
       "Posts": [
         "Just published a new research paper. Feeling proud! #science",
-        "Attended a conference on renewable energy. Very informative! #technology",
+        "Attended a conference on renewable energy. Very informative! #",
         "Went for a bike ride this morning. Great exercise! #fitness",
         "بحب أقرأ عن الفيزياء الكمية. النهاردة بقرأ عن التشابك الكمي.",
         "Planning a trip to the desert. Any recommendations for camping spots? #travel",
@@ -1596,7 +422,6 @@
       "Education": "BA Journalism",
       "Job": "Journalist",
       "Location": "Damietta",
-      "Interests": ["education", "traveling", "food"],
       "Posts": [
         "Just finished writing an article. Feeling accomplished! #journalism",
         "Visited the Damietta Museum today. Such a beautiful place! #culture",
@@ -1618,13 +443,12 @@
       "Education": "BSc Chemistry",
       "Job": "Chemist",
       "Location": "Ismailia",
-      "Interests": ["technology", "sports", "automotive"],
       "Posts": [
         "Working on a new experiment. Exciting times! #science",
         "Watched the Egypt vs Morocco match last night. Great game! #football",
         "Bought a new car. It's a beauty! #automotive",
         "عايز أعرف رأيكم في الاستثمار في التكنولوجيا. هل هو مجال واعد؟",
-        "Attended a seminar on chemical engineering. Very informative! #technology",
+        "Attended a seminar on chemical engineering. Very informative! #",
         "Planning a trip to the beach. Any recommendations? #travel",
         "الجو في الإسماعيلية جميل اليوم. نفسي أروح النادي ألعب تنس.",
         "Reading a book on organic chemistry. Highly recommend it! #chemistry",
@@ -1632,6 +456,1141 @@
         "الحياة ككيميائي بتكون مليانة تحديات، بس كمان مليانة اكتشافات. #chemistry"
       ]
     },
+  {
+    "UserName": "Hany Kamal",
+    "Age": 39,
+    "Gender": "Male",
+    "MaritalStatus": "Married",
+    "Education": "BSc Electrical Engineering",
+    "Job": "Maintenance Manager",
+    "Location": "Port Said",
+    "Posts": [
+      "تمت ترقية أنظمة الإضاءة في مصنع بورسعيد لتحكم ذكي. التوفير في الطاقة واضح منذ الشهر الأول",
+      "ورشة صيانة السيارات الهجينة يوم الخميس في نادي المهندسين. الحضور مجاني للمهتمين",
+      "شاهدت مباراة المصري والاتحاد السكندري. الأداء كان متكافئاً رغم النتيجة",
+      "ارتفاع أسعار قطع غيار السيارات صعب على المواطن العادي. هل في بدائل محلية جيدة؟",
+      "نظام الإنذار الجديد في المصنع قلل الأعطال بنسبة 30% هذا الربع"
+    ]
+  },
+  {
+    "UserName": "Samira Adel",
+    "Age": 34,
+    "Gender": "Female",
+    "MaritalStatus": "Divorced",
+    "Education": "BA Commerce",
+    "Job": "Accountant",
+    "Location": "Tanta",
+    "Posts": [
+      "ورشة محاسبة إلكترونية للمشروعات الصغيرة في جمعية رجال الأعمال بالغربية",
+      "التغيرات الجديدة في قانون الضرائب تحتاج دراسة متأنية قبل التطبيق",
+      "الملابس الشتوية في محلات تاندا بأسعار معقولة هذا الموسم. الجودة مقبولة",
+      "نظام cloud accounting وفر وقت كبير في إعداد التقارير الشهرية",
+      "زيادة أسعار المواد الخام أثرت على موازنات كثير من الشركات المحلية"
+    ]
+  },
+  {
+    "UserName": "Mostafa Salem",
+    "Age": 45,
+    "Gender": "Male",
+    "MaritalStatus": "Widowed",
+    "Education": "Diploma in Agriculture",
+    "Job": "Farm Owner",
+    "Location": "Kafr El Sheikh",
+    "Posts": [
+      "بداية موسم زراعة القمح هذا الأسبوع. الأمطار الأخيرة مفيدة للأرض",
+      "ورشة عن الزراعة التعاقدية في مديرية الزراعة بكفر الشيخ",
+      "سعر الأسمدة هذا الموسم أعلى من العام الماضي بنسبة 15% تقريباً",
+      "تجربة نظام الري بالتنقيط الجديد أعطت نتائج جيدة في محصول الطماطم",
+      "الطلب على المنتجات العضوية في زيادة مستمرة رغم ارتفاع السعر"
+    ]
+  },
+  {
+    "UserName": "Dina Hassan",
+    "Age": 29,
+    "Gender": "Female",
+    "MaritalStatus": "Single",
+    "Education": "BSc Computer Science",
+    "Job": "IT Support Specialist",
+    "Location": "Maadi",
+    "Posts": [
+      "تحديث أنظمة الحماية في الشركة اكتمل بدون أي توقف للعمل",
+      "حفلة موسيقية في قاعة ساقية الصاوي يوم الجمعة. الأسعار في المتناول",
+      "الملابس الشتوية في مول العرب بتناسب مختلف الأذواق والأسعار",
+      "ورشة عن أمن المعلومات للموظفين الجدد الأسبوع القادم",
+      "ارتفاع الطلب على خدمات الصيانة المنزلية للتكنولوجيا في الفترة الأخيرة"
+    ]
+  },
+  {
+    "UserName": "Karim Fawzy",
+    "Age": 31,
+    "Gender": "Male",
+    "MaritalStatus": "Married",
+    "Education": "BSc Chemistry",
+    "Job": "Lab Supervisor",
+    "Location": "Suez",
+    "Posts": [
+      "فحص جودة المياه في منطقة السويس الجديدة أظهر نتائج مطابقة للمواصفات",
+      "مباراة السلة بين النادي الأهلي ونادي السويس كانت متقاربة المستوى",
+      "التحديثات الجديدة في أجهزة المختبر سهلت عملية التحاليل الروتينية",
+      "ورشة سلامة المختبرات في غرفة الصناعات يوم الثلاثاء",
+      "ارتفاع أسعار المواد الكيميائية المستوردة يؤثر على تكلفة التحاليل"
+    ]
+  },
+  {
+    "UserName": "Nada Magdy",
+    "Age": 26,
+    "Gender": "Female",
+    "MaritalStatus": "Single",
+    "Education": "BA Translation",
+    "Job": "Freelance Translator",
+    "Location": "Heliopolis",
+    "Posts": [
+      "ترجمة مستندات فنية لشركة مقاولات اكتملت في الموعد المحدد",
+      "رحلة إلى الغردقة الشهر القادم. الأسعار في الفنادق معقولة حالياً",
+      "ورشة الترجمة القانونية في المركز الثقافي الفرنسي بمصر الجديدة",
+      "حفلات الأوبرا هذا الشهر تشمل أعمالاً كلاسيكية وعربية",
+      "الطلب على الترجمة الطبية في ازدياد مع توسع القطاع الصحي"
+    ]
+  },
+  {
+    "UserName": "Adel Rashwan",
+    "Age": 50,
+    "Gender": "Male",
+    "MaritalStatus": "Married",
+    "Education": "High School",
+    "Job": "Bakery Owner",
+    "Location": "Damanhour",
+    "Posts": [
+      "أسعار الدقيق المدعم هذا الشهر ثابتة والحمد لله",
+      "ورشة عن سلامة الغذاء في غرفة تجارة البحيرة الأسبوع القادم",
+      "الطلب على الخبز البلدي في زيادة مع بداية الشتاء",
+      "جودة القمح المحلي هذا الموسم أفضل من العام الماضي",
+      "التكاليف التشغيلية للمخابز ارتفعت لكن الأسعار ثابتة"
+    ]
+  },
+  {
+    "UserName": "Rania Kamel",
+    "Age": 36,
+    "Gender": "Female",
+    "MaritalStatus": "Divorced",
+    "Education": "Diploma in Nursing",
+    "Job": "Clinic Nurse",
+    "Location": "Beni Suef",
+    "Posts": [
+      "حملة التطعيمات في المدارس الابتدائية ببني سويف اكتملت بنجاح",
+      "أسعار الأدوية الأساسية مستقرة هذا الشهر في الصيدليات",
+      "الملابس الشتوية في سوق بني سويف بتناسب مختلف الميزانيات",
+      "دورة إنعاش القلب الرئوي للمواطنين في مستشفى الجامعة",
+      "الوعي الصحي لدى الأهالي في تحسن ملحوظ خلال السنوات الأخيرة"
+    ]
+  },
+  {
+    "UserName": "Omar El-Sherif",
+    "Age": 28,
+    "Gender": "Male",
+    "MaritalStatus": "Single",
+    "Education": "BSc Mechanical Engineering",
+    "Job": "Production Engineer",
+    "Location": "10th of Ramadan City",
+    "Posts": [
+      "تحسين خط الإنتاج في المصنع خفض وقت التصنيع 20%",
+      "أسعار السيارات المستعملة مستقرة نسبياً هذه الفترة",
+      "مباراة الزمالك والمقاولون كانت على مستوى جيد",
+      "ورشة صيانة المعدات الصناعية في مدينة العاشر",
+      "المواد الخام المحلية بدأت تنافس المستوردة في الجودة"
+    ]
+  },
+  {
+    "UserName": "Mona Abdel-Rahman",
+    "Age": 33,
+    "Gender": "Female",
+    "MaritalStatus": "Married",
+    "Education": "BA Economics",
+    "Job": "Bank Teller",
+    "Location": "Zamalek",
+    "Posts": [
+      "الفروع الجديدة للبنك في التجمع الخامس تقدم خدمات أسرع للعملاء",
+      "ورشة التوعية المصرفية للطلبة الجامعيين في فرع جامعة القاهرة",
+      "المعاملات الإلكترونية في البنك زادت 40% هذا العام",
+      "عروض الملابس الشتوية في سيتي سنتر مناسبة لمختلف الأذواق",
+      "سعر الدولار مستقر في البنوك خلال الأسبوع الحالي"
+    ]
+  },
+  {
+    "UserName": "Ahmed Sobhy",
+    "Age": 42,
+    "Gender": "Male",
+    "MaritalStatus": "Married",
+    "Education": "Diploma in Education",
+    "Job": "High School Teacher",
+    "Location": "Minya",
+    "Posts": [
+      "الاستعدادات لامتحانات الفصل الدراسي الأول بدأت في المدارس",
+      "مبادرة محو الأمية في قرى المنيا تحقق نتائج إيجابية",
+      "دورة الإسعافات الأولية للمعلمين في مديرية التربية والتعليم",
+      "نتائج مباريات كرة القدم للمدارس الثانوية الأسبوع القادم",
+      "تحسن مستوى الطلاب في المواد العلمية هذه السنة"
+    ]
+  },
+  {
+    "UserName": "Yasmin Fouad",
+    "Age": 30,
+    "Gender": "Female",
+    "MaritalStatus": "Single",
+    "Education": "BSc Pharmacy",
+    "Job": "Pharmacist",
+    "Location": "Sheikh Zayed",
+    "Posts": [
+      "التوعية عن الاستخدام الصحيح للمضادات الحيوية في الصيدليات ضرورية",
+      "الملابس الشتوية في مول مصر أسعارها مناسبة هذا الموسم",
+      "دورة جديدة عن المكملات الغذائية في نقابة الصيادلة",
+      "أسعار الأدوية المزمنة مستقرة في السوق المحلي",
+      "الوعي الصحي لدى المرضى في تحسن ملحوظ"
+    ]
+  },
+  {
+    "UserName": "Tarek Mohamed",
+    "Age": 47,
+    "Gender": "Male",
+    "MaritalStatus": "Divorced",
+    "Education": "BSc Civil Engineering",
+    "Job": "Site Engineer",
+    "Location": "New Administrative Capital",
+    "Posts": [
+      "مشروع العاصمة الإدارية يسير حسب الجدول الزمني المحدد",
+      "أسعار مواد البناء شهدت استقراراً نسبياً هذا الشهر",
+      "مباراة الأهلي والترجي كانت على مستوى تنافسي جيد",
+      "السيارات الكهربائية في مصر تحتاج بنية تحتية مناسبة",
+      "التقنيات الجديدة في البناء توفر الوقت والجهد"
+    ]
+  },
+  {
+    "UserName": "Sara El-Gabry",
+    "Age": 25,
+    "Gender": "Female",
+    "MaritalStatus": "Single",
+    "Education": "BA Mass Communication",
+    "Job": "Content Creator",
+    "Location": "Giza",
+    "Posts": [
+      "ورشة إنشاء المحتوى الرقمي في جامعة القاهرة الأسبوع القادم",
+      "حفلات الموسيقى العربية في دار الأوبرا هذا الشهر متنوعة",
+      "عروض الأزياء في مول سيتي ستارز تشمل ماركات محلية وعالمية",
+      "الطلب على المحتوى التعليمي الإلكتروني في ازدياد مستمر",
+      "أسعار معدات التصوير شهدت انخفاضاً ملحوظاً مؤخراً"
+    ]
+  },
+  {
+    "UserName": "Hossam Ali",
+    "Age": 38,
+    "Gender": "Male",
+    "MaritalStatus": "Married",
+    "Education": "Diploma in Accounting",
+    "Job": "Warehouse Manager",
+    "Location": "Badr City",
+    "Posts": [
+      "نظام إدارة المستودعات الجديد حسن كفاءة العمل بنسبة 25%",
+      "أسعار الشحن الدولي شهدت انخفاضاً طفيفاً هذا الربع",
+      "دورة إدارة المخزون في غرفة تجارة القاهرة",
+      "مباريات الدوري العام لكرة القدم مستمرة بمستوى تنافسي جيد",
+      "المواد الخام في المستودعات تكفي للإنتاج لثلاثة أشهر"
+    ]
+  },
+  {
+    "UserName": "Amira Salah",
+    "Age": 32,
+    "Gender": "Female",
+    "MaritalStatus": "Married",
+    "Education": "BA English",
+    "Job": "Private Tutor",
+    "Location": "Nasr City",
+    "Posts": [
+      "دورات اللغة الإنجليزية للكبار في المركز الثقافي البريطاني",
+      "رحلة إلى شرم الشيخ الشهر القادم. درجات الحرارة مناسبة حالياً",
+      "الوعي بأهمية التعليم المستمر في ازدياد بين الشباب",
+      "ورشة تطوير الذات للمرأة العاملة في جمعية الرعاية المتكاملة",
+      "المواد التعليمية الإلكترونية سهلت عملية التدريس عن بعد"
+    ]
+  },
+  {
+    "UserName": "Mohamed Ibrahim",
+    "Age": 44,
+    "Gender": "Male",
+    "MaritalStatus": "Married",
+    "Education": "BSc Commerce",
+    "Job": "Sales Manager",
+    "Location": "Mansoura",
+    "Posts": [
+      "مبيعات الشركة هذا الربع تجاوزت التوقعات بنسبة 15%",
+      "السيارات الكهربائية في مصر تحتاج دعم حكومي لانتشار أوسع",
+      "نظام CRM الجديد حسن متابعة العملاء بشكل ملحوظ",
+      "الأسواق المحلية في الدلتا تشهد نمواً في القوة الشرائية",
+      "دورة المبيعات الاحترافية في غرفة تجارة الدقهلية"
+    ]
+  },
+  {
+    "UserName": "Fatma Mahmoud",
+    "Age": 29,
+    "Gender": "Female",
+    "MaritalStatus": "Single",
+    "Education": "Diploma in Graphic Design",
+    "Job": "Designer",
+    "Location": "New Cairo",
+    "Posts": [
+      "عروض الأزياء في مول العرب تشمل تصاميم مصرية وعالمية",
+      "ورشة التصميم الجرافيكي في الجامعة الأمريكية الأسبوع القادم",
+      "البرامج الحديثة للتصميم سهلت العمل وزادت الإنتاجية",
+      "دورات تطوير المهارات في مجال التصميم مطلوبة في سوق العمل",
+      "المعارض الفنية في الحي الثقافي بالسادس من أكتوبر تستحق الزيارة"
+    ]
+  },
+  {
+    "UserName": "Khaled Samir",
+    "Age": 51,
+    "Gender": "Male",
+    "MaritalStatus": "Divorced",
+    "Education": "BSc Agriculture",
+    "Job": "Irrigation Specialist",
+    "Location": "Fayoum",
+    "Posts": [
+      "نظم الري الحديثة في الفيوم ساهمت في توفير 30% من المياه",
+      "دورة الزراعة العضوية في مديرية الزراعة بالفيوم",
+      "أسعار المحاصيل الزراعية هذا الموسم أفضل من العام الماضي",
+      "الوعي بأهمية ترشيد المياه في ازدياد بين المزارعين",
+      "التقنيات الحديثة في الزراعة توفر الجهد وتزيد الإنتاج"
+    ]
+  },
+  {
+    "UserName": "Nourhan Ashraf",
+    "Age": 27,
+    "Gender": "Female",
+    "MaritalStatus": "Single",
+    "Education": "BSc Architecture",
+    "Job": "Junior Architect",
+    "Location": "Mohandeseen",
+    "Posts": [
+      "مشروع التخرج للطلبة الجدد في كلية الهندسة هذا العام مميز",
+      "البرامج الحديثة للتصميم المعماري سهلت عملية التصميم",
+      "رحلة إلى الإسكندرية نهاية الأسبوع. الطقس مناسب للزيارة",
+      "ورشة التصميم المستدام في نقابة المهندسين",
+      "التصاميم المعمارية الحديثة تراعي الظروف البيئية أكثر من قبل"
+    ]
+  },
+  {
+    "UserName": "Amgad Hassan",
+    "Age": 36,
+    "Gender": "Male",
+    "MaritalStatus": "Married",
+    "Education": "Diploma in Tourism",
+    "Job": "Travel Agent",
+    "Location": "Hurghada",
+    "Posts": [
+      "السياحة في الغردقة تشهد انتعاشاً هذا الموسم",
+      "عروض السفر إلى شرم الشيخ بأسعار تنافسية حالياً",
+      "المطاعم السياحية في المنطقة توفر أطباقاً متنوعة بجودة جيدة",
+      "الأنشطة البحرية متاحة للسياح بمستويات أمان عالية",
+      "دورة اللغة الروسية لموظفي السياحة في غرفة السياحة"
+    ]
+  },
+    {
+      "UserName": "Fatma Abdel-Rahman",
+      "Age": 28,
+      "Gender": "Female",
+      "MaritalStatus": "Single",
+      "Education": "BA English Literature",
+      "Job": "Teacher",
+      "Location": "Cairo",
+      "Posts": [
+        "Just finished grading papers. Time for a cup of Nescafé! #teacherlife",
+        "Visited the Book Fair in Nasr City today. Got some great finds! #bookworm",
+        "Planning a trip to Alex. Any good coffee spots by the sea? #travel",
+        "بحب أقرأ روايات بالليل مع فنجان قهوة. الجو بيكون مثالي!",
+        "Started reading a new novel by Alaa Al Aswany. Loving it so far! #literature",
+        "النهاردة كنت في كافيه في وسط البلد. الجو كان تحفة!",
+        "Thinking of starting a book club at school. Any takers? #teaching",
+        "Went to the Nile Corniche with friends. Perfect evening vibes! #Cairo",
+        "بحب أسافر وأكتشف ثقافات جديدة. نفسى أروح الساحل الشمالي السنة دى.",
+        "Teaching Shakespeare today. Kids loved it more than I expected! #english"
+      ]
+    },
+    {
+      "UserName": "Ahmed Mostafa",
+      "Age": 35,
+      "Gender": "Male",
+      "MaritalStatus": "Married",
+      "Education": "BSc Computer Science",
+      "Job": "Software Developer",
+      "Location": "Giza",
+      "Posts": [
+        "Finally fixed that bug at work. Time to chill! #coding",
+        "Played FIFA with the guys last night. Epic match! #gaming",
+        "Listening to some Amr Diab tracks while coding. Keeps me going! #music",
+        "عايز أعمل بروجيكت جديد. حد عنده فكرة حلوة؟",
+        "Went to a tech meetup in Smart Village. Cool ideas there! #tech",
+        "الجو في الجيزة حلو النهاردة. نفسى ألعب بلايستيشن برة البيت!",
+        "Planning a weekend in Sahel. Any good spots for a quick getaway? #travel",
+        "Coding a new app for fun. Might share it soon! #developer",
+        "بحب أسمع أغاني قديمة وأنا بشتغل. بتديني طاقة!",
+        "Friday vibes: coffee, code, and some shaabi tunes. #Egypt"
+      ]
+    },
+    {
+      "UserName": "Noura El-Khouly",
+      "Age": 23,
+      "Gender": "Female",
+      "MaritalStatus": "Single",
+      "Education": "BSc Pharmacy",
+      "Job": "Pharmacist",
+      "Location": "Alexandria",
+      "Posts": [
+        "Busy day at the pharmacy. Time to unwind! #healthcare",
+        "Bought a new dress from San Stefano mall. Love it! #fashion",
+        "Walked by the sea at Montaza today. So relaxing! #Alex",
+        "بحب أتمشى على البحر بعد الشغل. بيريحني جدًا!",
+        "Learning about new meds at work. Always something new! #pharmacy",
+        "الجو في اسكندرية تحفة النهاردة. نفسى أروح المعمورة.",
+        "Planning a trip to Marsa Matrouh. Any beach recs? #travel",
+        "Tried a new skincare routine. My skin’s glowing! #selfcare",
+        "بحب أجرب حاجات جديدة في الموضة. النهاردة جبت جاكيت شيك!",
+        "Friday night by the Corniche with friends. Best vibes! #sea"
+      ]
+    },
+    {
+      "UserName": "Youssef El-Gamal",
+      "Age": 41,
+      "Gender": "Male",
+      "MaritalStatus": "Married",
+      "Education": "BA Business",
+      "Job": "Shop Owner",
+      "Location": "Mansoura",
+      "Posts": [
+        "Big sale at the shop today. Customers were happy! #business",
+        "Made koshari for dinner. Family loved it! #foodie",
+        "Watched the Zamalek match. What a game! #football",
+        "عايز أعمل منيو جديد للمحل. حد عنده اقتراحات؟",
+        "Went to the Mansoura stadium with my son. Fun day! #sports",
+        "الجو في المنصورة حلو النهاردة. نفسى أروح السوق أتمشى.",
+        "Planning a family trip to Damietta. Any food spots? #travel",
+        "Business is tough sometimes, but rewarding! #entrepreneur",
+        "بحب أجرب أكل جديد. النهاردة عملت محشي كرنب!",
+        "Friday prayers then a walk by the Nile. Perfect day! #Mansoura"
+      ]
+    },
+    {
+      "UserName": "Dina El-Sherbiny",
+      "Age": 30,
+      "Gender": "Female",
+      "MaritalStatus": "Divorced",
+      "Education": "BA Interior Design",
+      "Job": "Designer",
+      "Location": "Sharm El-Sheikh",
+      "Posts": [
+        "Finished a new project for a client. Looks amazing! #design",
+        "Went snorkeling at Ras Mohammed. Stunning views! #travel",
+        "Morning yoga by the beach. Best way to start the day! #yoga",
+        "بحب أعمل ديكور جديد. النهاردة خلّصت غرفة تحفة!",
+        "Planning a trip to Dahab. Any chill spots? #Sharm",
+        "الجو في شرم حلو جدًا. نفسى أروح نعمة باي أتمشى.",
+        "Tried a new design trend. Clients loved it! #interiordesign",
+        "Yoga with a sea view is pure bliss! #wellness",
+        "بحب أسافر وأشوف أماكن مختلفة. نفسى أزور الأقصر قريب.",
+        "Friday vibes: coffee and sketching new ideas! #designer"
+      ]
+    },
+    {
+      "UserName": "Ibrahim El-Fouly",
+      "Age": 19,
+      "Gender": "Male",
+      "MaritalStatus": "Single",
+      "Education": "High School",
+      "Job": "Student",
+      "Location": "Aswan",
+      "Posts": [
+        "Aced my math exam today. Time to game! #studentlife",
+        "Played Call of Duty with the squad. We crushed it! #gaming",
+        "Listening to Tamer Hosny’s new song. On repeat! #music",
+        "بحب ألعب أونلاين مع أصحابي. النهاردة كسبنا كل الماتشات!",
+        "Went to Philae Temple with friends. Cool day out! #Aswan",
+        "الجو في أسوان حلو النهاردة. نفسى أروح النيل ألعب كورة.",
+        "Planning a hangout by the river. Any ideas? #chill",
+        "New headphones just arrived. Sound is unreal! #tech",
+        "بحب أسمع أغاني وأنا بذاكر. بتخليني أركز أكتر!",
+        "Friday night gaming marathon with the crew! #friends"
+      ]
+    },
+    {
+      "UserName": "Salma El-Zahhar",
+      "Age": 47,
+      "Gender": "Female",
+      "MaritalStatus": "Widowed",
+      "Education": "BSc Chemistry",
+      "Job": "Lab Technician",
+      "Location": "Hurghada",
+      "Posts": [
+        "Busy day at the lab. Experiments went well! #science",
+        "Made basbousa for the family. So yummy! #cooking",
+        "Walked by the Red Sea today. So peaceful! #Hurghada",
+        "بحب أعمل حلويات في البيت. النهاردة كانت ناجحة جدًا!",
+        "Learning new lab techniques at work. Exciting stuff! #chemistry",
+        "الجو في الغردقة تحفة. نفسى أروح الجونة أتمشى.",
+        "Planning a boat trip with friends. Any tips? #sea",
+        "Science and cooking are my therapy! #multitasking",
+        "بحب البحر والهدوء بتاعه. بيريح الاعصاب!",
+        "Friday vibes: tea and a good book by the shore! #relax"
+      ]
+    },
+    {
+      "UserName": "Khaled El-Badry",
+      "Age": 52,
+      "Gender": "Male",
+      "MaritalStatus": "Married",
+      "Education": "BA Law",
+      "Job": "Lawyer",
+      "Location": "Fayoum",
+      "Posts": [
+        "Won a tough case today. Hard work pays off! #lawyer",
+        "Visited Wadi El Rayan. History and nature in one! #Fayoum",
+        "Planning a trip to Luxor. Any temple recs? #travel",
+        "عايز أزور أماكن أثرية جديدة. حد يعرف مكان حلو؟",
+        "Reading about ancient Egyptian laws. Fascinating! #history",
+        "الجو في الفيوم حلو النهاردة. نفسى أروح البحيرة أتمشى.",
+        "Court days are long, but rewarding! #justice",
+        "بحب أقرأ عن التاريخ القديم. بيفتح عيني على حاجات كتير!",
+        "Friday prayers then a walk by the lake. Perfect day! #peace",
+        "Thinking of writing a legal blog. Any interest? #law"
+      ]
+    },
+    {
+      "UserName": "Mariam El-Helaly",
+      "Age": 26,
+      "Gender": "Female",
+      "MaritalStatus": "Single",
+      "Education": "BA Marketing",
+      "Job": "Social Media Manager",
+      "Location": "Port Said",
+      "Posts": [
+        "Launched a new campaign today. Fingers crossed! #marketing",
+        "Bought a new scarf from the local market. So chic! #fashion",
+        "Sipping coffee by the canal. Perfect morning! #PortSaid",
+        "بحب أشتغل على حملات جديدة. النهاردة كان يوم ممتع!",
+        "Planning a trip to Cairo. Any cool cafes? #travel",
+        "الجو في بورسعيد حلو النهاردة. نفسى أروح الكورنيش.",
+        "Tried a new coffee blend. Obsessed! #coffeeaddict",
+        "Social media trends change so fast. Gotta keep up! #work",
+        "بحب أجرب ستايلات جديدة. النهاردة لقيت جاكيت تحفة!",
+        "Friday vibes: coffee and brainstorming ideas! #creative"
+      ]
+    },
+    {
+      "UserName": "Samy El-Naggar",
+      "Age": 33,
+      "Gender": "Male",
+      "MaritalStatus": "Married",
+      "Education": "BSc Engineering",
+      "Job": "Civil Engineer",
+      "Location": "Suez",
+      "Posts": [
+        "Finished a bridge design today. Big win! #engineering",
+        "Watched the Ahly match last night. What a goal! #football",
+        "Checking out new construction tech. Cool stuff! #innovation",
+        "عايز أجرب أدوات جديدة في الشغل. حد عنده اقتراحات؟",
+        "Went jogging by the canal. Great workout! #Suez",
+        "الجو في السويس حلو النهاردة. نفسى أروح النادي ألعب.",
+        "Planning a trip to Ain Sokhna. Any recs? #travel",
+        "Building things is my passion! #construction",
+        "بحب أتابع ماتشات الكورة مع أصحابي. الجو بيكون رهيب!",
+        "Friday vibes: tea and planning new projects! #engineer"
+      ]
+    },
+    {
+      "UserName": "Lina El-Sherif",
+      "Age": 39,
+      "Gender": "Female",
+      "MaritalStatus": "Married",
+      "Education": "BA Education",
+      "Job": "School Principal",
+      "Location": "Tanta",
+      "Posts": [
+        "Busy day at school. Kids are full of energy! #education",
+        "Made molokhia for dinner. Family approved! #cooking",
+        "Planning a family day out in Tanta. Any ideas? #family",
+        "بحب أعمل أكل للعيلة. النهاردة كان يوم مميز!",
+        "Met with teachers today. Great teamwork! #school",
+        "الجو في طنطا حلو النهاردة. نفسى أروح السوق أتسوق.",
+        "Kids’ exams are coming up. Busy season! #principal",
+        "Cooking and teaching are my two loves! #multitasking",
+        "بحب أقضي وقت مع العيلة. بيخليني أحس بالسعادة!",
+        "Friday vibes: coffee and family time! #Tanta"
+      ]
+    },
+    {
+      "UserName": "Hany El-Masry",
+      "Age": 45,
+      "Gender": "Male",
+      "MaritalStatus": "Divorced",
+      "Education": "BSc Agriculture",
+      "Job": "Farmer",
+      "Location": "Zagazig",
+      "Posts": [
+        "Harvest season is here. Hard work but worth it! #farming",
+        "Went to the fields today. Nature is amazing! #Zagazig",
+        "Made fresh foul for breakfast. Best meal ever! #food",
+        "بحب أشتغل في الأرض. النهاردة كان يوم مرهق بس حلو!",
+        "Planning a trip to the Delta. Any nature spots? #travel",
+        "الجو في الزقازيق حلو النهاردة. نفسى أروح النهر أتمشى.",
+        "Fresh crops from the farm today. So proud! #agriculture",
+        "Farming life is tough but fulfilling! #nature",
+        "بحب الأكل البلدي. النهاردة عملت طعمية كمان!",
+        "Friday vibes: tea and a walk in the fields! #peace"
+      ]
+    },
+    {
+      "UserName": "Reem El-Kady",
+      "Age": 27,
+      "Gender": "Female",
+      "MaritalStatus": "Single",
+      "Education": "BA Journalism",
+      "Job": "Reporter",
+      "Location": "Beni Suef",
+      "Posts": [
+        "Filed a story today. Deadline met! #journalism",
+        "Took some pics by the Nile. Stunning views! #photography",
+        "Planning a trip to Minya. Any hidden gems? #travel",
+        "بحب أصور المناظر الطبيعية. النهاردة كنت عند النيل!",
+        "Covered a local event in Beni Suef. Busy day! #news",
+        "الجو في بني سويف حلو النهاردة. نفسى أروح الكورنيش.",
+        "Editing photos from last week’s shoot. Love this! #hobby",
+        "Reporting keeps me on my toes! #journalist",
+        "بحب أسافر وأكتشف حاجات جديدة. نفسى أزور سيوة قريب!",
+        "Friday vibes: coffee and writing my next piece! #work"
+      ]
+    },
+    {
+      "UserName": "Tamer El-Dessouky",
+      "Age": 36,
+      "Gender": "Male",
+      "MaritalStatus": "Married",
+      "Education": "BSc Medicine",
+      "Job": "Doctor",
+      "Location": "Damietta",
+      "Posts": [
+        "Long shift at the hospital today. Tired but happy! #doctor",
+        "Played football with friends. Great workout! #sports",
+        "Family dinner night. Made some kfta! #family",
+        "بحب أقضي وقت مع العيلة بعد الشغل. بيريحني جدًا!",
+        "Learning new medical techniques. Always growing! #health",
+        "الجو في دمياط حلو النهاردة. نفسى أروح البحر ألعب.",
+        "Planning a family trip to Ras El Bar. Any tips? #travel",
+        "Saving lives one patient at a time! #medicine",
+        "بحب ألعب كورة مع أصحابي. النهاردة كان ماتش رهيب!",
+        "Friday vibes: tea and chilling with the kids! #Damietta"
+      ]
+    },
+    {
+      "UserName": "Aya El-Sharkawy",
+      "Age": 31,
+      "Gender": "Female",
+      "MaritalStatus": "Single",
+      "Education": "BA Graphic Design",
+      "Job": "Freelancer",
+      "Location": "Ismailia",
+      "Posts": [
+        "Finished a logo for a client. They loved it! #design",
+        "Listening to Fairouz while working. So soothing! #music",
+        "Sipping coffee by the canal. Perfect vibe! #Ismailia",
+        "بحب أشتغل على تصاميم جديدة. النهاردة كان يوم ممتع!",
+        "Planning a trip to Cairo. Any art spots? #travel",
+        "الجو في الإسماعيلية حلو النهاردة. نفسى أروح الكافيه.",
+        "Sketching some new ideas. Creativity flowing! #art",
+        "Freelancing is freedom and stress combined! #work",
+        "بحب أسمع أغاني قديمة وأنا بصمم. بتديني إلهام!",
+        "Friday vibes: coffee and a good playlist! #chill"
+      ]
+    },
+    {
+      "UserName": "Mostafa El-Gindy",
+      "Age": 50,
+      "Gender": "Male",
+      "MaritalStatus": "Married",
+      "Education": "BSc Economics",
+      "Job": "Bank Manager",
+      "Location": "Kafr El-Sheikh",
+      "Posts": [
+        "Busy day at the bank. Numbers everywhere! #finance",
+        "Visited a local museum. Loved the history! #KafrElSheikh",
+        "Made taameya for breakfast. Family loved it! #food",
+        "عايز أعرف رأيكم في الاستثمار في البورصة. حلو ولا لأ؟",
+        "Reading about Egypt’s economic past. So interesting! #history",
+        "الجو في كفر الشيخ حلو النهاردة. نفسى أروح السوق.",
+        "Planning a trip to Alex. Any food recs? #travel",
+        "Managing money is my game! #banking",
+        "بحب الأكل البلدي. النهاردة عملت محشي بطاطس!",
+        "Friday vibes: tea and a walk by the fields! #relax"
+      ]
+    },
+    {
+      "UserName": "Shaimaa El-Sayed",
+      "Age": 25,
+      "Gender": "Female",
+      "MaritalStatus": "Single",
+      "Education": "BA Psychology",
+      "Job": "Counselor",
+      "Location": "Minya",
+      "Posts": [
+        "Helped a client today. Feels good! #counseling",
+        "Reading a psychology book by the Nile. Perfect! #books",
+        "Walked in the fields today. So calming! #Minya",
+        "بحب أقرأ عن الصحة النفسية. النهاردة بقرأ عن القلق!",
+        "Planning a trip to Beni Hasan. Any tips? #travel",
+        "الجو في المنيا حلو النهاردة. نفسى أروح الطبيعة.",
+        "Learning new therapy techniques. Exciting! #mentalhealth",
+        "Nature and books are my escape! #wellness",
+        "بحب أتمشى في الهوا النقي. بيريح الدماغ!",
+        "Friday vibes: tea and a good read! #chill"
+      ]
+    },
+    {
+      "UserName": "Adel El-Mahdy",
+      "Age": 43,
+      "Gender": "Male",
+      "MaritalStatus": "Married",
+      "Education": "BSc Physics",
+      "Job": "Teacher",
+      "Location": "Qena",
+      "Posts": [
+        "Taught a fun physics lesson today. Kids loved it! #science",
+        "Played basketball with friends. Great sweat! #sports",
+        "Family picnic by the Nile. Awesome day! #Qena",
+        "بحب أشرح العلوم للطلبة. النهاردة كان درس ممتع!",
+        "Planning a trip to Aswan. Any family spots? #travel",
+        "الجو في قنا حلو النهاردة. نفسى أروح النادي ألعب.",
+        "Experimented with a new teaching method. Worked well! #education",
+        "Science and family time are my balance! #life",
+        "بحب ألعب رياضة مع أصحابي. النهاردة كان ماتش حلو!",
+        "Friday vibes: coffee and chilling with the kids! #relax"
+      ]
+    },
+    {
+      "UserName": "Nada El-Farouk",
+      "Age": 29,
+      "Gender": "Female",
+      "MaritalStatus": "Single",
+      "Education": "BA Fine Arts",
+      "Job": "Painter",
+      "Location": "Sohag",
+      "Posts": [
+        "Finished a new painting today. So proud! #art",
+        "Listening to Umm Kulthum while painting. Pure vibes! #music",
+        "Planning a trip to Luxor. Any art inspo? #travel",
+        "بحب أرسم وأنا بغني. النهاردة كان يوم ملهم!",
+        "Sold a piece at a local exhibit. Happy day! #Sohag",
+        "الجو في سوهاج حلو النهاردة. نفسى أروح النيل أرسم.",
+        "Tried a new art technique. Loving the results! #creative",
+        "Art is my soul’s language! #painter",
+        "بحب أسافر وأشوف أماكن جديدة. نفسى أزور الأقصر قريب!",
+        "Friday vibes: tea and sketching by the river! #chill"
+      ]
+    },
+    {
+      "UserName": "Ziad El-Rashidy",
+      "Age": 38,
+      "Gender": "Male",
+      "MaritalStatus": "Married",
+      "Education": "BSc Architecture",
+      "Job": "Architect",
+      "Location": "Assiut",
+      "Posts": [
+        "Designed a new villa today. Exciting project! #architecture",
+        "Visited an old mosque in Assiut. Amazing history! #history",
+        "Made hawawshi for dinner. Family loved it! #food",
+        "بحب أصمم مباني جديدة. النهاردة كان يوم ممتع!",
+        "Planning a trip to Cairo. Any design inspo? #travel",
+        "الجو في أسيوط حلو النهاردة. نفسى أروح السوق أتمشى.",
+        "Reading about Pharaonic architecture. So cool! #design",
+        "Building dreams one blueprint at a time! #architect",
+        "بحب الأكل البيتي. النهاردة عملت مكرونة بالبشاميل!",
+        "Friday vibes: coffee and sketching new ideas! #work"
+      ]
+    },
+    {
+      "UserName": "Nermin Saleh",
+      "Age": 29,
+      "Gender": "Female",
+      "MaritalStatus": "Married",
+      "Education": "BSc Pharmacy",
+      "Job": "Pharmacist",
+      "Location": "Cairo",
+      "Posts": [
+        "شاركت اليوم في ورشة عمل عن الأدوية الحيوية وكيفية تخزينها بالشروط المناسبة لضمان الفعالية.",
+        "أنصح دائماً بالتحقق من تاريخ الصلاحية قبل استخدام أي دواء وتخزينه في مكان جاف وبارد.",
+        "حضرت ندوة عن التعلم الإلكتروني في كلية الصيدلة وكانت منصة Moodle سهلة الاستخدام للطلاب.",
+        "تابعت تقريراً عن تطبيقات الصحة الرقمية وكيف يمكن للمرضى متابعة ضغط الدم عبر الهاتف.",
+        "أعددت نشرة إرشادية عن التداخلات الدوائية الشائعة وشاركتها مع الزملاء داخل الصيدلية.",
+        "بدأت تعلم أساسيات Python لأتمتة بعض المهام الحسابية المتعلقة بالجرعات الدوائية.",
+        "شاركوني تجاربكم في استخدام تطبيقات متابعة الدواء وعدد مرات التذكير اليومية.",
+        "حضرت دورة عن إدارة المخزون بالصيدليات وكيفية تقليل الهدر باستخدام نظام FIFO.",
+        "نشرت دراسة صغيرة عن تأثير التكنولوجيا الحيوية في إنتاج اللقاحات الحديثة.",
+        "خططت لزيارة معرض الصحة القادم في القاهرة لعرض أحدث الأجهزة الطبية."
+      ]
+    },
+    {
+      "UserName": "Tala Mahmoud",
+      "Age": 24,
+      "Gender": "Female",
+      "MaritalStatus": "Single",
+      "Education": "BSc Graphic Design",
+      "Job": "Freelance Designer",
+      "Location": "Alexandria",
+      "Posts": [
+        "صممت اليوم شعاراً جديداً لمشروع صغير وأستخدمت ألوان هادئة لتعكس روح العلامة.",
+        "أنهيت جلسة تصوير للأزياء على كورنيش الإسكندرية واستفدت من الإضاءة الطبيعية.",
+        "ليس هناك أفضل من القهوة الصباحية أثناء العمل على مشروع جديد في المقهى.",
+        "شاركت في ورشة عن التصميم التفاعلي باستخدام Adobe XD وكانت تجربة مفيدة.",
+        "خططت لرحلة قصيرة إلى سيوة لاستكشاف النسيج الصحراوي واستخدامه في تصميم الأقمشة.",
+        "استخدمت تقنية grid في تنسيق البوسترات الجديدة للحصول على توازن بصري أفضل.",
+        "نشرت تصميمات لبطاقات دعوة زفاف على صفحتي وتلقيت ردود إيجابية من المتابعين.",
+        "أنصح بالاطلاع على مدونات التصميم العالمية لتوسيع المدارك واستلهام أفكار جديدة.",
+        "عملت اليوم على إعداد ملف PDF تفاعلي وعرضته على العميل عبر رابط مباشر.",
+        "احتفلت بإتمام مشروع branding كامل لشركة محلية وحصلت على تقييم ممتاز."
+      ]
+    },
+    {
+      "UserName": "Mahmoud Adel",
+      "Age": 33,
+      "Gender": "Male",
+      "MaritalStatus": "Married",
+      "Education": "MBA Finance",
+      "Job": "Accountant",
+      "Location": "Giza",
+      "Posts": [
+        "أغلقنا اليوم دفاتر شهر يونيو وتم إجراء مراجعة دقيقة للأرقام قبل العرض الإداري.",
+        "ناقشنا في الاجتماع الاستراتيجي تخصيص ميزانية جديدة لتطوير فرع الشركة في 6 أكتوبر.",
+        "جربت مطعم جديد في الزمالك يقدم وجبات صحية وبأسعار معقولة وشاركت رأيي مع الزملاء.",
+        "خططت لرحلة عمل قصيرة إلى الأقصر تشمل زيارة بعض المعابد والتعرف على التاريخ الاقتصادي القديم.",
+        "أعمل حالياً على نموذج Excel لتوقعات التدفقات النقدية للفصل القادم بناءً على بيانات السنة الماضية.",
+        "شارك برامج تخطيط موارد المؤسسات ERP ساعدنا في تقليل الأخطاء المحاسبية بنسبة ملحوظة.",
+        "أوصي باستخدام أدوات مثل Power BI لعرض التقارير المالية بطريقة تفاعلية وسهلة الفهم.",
+        "تناولت ساندويتش فول وفلافل في المقهى المجاور للمكتب وكان مثالياً لوجبة سريعة قبل الاجتماع.",
+        "حضرت ورشة عن معيار IFRS وأثره على إعداد القوائم المالية للشركات متعددة الجنسيات.",
+        "بدأت دراسة أساسيات Python لتحليل البيانات المالية وأتمتة بعض العمليات الروتينية."
+      ]
+    },
+    {
+      "UserName": "Asmaa El‑Kady",
+      "Age": 26,
+      "Gender": "Female",
+      "MaritalStatus": "Single",
+      "Education": "BSc Education",
+      "Job": "English Teacher",
+      "Location": "Mansoura",
+      "Posts": [
+        "حضرت اليوم درساً تفاعلياً عن مهارات المحادثة ودمجت مقاطع صوتية لتدريب النطق.",
+        "أنشأت مجموعة دراسية على Telegram لمساعدة الطلاب على تبادل الموارد والأسئلة.",
+        "شاركت تجربة تطبيق Quizlet في مراجعة المفردات وكان له أثر إيجابي على الطلاب.",
+        "خططت لرحلة تعليمية إلى المتحف القومي للتاريخ الطبيعي لتعزيز جانبي الثقافة العامة.",
+        "استخدمت موسيقى هادئة أثناء اختبار القراءة لتحسين تركيز الطلبة وتقليل التوتر.",
+        "نشرت رابط فيديو تعليمي عن قواعد الأزمنة باللغة الإنجليزية وطلبت من المتابعين مشاركة آرائهم.",
+        "ناقشت مع زملائي طرق استخدام Kahoot في تقييم فهم الطلاب بطريقة ممتعة.",
+        "حضرت ورشة عن التعلم المدمج Blended Learning وتعرفت على منصات عديدة تدعم ذلك.",
+        "أنصح بتخصيص 10 دقائق يومياً لمراجعة الكلمات الجديدة للحفاظ على استمرارية التعلم.",
+        "عملت على إعداد درس عن الأدب الإنجليزي الكلاسيكي تضمن نصوصاً مشوقة وتمارين تفاعلية."
+      ]
+    },
+    {
+      "UserName": "Yassin Gamal",
+      "Age": 31,
+      "Gender": "Male",
+      "MaritalStatus": "Married",
+      "Education": "BSc Sports Science",
+      "Job": "Physiotherapist",
+      "Location": "Port Said",
+      "Posts": [
+        "أجرينا اليوم تقييم حالة رياضي مصاب بالتواء الكاحل وبدأنا خطة إعادة تأهيل مركزة.",
+        "أنصح بممارسة تمارين التمدد قبل وبعد التمرين للحد من خطر الإصابة وتحسين المرونة.",
+        "حضرت ورشة عمل عن تقنيات العلاج بالتحفيز الكهربائي وكيفية تطبيقها في العيادة.",
+        "استمعت لمقطوعات موسيقية هادئة أثناء جلسة العلاج فساهمت في استرخاء المريض.",
+        "شاركت فيديو قصير لشرح تمرين للتعافي من آلام أسفل الظهر ولاقى تفاعلاً جيداً.",
+        "خططت لرحلة ركض جماعي على كورنيش بورسعيد لتعزيز النشاط البدني بين الأصدقاء.",
+        "أعددت نشرة توعوية عن أهمية النوم الجيد ودوره في تحسين أداء الرياضيين.",
+        "ناقشت مع زملائي أحدث الدراسات حول تأثير العلاج اليدوي على سرعة الشفاء.",
+        "استخدمت تطبيق MyFitnessPal لمتابعة نظام التغذية الخاص بالمريض وإجراء التعديلات اللازمة.",
+        "أنشأت مجموعة دعم عبر WhatsApp للرياضيين لمتابعة التمارين وتبادل الخبرات."
+      ]
+    },
+    {
+      "UserName": "Rania Mostafa",
+      "Age": 28,
+      "Gender": "Female",
+      "MaritalStatus": "Single",
+      "Education": "BSc Tourism",
+      "Job": "Tour Guide",
+      "Location": "Luxor",
+      "Posts": [
+        "أرشدت اليوم مجموعة سياحية لأبو سمبل وشاركتهم قصص التاريخ الفرعوني بأسلوب مشوق.",
+        "أنصح بزيارة وادي الملوك قبل الظهر للاستمتاع بالألوان الطبيعية داخل المقابر دون ازدحام كبير.",
+        "شاركت وصفة كركديه مثلجة مع السياح وكانت إضافة ممتعة لتجربتهم الصيفية.",
+        "حضرت تدريباً عن استخدام تقنيات الواقع الافتراضي في الجولات الافتراضية وأرى مستقبل مشرق.",
+        "خططت لجولة خاصة في صعيد مصر تتضمن ورش حرف يدوية وتجربة المطبخ المحلي في القرى.",
+        "نشرت صوراً للأعمدة الضخمة في معبد الكرنك مع شرح مبسط لأهميتها الأثرية.",
+        "استخدمت تطبيق Google Maps لتتبع مسار الجولة وتجنب المشاكل المرورية في المدينة القديمة.",
+        "أنشأت دليل PDF صغير يحتوي على أفضل المطاعم التي تقدم المأكولات النوبية.",
+        "حجزت رحلة نيلية خاصة لجموع صغيرة لتوفير تجربة هادئة ومميزة بعيدة عن الزحام.",
+        "شاركت تقييمات عن الفنادق المختلفة على TripAdvisor لمساعدة الزوار الجدد في الاختيار."
+      ]
+    },
+    {
+      "UserName": "Ihab Zaki",
+      "Age": 35,
+      "Gender": "Male",
+      "MaritalStatus": "Married",
+      "Education": "BSc Electrical Engineering",
+      "Job": "Systems Analyst",
+      "Location": "Aswan",
+      "Posts": [
+        "قمت اليوم بتحليل متطلبات نظام إدارة الطاقة في محطة كهرباء وتوثيقها بدقة عالية.",
+        "ناقشت مع الفريق دمج مستشعرات IoT لمراقبة استهلاك الوقود وتحسين الكفاءة التشغيلية.",
+        "حضرت ندوة عن شبكات 5G وتأثيرها على الصناعة وتمت مناقشة جوانب الأمان والسرعة.",
+        "خططت لرحلة عمل إلى القاهرة لحضور مؤتمر عن التحول الرقمي في قطاع الطاقة.",
+        "أنهيت نموذج Excel لحساب تكاليف الصيانة الدورية واستخدمت دوال معقدة لتسريع العملية.",
+        "نشرت مقالاً قصيراً عن أهمية التمويل البنكي لتحديث البنية التحتية في المناطق النائية.",
+        "جربت مقهى جديد في أسوان يقدم المشروبات المثلجة والمناظر الخلابة على النيل.",
+        "أنصح باستخدام أدوات Visualization مثل Power BI لعرض البيانات الفنية بطريقة واضحة.",
+        "ناقشت آليات حماية الشبكات الصناعية في عرض قدمته لإدارة المحطة.",
+        "حضرت ورشة عمل عن إدارة المشاريع باستخدام Scrum وScrum Board لتتبع المهام."
+      ]
+    },
+    {
+      "UserName": "Heba Nabil",
+      "Age": 32,
+      "Gender": "Female",
+      "MaritalStatus": "Widowed",
+      "Education": "MSc Public Health",
+      "Job": "Health Administrator",
+      "Location": "Tanta",
+      "Posts": [
+        "أشرفت اليوم على توزيع اللقاحات في المستشفى وتأكدت من توافر جميع المعدات اللازمة.",
+        "ناقشت مع فريق الإدارة خطة تقليل الفاقد في الأدوية وتطبيق نظام المراقبة الإلكترونية.",
+        "حضرت دورة عن أساليب جمع البيانات الصحية الإلكترونية وكيفية تحليلها لاتخاذ القرارات.",
+        "أنشأت تقريراً ماليّاً يوضح تكاليف التشغيل والصيانة للفترة الماضية وأرسلته إلى الإدارة.",
+        "خططت لورشة تدريبية للكوادر الطبية عن مهارات التواصل مع المرضى وتحسين الخدمة.",
+        "شاركت دراسة عن دور الصحة المدرسية في تعزيز وعي الطلاب بالممارسات الصحية.",
+        "زارني وفد من منظمة الصحة العالمية للاطلاع على أفضل الممارسات داخل المستشفى.",
+        "نشرت توجيهاً للعاملين بأهمية التوثيق الدقيق لحركة المرضى وتقارير المتابعة.",
+        "استخدمت نظام إلكتروني لحجز المواعيد يقلل من الازدحام ويختصر وقت الانتظار.",
+        "أنصح بتخصيص جلسات دعم نفسي للمرضى بعد الإجراءات الجراحية لتسريع التعافي."
+      ]
+    },
+    {
+      "UserName": "Karim Radwan",
+      "Age": 38,
+      "Gender": "Male",
+      "MaritalStatus": "Married",
+      "Education": "BSc Automotive Engineering",
+      "Job": "Garage Owner",
+      "Location": "Fayoum",
+      "Posts": [
+        "استقبلت اليوم سيارة لشخصية معروفة وقمت بصيانة كاملة لنظام الفرامل وتغيير الزيوت.",
+        "أنصح بعمل صيانة دورية كل 5000 كيلومتر للحفاظ على أداء المحرك وتقليل التآكل.",
+        "ناقشت تسعير خدمات الصيانة مع المحاسب لضمان ربحية مناسبة وتنافسية في السوق المحلي.",
+        "خططت لرحلة بالدراجة النارية إلى رأس غارب نهاية الأسبوع لاستكشاف الطرق الصحراوية.",
+        "استخدمت قطع غيار أصلية لمنع المشاكل المستقبلية وتقديم خدمة موثوقة للعملاء.",
+        "نشرت فيديو يوضح طريقة تغيير فلتر الهواء في المنزل بمجهود بسيط وتكلفة منخفضة.",
+        "حصلت على تقييم خمس نجوم من عميل وشاركني رأيه الجيد عن سرعة وجودة الخدمة.",
+        "أنصح بتفقد ضغط الإطارات أسبوعياً لتجنب انعدام التوازن وتقليل استهلاك الوقود.",
+        "استخدمت برنامج حسابي لتتبع المخزون وتحديث الأسعار بشكل آلي داخل الورشة.",
+        "حضرت دورة عن تكنولوجيا المركبات الكهربائية واستعد لتقديم خدمات شحن وصيانة لها."
+      ]
+    },
+    {
+      "UserName": "Nadine Farid",
+      "Age": 25,
+      "Gender": "Female",
+      "MaritalStatus": "Single",
+      "Education": "BSc Music",
+      "Job": "Choir Conductor",
+      "Location": "Mansoura",
+      "Posts": [
+        "قمت اليوم بتدريب جوقة الطلاب على مقطع كلاسيكي واستخدمت تمارين صوتية جديدة لتعزيز التناغم.",
+        "حجزت رحلة إلى القاهرة لحضور مهرجان الموسيقى الكلاسيكية وأتطلع لتبادل الخبرات.",
+        "نشرت مقطع فيديو قصير لتمرين الإحماء الصوتي وطلبت من المتابعين تجربته وتقييمه.",
+        "أنصح بالاستماع إلى مقطوعات Mozart قبل التدريبات لتهيئة الأذن والحنجرة.",
+        "حضرت ورشة عن تقنية الصوت المحيطي Surround Sound وكيفية استخدامه في الحفلات.",
+        "خططت لجولة ثقافية داخل مدينة تونة الجبل للتعرف على التراث الموسيقي القديم.",
+        "استخدمت تطبيق Sheet Music Scanner لتسهيل قراءة النوطة وتوفير الوقت في التحضير.",
+        "شاركت نصائح للحفاظ على الصحة الصوتية مثل شرب الماء الدافئ وتجنب المنبهات.",
+        "التنسيق مع فرق الآلات المختلفة يتطلب الصبر والتواصل الدقيق لضمان الانسجام.",
+        "سبق وقدمت حفل خيرية للأطفال في دار الأيتام لتعزيز ثقافة الموسيقى لديهم."
+      ]
+    },
+    {
+      "UserName": "Walid Sherif",
+      "Age": 30,
+      "Gender": "Male",
+      "MaritalStatus": "Married",
+      "Education": "BSc Civil Engineering",
+      "Job": "Site Engineer",
+      "Location": "Ismailia",
+      "Posts": [
+        "قمت اليوم بالإشراف على صب الخرسانة في أحد الأعمدة وتأكدت من جودة الخلط والاهتزاز المناسب.",
+        "ناقشت مع المقاول جدول تنفيذ الأعمال لتجنب التأخير وضمان الالتزام بالمواصفات الفنية.",
+        "حضرت ندوة عن برامج تصميم الإنشاءات باستخدام SAP2000 وكيفية تحليل الأحمال بدقة.",
+        "خططت لرحلة قصيرة لزيارة بحيرة التمساح واستكشاف الطبيعة الخلابة بعد ضغط العمل.",
+        "استخدمت تطبيقات إدارة المشاريع PM tools لتتبع تقدم العمل وتوثيق أي تغييرات.",
+        "أنصح بشرب كمية مناسبة من الماء وتناول وجبات خفيفة للحفاظ على الطاقة في المواقع الحارة.",
+        "تابعت مباراة كرة القدم بين الأهلي والزمالك وشجعت الفريق الأحمر بحماس مع الزملاء.",
+        "نشرت صوراً لعملية تركيب القوالب الخشبية قبل الصب لمشاركة التقدم مع العميل.",
+        "ناقشت استراتيجيات التمويل البنكي لمشروعات البنية التحتية مع قسم الشؤون المالية.",
+        "بدأت تعلم أساسيات GIS لاستخدامها في تخطيط مواقع المشاريع وتقييم التضاريس."
+      ]
+    },
+    {
+      "UserName": "Dina Kamel",
+      "Age": 26,
+      "Gender": "Female",
+      "MaritalStatus": "Single",
+      "Education": "BSc Fashion Design",
+      "Job": "Boutique Owner",
+      "Location": "Alexandria",
+      "Posts": [
+        "افتتحت اليوم مجموعة جديدة من فساتين السهرة في البوتيك وكانت الإطلالات أنيقة وجذابة.",
+        "أنصح بزيارة المقهى المجاور لتناول المعجنات الفرنسية اللذيذة أثناء الاستراحة.",
+        "قمت برحلة قصيرة إلى واحة سيوة لاستلهام تصاميم مستوحاة من الثقافة البدوية.",
+        "أنجزت طلبية كبيرة لعرس هذا الأسبوع واختارت العروس فستاناً بتطريز يدوي مميز.",
+        "استخدمت خامات قطنية عالية الجودة في التشكيلة الصيفية لتوفير مزيد من الراحة.",
+        "شاركت صور القطع الجديدة على Instagram وتفاعلت مع متابعين أبدوا إعجابهم.",
+        "ننظم غداً عرض أزياء مصغر في البوتيك لدعوة العملاء وتجربة القطع قبل الشراء.",
+        "خططت لإقامة ورشة لتعليم أساسيات الخياطة للمبتدئين للاستفادة من المساحة الفارغة.",
+        "نشرت رابط الموقع الإلكتروني لتسهيل عرض الأسعار واستقبال الطلبات أونلاين.",
+        "أحضرت نباتات زرع صغيرة داخل المحل لإضفاء جو طبيعي ومريح للزوار."
+      ]
+    },
+    {
+      "UserName": "Hany Farouk",
+      "Age": 40,
+      "Gender": "Male",
+      "MaritalStatus": "Married",
+      "Education": "BSc Computer Engineering",
+      "Job": "Network Administrator",
+      "Location": "Giza",
+      "Posts": [
+        "قمت اليوم بتحديث إعدادات الراوتر المركزي لضمان سرعة واستقرار الاتصال داخل الشركة.",
+        "ناقشت مع فريق تكنولوجيا المعلومات خطة الانتقال إلى بنية IPv6 لتجنب نفاد العناوين.",
+        "حضرت ورشة عن أمن الشبكات وكيفية استخدام VPN وfirewall لتعزيز الحماية.",
+        "بدأت في إعداد دورة تدريبية للموظفين عن الممارسات الجيدة في استخدام البريد الإلكتروني.",
+        "أنتهيت من إنشاء تقارير أداء الخادم باستخدام Grafana وPrometheus للعرض على الإدارة.",
+        "خططت لرحلة عمل قصيرة إلى الاسكندرية لحضور مؤتمر عن الذكاء الاصطناعي في الشبكات.",
+        "استخدمت أدوات مراقبة الشبكة لملاحظة حركة المرور وتحديد أي اختناقات محتملة.",
+        "أنصح بتغيير كلمات المرور دورياً وتفعيل المصادقة الثنائية لحسابات الموظفين.",
+        "نشرت مقالاً عن دمج تقنيات SDN في البنية التحتية للشركات المتوسطة الحجم.",
+        "شاركت مثالاً عملياً عن إعداد VLANs متعددة لضمان عزل حركة الشبكة بين الأقسام."
+      ]
+    },
+    {
+      "UserName": "Noha Salah",
+      "Age": 23,
+      "Gender": "Female",
+      "MaritalStatus": "Single",
+      "Education": "BSc Marketing",
+      "Job": "Social Media Coordinator",
+      "Location": "Shibin El Kom",
+      "Posts": [
+        "نشرت اليوم خطة محتوى لشهر يوليو تشمل حملات تفاعلية ومسابقات على Facebook وInstagram.",
+        "حضرت جلسة تدريب عن أدوات التحليل Social Media Analytics وكيفية قياس معدلات التفاعل.",
+        "أنصح بإضافة فيديوهات قصيرة Reels لزيادة الوصول والتفاعل مع الجمهور بشكل أسرع.",
+        "جربت موسيقى هادئة في خلفية أحد الفيديوهات ولاحظت ارتفاع نسبة المشاهدة بنسبة 15%.",
+        "خططت لتعاون مع مؤثرين محليين في مجال الموضة لتوسيع نطاق العلامة التجارية.",
+        "استخدمت أداة Buffer لجدولة المنشورات وتوفير الوقت وترتيبها حسب أفضل توقيت للنشر.",
+        "شاركت صورة من جلسة التصوير الأخيرة مع تعليق عن مجموعة الصيف الجديدة.",
+        "ناقشت مع الفريق استراتيجية استخدام الهاشتاجات الصحيحة للوصول إلى شريحة أوسع.",
+        "حضرت ورشة عن كتابة النصوص الإعلانية Copywriting وكيفية جذب انتباه المتابعين.",
+        "شاركت مقطع Live للرد على أسئلة المتابعين حول أحدث العروض والمسابقات."
+      ]
+    },
+    {
+      "UserName": "Yara Adel",
+      "Age": 21,
+      "Gender": "Female",
+      "MaritalStatus": "Single",
+      "Education": "High School",
+      "Job": "Intern",
+      "Location": "Zagazig",
+      "Posts": [
+        "انضممت اليوم إلى فريق تدريب داخل شركة تقنية للتعرف على أساسيات البرمجة بلغة Java.",
+        "حضرت درساً عن مفاهيم Data Structures وربطتها بالمشاريع التطبيقية في الجامعة.",
+        "استمعت لموسيقى كلاسيكية أثناء مذاكرة المصطلحات التقنية لتعزيز التركيز وتقليل الإجهاد.",
+        "شاركت تجربتي الأولى في استخدام Git وGitHub لإدارة الأكواد ومتابعة التعديلات.",
+        "أنصح باتباع دورة online قصيرة قبل بدء التدريب لتكوين خلفية أساسية تساعد على السرعة.",
+        "قمت بإنشاء ملف README احترافي لعرض المهارات والمشاريع الشخصية على GitHub.",
+        "خططت لزيارة مكتبة الجامعة للبحث عن كتب متقدمة في الخوارزميات والتحليل العددي.",
+        "نشرت رابط مدونة شخصية كتبت فيها عن تجربتي كمتدربة وأهدافي المستقبلية في مجال التقنية.",
+        "جربت تطبيق Study Timer لتنظيم وقت المذاكرة والراحة بأوقات محددة لزيادة الفاعلية.",
+        "شاركت مع أصدقائي مجموعة موارد تعليمية مجانية على الإنترنت لدعم التعلم الذاتي."
+      ]
+    },
+    {
+      "UserName": "Mostafa El‑Helw",
+      "Age": 36,
+      "Gender": "Male",
+      "MaritalStatus": "Married",
+      "Education": "MBA Operations",
+      "Job": "Logistics Coordinator",
+      "Location": "Hurghada",
+      "Posts": [
+        "تابعت اليوم تقريراً عن تأثر سلاسل التوريد العالمية بأزمة الشحن البحري وناقشت الإجراءات الوقائية.",
+        "استخدمنا نظام تتبع جديد لتسجيل وصول الشحنات وتقليل التأخير في التخليص الجمركي.",
+        "خططت لزيارة ميناء السويس الأسبوع القادم للاطلاع على أحدث المعدات اللوجستية.",
+        "ناقشت مع الشركاء المحليين إمكانية استخدام تطبيقات Blockchain لتعقب البضائع.",
+        "حضرت ورشة عن تحسين إدارة المخزون باستخدام Lean Principles لتقليل الهدر وتعظيم الكفاءة.",
+        "أنصح بتطبيق مؤشرات KPI شهرية لمتابعة أداء الشحنات ووقت التسليم بدقة.",
+        "شاركت بيانات تحليلية في تقرير Finance يوضح التكاليف الفعلية مقابل التوقعات الشهرية.",
+        "جربت خدمة تتبع رقمية عبر SMS لتزويد العملاء بمعلومات حالة الشحنة لحظة بلحظة.",
+        "خططت لجولة تعريفية قصيرة للقائمين على المستودعات لتدريبهم على النظام الجديد.",
+        "نشرت مقالاً مبسطاً عن دور التكنولوجيا في تحسين العمليات اللوجستية بالموقع الداخلي."
+      ]
+    },
+    {
+      "UserName": "Dalia Mostafa",
+      "Age": 28,
+      "Gender": "Female",
+      "MaritalStatus": "Single",
+      "Education": "BSc Food Science",
+      "Job": "Product Developer",
+      "Location": "Beni Suef",
+      "Posts": [
+        "عملت اليوم على تطوير وصفة خبز غني بالألياف باستخدام دقيق الشوفان الكامل.",
+        "حضرت دورة عن معايير الجودة الغذائية ISO 22000 وكيفية تطبيقها في خطوط الإنتاج.",
+        "أنصح بإضافة بذور الكتان والعسل الطبيعي لزيادة القيمة الغذائية للطعام.",
+        "ناقشت مع فريق البحث مدى تأثير طرق التعبئة المختلفة على فترة صلاحية المنتجات.",
+        "نشرت عرضاً تقديمياً مبسطاً عن عناصر التصميم الغذائي لتغليف جذاب وعملي.",
+        "جربت وصفة بطاطس مشوية بتوابل صحية وقلت نسبة الملح مقارنة بالوصفة التقليدية.",
+        "شاركت نتائج اختبار حساسية لبعض العملاء على مكونات جديدة في العينة الأولية.",
+        "خططت لتنظيم ورشة تذوق مجانية لعرض منتجاتنا والحصول على تقييمات مباشرة.",
+        "استخدمت تطبيق Excel لتحليل بيانات الاستبيان حول تفضيلات الطعم والألوان.",
+        "حضرت لقاء مع طلاب كلية الزراعة لتعريفهم بمرحلة تطوير المنتجات الغذائية."
+      ]
+    },
+    {
+      "UserName": "Walid Farag",
+      "Age": 49,
+      "Gender": "Male",
+      "MaritalStatus": "Married",
+      "Education": "High School",
+      "Job": "Coffee Shop Owner",
+      "Location": "Sharm El Sheikh",
+      "Posts": [
+        "افتتحنا فرع جديد للمقهى على الكورنيش وكانت الإطلالة على البحر جذابة جداً للزبائن.",
+        "جربت حبوب قهوة من إثيوبيا وكانت نكهتها مميزة وشاركتها مع الزوار في جلسة تذوق.",
+        "أنصح بزوار شرم الشيخ بزيارة الكافيه خلال الغروب للاستمتاع بالجو والموسيقى الهادئة.",
+        "تابعت تقريراً عن تكلفة المعيشة في المدينة وقارنتها مع الإيرادات الشهرية للمقهى.",
+        "نشرت قائمة المشروبات الجديدة الصيفية وتلقيت طلبات كثيرة على الفانش ومشروبات الفواكه.",
+        "استخدمت برنامج مالي بسيط لإدارة الفواتير وتتبع الأرباح اليومية بسهولة.",
+        "خططت لتنظيم أمسية ثقافية تجمع بين الشعر والموسيقى لجذب شرائح جديدة من العملاء.",
+        "ناقشت مع الموظفين أهمية خدمة العملاء وتدريبهم على مهارات التواصل الفعال.",
+        "قمت بتحليل تكاليف التوريد من الموردين المحليين واختيار أفضل العروض لجودة عالية.",
+        "حضرت دورة عن تصميم ديكور داخلي للمقاهي وكيفية اختيار الإضاءة المناسبة."
+      ]
+    },
+    
     {
       "UserName": "Hana El-Masry",
       "Age": 26,
@@ -1640,7 +1599,6 @@
       "Education": "BA Graphic Design",
       "Job": "Graphic Designer",
       "Location": "Kafr El-Sheikh",
-      "Interests": ["fashion", "music", "traveling"],
       "Posts": [
         "Just finished a new design project. Feeling creative! #design",
         "Attended a fashion show in Alexandria. Amazing designs! #fashion",
@@ -1662,7 +1620,6 @@
       "Education": "BSc Economics",
       "Job": "Economist",
       "Location": "Minya",
-      "Interests": ["finance", "education", "health"],
       "Posts": [
         "Analyzing the latest economic data. Interesting trends! #economics",
         "Attended a lecture on monetary policy. Very informative! #finance",
@@ -1684,7 +1641,6 @@
       "Education": "BA Sociology",
       "Job": "Social Worker",
       "Location": "Qena",
-      "Interests": ["education", "health", "music"],
       "Posts": [
         "Just finished a counseling session. Feeling fulfilled! #socialwork",
         "Attended a workshop on community development. Very enlightening! #education",
@@ -1705,10 +1661,6 @@
       "Education": "BSc Nutrition",
       "Job": "Fitness Trainer",
       "Location": "Alexandria",
-      "Interests": [
-        "finance",
-        "technology"
-      ],
       "Posts": [
         "بدأت أستثمر جزء من مرتبي في البورصة... ربنا يستر 😂",
         "ايه أفضل لابتوب للشغل في البرمجة؟ محتار بين Dell XPS و MacBook Pro.",
@@ -1724,11 +1676,6 @@
       "Education": "BSc Marketing",
       "Job": "Sales Executive",
       "Location": "Fayoum",
-      "Interests": [
-        "fashion",
-        "education",
-        "food"
-      ],
       "Posts": [
         "اللي يحب الحلويات لازم يجرب أم علي من حلواني العبد.",
         "خلصت كورس في تحليل البيانات مع Google – مفيد جدًا لأي حد مهتم بالتقنية.",
@@ -1746,10 +1693,6 @@
       "Education": "BSc Finance",
       "Job": "Sales Executive",
       "Location": "Zagazig",
-      "Interests": [
-        "traveling",
-        "education"
-      ],
       "Posts": [
         "التعليم مش بس شهادات، هو طريقة تفكير.",
         "Traveling is the only thing you buy that makes you richer ✈️",
@@ -1765,9 +1708,6 @@
       "Education": "BA Music",
       "Job": "Musician",
       "Location": "Cairo",
-      "Interests": [
-        "health"
-      ],
       "Posts": [
         "ازاي بتوازنوا بين الدايت والخروجات؟ خصوصاً مع الكنافة والقطايف 😅",
         "Drinking lemon water every morning has really helped my digestion."
@@ -1781,10 +1721,6 @@
       "Education": "High School",
       "Job": "Software Developer",
       "Location": "Giza",
-      "Interests": [
-        "music",
-        "education"
-      ],
       "Posts": [
         "خلصت كورس في تحليل البيانات مع Google – مفيد جدًا لأي حد مهتم بالتقنية.",
         "هل في حد جرب Udacity؟ شايف ناس كتير بتنصح بيه.",
@@ -1800,9 +1736,6 @@
       "Education": "BA Music",
       "Job": "Sales Executive",
       "Location": "Alexandria",
-      "Interests": [
-        "traveling"
-      ],
       "Posts": [
         "رحلتي للغردقة كانت أكتر من رائعة! البحر الأحمر فعلاً تحفة.",
         "Just came back from Siwa Oasis... peaceful, magical, and unforgettable!"
@@ -1816,12 +1749,6 @@
       "Education": "PharmD",
       "Job": "Sales Executive",
       "Location": "Cairo",
-      "Interests": [
-        "technology",
-        "health",
-        "food",
-        "sports"
-      ],
       "Posts": [
         "جربت ChatGPT في كتابة الأكواد وفعلاً ساعدني كتير في الشغل.",
         "Watched Al Ahly vs Zamalek match—what a game!",
@@ -1841,12 +1768,6 @@
       "Education": "BSc Nutrition",
       "Job": "Fitness Trainer",
       "Location": "Asyut",
-      "Interests": [
-        "health",
-        "finance",
-        "automotive",
-        "food"
-      ],
       "Posts": [
         "Experimented with a keto recipe yesterday and it was 🔥",
         "Anyone using Fawry or Vodafone Cash for saving goals?",
@@ -1866,9 +1787,6 @@
       "Education": "BSc Nutrition",
       "Job": "Sales Executive",
       "Location": "Alexandria",
-      "Interests": [
-        "music"
-      ],
       "Posts": [
         "أجمل حاجة في السفر إنك تكتشف موسيقى جديدة.",
         "أغنية '3 Daqat' لسه مفضلة عندي من زمان ❤️"
@@ -1882,11 +1800,6 @@
       "Education": "High School",
       "Job": "Marketing Executive",
       "Location": "Tanta",
-      "Interests": [
-        "fashion",
-        "technology",
-        "traveling"
-      ],
       "Posts": [
         "في حد راح مرسى علم قبل كده؟ محتاج ترشيحات لأماكن كويسة.",
         "شتريت جاكيت من Zara الشتاء ده شكله جامد جدًا.",
@@ -1904,7 +1817,6 @@
       "Education": "BSc Computer Engineering",
       "Job": "Software Developer",
       "Location": "Cairo",
-      "Interests": ["technology", "sports", "automotive"],
       "Posts": [
         "Just upgraded my PC with a new RTX 3080! Gaming performance is insane now. #TechLife",
         "حد يعرف أماكن كويسة لصيانة السيارات في القاهرة؟ عندي مشكلة في الفرامل.",
@@ -1924,7 +1836,6 @@
       "Education": "MBA Marketing",
       "Job": "Marketing Manager",
       "Location": "Giza",
-      "Interests": ["fashion", "traveling", "education"],
       "Posts": [
         "Just got back from Paris! The fashion there is next level. #TravelDiaries",
         "عندي محاضرة عن التسويق الرقمي في الجامعة الأمريكية الأسبوع الجاي. حد حضرها قبل كدة؟",
@@ -1944,7 +1855,6 @@
       "Education": "BSc Pharmacy",
       "Job": "Pharmacist",
       "Location": "Alexandria",
-      "Interests": ["health", "food", "technology"],
       "Posts": [
         "New study: Omega-3 supplements can improve heart health significantly. #HealthTips",
         "جربت مطعم جديد في سان ستيفانو اسمه SeaSalt. الأكل كان ممتاز!",
@@ -1964,7 +1874,6 @@
       "Education": "High School",
       "Job": "Sales Executive",
       "Location": "Luxor",
-      "Interests": ["traveling", "fashion", "music"],
       "Posts": [
         "Visited Karnak Temple yesterday. The history here is mind-blowing! #Luxor",
         "عايزة أشتري حذاء جديد للمكتب. حد يعرف محل كويس في الأقصر؟",
@@ -1984,7 +1893,6 @@
       "Education": "BSc Civil Engineering",
       "Job": "Construction Manager",
       "Location": "Suez",
-      "Interests": ["sports", "automotive", "technology"],
       "Posts": [
         "Watching the F1 race tonight. Verstappen is dominating this season! 🏎️",
         "في حاجة اسمها أمان في مواقع البناء. متستهونوش بالخوذات يا شباب.",
@@ -2004,7 +1912,6 @@
       "Education": "BSc Accounting",
       "Job": "Accountant",
       "Location": "Mansoura",
-      "Interests": ["finance", "health", "education"],
       "Posts": [
         "Tax season is here! Anyone else drowning in paperwork? 😅",
         "جربت حمية الكيتو الشهر اللي فات. النتائج كانت مذهلة!",
@@ -2024,7 +1931,6 @@
       "Education": "PhD Medicine",
       "Job": "Doctor",
       "Location": "Tanta",
-      "Interests": ["health", "education", "traveling"],
       "Posts": [
         "New research: Regular exercise can add years to your life. #StayActive",
         "في حاجة اسمها الوقاية خير من العلاج. متهملوش التطعيمات.",
@@ -2044,7 +1950,6 @@
       "Education": "BSc Architecture",
       "Job": "Architect",
       "Location": "Ismailia",
-      "Interests": ["traveling", "fashion", "technology"],
       "Posts": [
         "Just visited the new Bibliotheca Alexandrina. The design is breathtaking! #Architecture",
         "عندي عرض تصميم شقة في الإسماعيلية. حد عنده أفكار إبداعية؟",
@@ -2064,7 +1969,6 @@
       "Education": "BSc Mechanical Engineering",
       "Job": "Mechanical Engineer",
       "Location": "Port Said",
-      "Interests": ["automotive", "technology", "sports"],
       "Posts": [
         "Just fixed my car’s engine myself! Feels great to DIY. #CarLover",
         "في ناس لسة ما بتستخدمش الطاقة الشمسية في مصر؟ التكلفة استردت نفسها.",
@@ -2084,7 +1988,6 @@
       "Education": "Student",
       "Job": "Part-time Tutor",
       "Location": "Aswan",
-      "Interests": ["education", "music", "traveling"],
       "Posts": [
         "Studying for finals is exhausting! Anyone else feeling the pressure? 😩",
         "بحب أغاني أم كلثوم جداً. عندها صوت خالد!",
@@ -2101,10 +2004,9 @@
     "Age": 24,
     "Gender": "Female",
     "MaritalStatus": "Single",
-    "Education": "BSc Biotechnology",
+    "Education": "BSc Bio",
     "Job": "Research Assistant",
     "Location": "6th of October City",
-    "Interests": ["health", "technology", "education"],
     "Posts": [
       "بدأت تجاربي على تقنية CRISPR لتعديل الجينات في البكتيريا. المستقبل الطبي في مصر يحتاج استثمارات أكبر في البحث العلمي!",
       "ورشة عن الأخلاقيات في التعديل الجيني بجامعة زويل الأسبوع الجاي. التسجيل مجاني لطلبة العلوم!",
@@ -2123,7 +2025,6 @@
     "Education": "Diploma in Culinary Arts",
     "Job": "Executive Chef",
     "Location": "Sharm El Sheikh",
-    "Interests": ["food", "traveling", "education"],
     "Posts": [
       "صممت قائمة جديدة تجمع بين المطبخ النوبي والمأكولات البحرية. السياح الأوروبيين أعجبوا بالخلطة!",
       "ورشة طبخ حية على صفحتنا غداً عن أسرار الطهي بالفرن الحجري. تابعونا الساعة ٨ مساءً!",
@@ -2142,7 +2043,6 @@
     "Education": "BA Journalism",
     "Job": "News Producer",
     "Location": "Cairo",
-    "Interests": ["education", "technology", "traveling"],
     "Posts": [
       "أعدت تحقيقاً عن التعليم المجتمعي في صعيد مصر. المبادرات الفردية بتعوض تقصير الحكومة!",
       "ورشة إعلامية للشباب عن التحقق من الأخبار الكاذبة. التسجيل عبر موقع مؤسسة صحفيون بلا حدود",
@@ -2160,7 +2060,6 @@
     "Education": "BSc Renewable Energy",
     "Job": "Solar Energy Engineer",
     "Location": "Aswan",
-    "Interests": ["technology", "finance", "health"],
     "Posts": [
       "نفذت نظام طاقة شمسية لمستشفى أسيوط الجامعي. التوفير الشهري يقدر بــ ٤٠ ألف جنيه!",
       "ورشة مجانية عن تركيب الألواح الشمسية المنزلية في جمعية المهندسين. الأولوية لأهالي الصعيد",
@@ -2178,7 +2077,6 @@
     "Education": "Diploma in Graphic Design",
     "Job": "UI/UX Designer",
     "Location": "New Cairo",
-    "Interests": ["technology", "fashion", "music"],
     "Posts": [
       "صممت واجهة تطبيق جديد للخدمات البنكية. بساطة التصميم أهم من التعقيدات!",
       "معرض للفن الرقمي في الداون تاون الغد. الأعمال المعروضة تدمج بين التراث المصري والتقنيات الحديثة",
@@ -2196,7 +2094,6 @@
     "Education": "High School",
     "Job": "Traditional Pottery Maker",
     "Location": "Fayoum",
-    "Interests": ["education", "traveling", "fashion"],
     "Posts": [
       "علمت مجموعة أطفال فن الفخار التقليدي. المواهب الصغيرة مبهرة!",
       "معرض منتجاتي في قرية تونس بالفيوم يفتح أبوابه طول الصيف. زورونا وتذوقوا الشاي على الطريقة البدوية!",
@@ -2214,7 +2111,6 @@
     "Education": "BSc Physical Therapy",
     "Job": "Sports Therapist",
     "Location": "Alexandria",
-    "Interests": ["sports", "health", "education"],
     "Posts": [
       "عالجت إصابة لاعب كرة قدم محترف. العودة للملعب خلال ٦ أسابيع بدل ٣ شهور!",
       "محاضرة عن إصابات الملاعب في نادي سموحة. المدربين لازم يعرفوا أساسيات الإسعافات",
@@ -2231,7 +2127,6 @@
     "Education": "BSc Geology",
     "Job": "Mining Engineer",
     "Location": "Red Sea",
-    "Interests": ["technology", "traveling", "automotive"],
     "Posts": [
       "اكتشافات جديدة من الذهب في الصحراء الشرقية. الاحتياطيات أكبر من المتوقع!",
       "رحلة استكشافية لوادي الحيتان الشهر الجاي. أي حد مهتم بالجيولوجيا ينضم لينا؟",
@@ -2248,7 +2143,6 @@
     "Education": "BA Sociology",
     "Job": "NGO Director",
     "Location": "Minya",
-    "Interests": ["education", "health", "finance"],
     "Posts": [
       "أسست مدرسة مجتمعية للفتيات في قرية بالمنيا. التعليم حق مش ترف!",
       "حملة التوعية بسرطان الثدي في قرى الصعيد حققت تغطية ٨٠٪. فرقنا المبهرة تستحق الشكر!",
@@ -2265,7 +2159,6 @@
     "Education": "BSc Telecommunications",
     "Job": "Network Security Specialist",
     "Location": "New Administrative Capital",
-    "Interests": ["technology", "finance", "sports"],
     "Posts": [
       "حمّيت شبكات بنك مصري من هجوم إلكتروني ممنهج. الأمن السيبراني أولوية وطنية!",
       "دورة أمن المعلومات للمؤسسات الحكومية في العاصمة الإدارية. التحديثات ضرورية كل ٦ شهور",
@@ -2282,7 +2175,6 @@
     "Education": "MSc Environmental Science",
     "Job": "Sustainability Consultant",
     "Location": "Giza",
-    "Interests": ["health", "education", "traveling"],
     "Posts": [
       "صممت نظام إدارة مخلفات لمصنع في السادس من أكتوبر. التقليل من الهدر وفر ٢٠٪ من التكاليف!",
       "محاضرة عن التغير المناخي وتأثيره على دلتا النيل في جامعة القاهرة. الدعوة عامة",
@@ -2299,7 +2191,6 @@
     "Education": "PhD Islamic Architecture",
     "Job": "Heritage Conservationist",
     "Location": "Cairo",
-    "Interests": ["education", "traveling", "fashion"],
     "Posts": [
       "بدأت ترميم بيت السحيمي في الحسين. الحفاظ على التراث هوية!",
       "محاضرة عن العمارة المملوكية في بيت المعمار المصري. المهتمين بالحضور يسجلوا",
@@ -2316,7 +2207,6 @@
     "Education": "BSc Data Science",
     "Job": "AI Ethics Analyst",
     "Location": "Cairo",
-    "Interests": ["technology", "education", "finance"],
     "Posts": [
       "حللت انحياز خوارزميات القروض البنكية ضد النساء في الريف. البيانات تكشف التمييز!",
       "ورشة عن أخلاقيات الذكاء الاصطناعي في نوڤارتيس مصر. التسجيل للمتخصصين فقط",
@@ -2333,7 +2223,6 @@
     "Education": "BA Theater Arts",
     "Job": "Drama Teacher",
     "Location": "Alexandria",
-    "Interests": ["education", "music", "fashion"],
     "Posts": [
       "أخرجت مسرحية مدرسية عن التنمر. الأطفال ممثلين بطريقة مبهرة!",
       "ورشة تمثيل للمبتدئين في مركز الإسكندرية للإبداع. العمر من ١٦ لــ ٣٠ سنة",
@@ -2350,7 +2239,6 @@
     "Education": "BSc Veterinary Medicine",
     "Job": "Wildlife Veterinarian",
     "Location": "Giza",
-    "Interests": ["health", "traveling", "education"],
     "Posts": [
       "عالجت نسر مصاب في محمية رأس محمد. الحياة البرية في مصر تحتاج حماية!",
       "محاضرة عن أمراض القطط المنزلية في نادي الحيوانات الأليفة. التطعيمات ضرورية!",
@@ -2367,7 +2255,6 @@
     "Education": "Diploma in Hotel Management",
     "Job": "Resort Manager",
     "Location": "Marsa Alam",
-    "Interests": ["traveling", "food", "sports"],
     "Posts": [
       "افتتحت قسم غوص جديد في المنتجع. المعدات من أحدث الأنواع في البحر الأحمر!",
       "تدريب فريق العمل على معايير الخمس نجوم. الجودة تبدأ من الابتسامة!",
@@ -2384,7 +2271,6 @@
     "Education": "BA Archaeology",
     "Job": "Museum Curator",
     "Location": "Luxor",
-    "Interests": ["education", "traveling", "fashion"],
     "Posts": [
       "نظمت معرضاً جديداً للمجوهرات الفرعونية في متحف الأقصر. التصميمات قديمة لكنها خالدة!",
       "جولة خاصة في مخازن المتحف المصري بالتحرير. الكنوز المخفية أكثر إثارة من المعروض!",
@@ -2401,7 +2287,6 @@
     "Education": "BSc Mechanical Engineering",
     "Job": "Industrial Automation Expert",
     "Location": "Suez",
-    "Interests": ["technology", "automotive", "sports"],
     "Posts": [
       "أتمتة خط إنتاج جديد في مصنع السويس للحديد. الكفاءة زادت ٤٥٪ مع نفس العمالة!",
       "ورشة عن الروبوتات الصناعية في غرفة الصناعات. التسجيل لطلبة الهندسة مجاني",
@@ -2418,7 +2303,6 @@
     "Education": "MSc Child Psychology",
     "Job": "Play Therapist",
     "Location": "Heliopolis",
-    "Interests": ["education", "health", "music"],
     "Posts": [
       "عالجت طفل توحد باستخدام العلاج باللعب. التحسن في التواصل ظهر خلال شهرين!",
       "ورشة لأولياء الأمور عن التعامل مع نوبات الغضب عند الأطفال. الخميس في مركز هليوبوليس",
@@ -2435,7 +2319,6 @@
     "Education": "Diploma in Scuba Diving",
     "Job": "Marine Salvage Expert",
     "Location": "Dahab",
-    "Interests": ["traveling", "sports", "technology"],
     "Posts": [
       "استعدت حطام سفينة قديمة قرب شواطئ دهب. التاريخ المغمور تحت البحر!",
       "دورة غوص حطام متقدمة معتمدة من PADI. الأماكن محدودة لهذا الموسم!",
@@ -2452,7 +2335,6 @@
     "Education": "LLB Law",
     "Job": "Human Rights Lawyer",
     "Location": "Cairo",
-    "Interests": ["education", "finance", "health"],
     "Posts": [
       "رفعت قضية ضد التمييز في أجور النساء بمصنع حلوان. العدالة الاجتماعية أساس التقدم!",
       "محاضرة عن حقوق العمال في ظل قانون العمل الجديد بجامعة عين شمس. الحقوق مش منحة!",
@@ -2469,7 +2351,6 @@
     "Education": "BSc Electronics",
     "Job": "Smart Home Installer",
     "Location": "New Cairo",
-    "Interests": ["technology", "automotive", "sports"],
     "Posts": [
       "نفذت نظام منزل ذكي متكامل في التجمع الخامس. التحكم في كل شيء من التكييف للإضاءة بالهاتف!",
       "نصيحة: الأمان الإلكتروني أهم من الراحة في المنازل الذكية. الإهمال ممكن يكلفك غالي!",
@@ -2486,7 +2367,6 @@
     "Education": "BSc Information Systems",
     "Job": "UI/UX Designer",
     "Location": "Cairo",
-    "Interests": ["technology", "fashion", "traveling"],
     "Posts": [
       "بدأت العمل على تصميم واجهة جديدة لتطبيق موبايل—المستخدمين رح يحبوا البساطة! ✨",
       "Just ordered fabric samples for my next fashion project—colors are so vibrant!",
@@ -2506,7 +2386,6 @@
     "Education": "MBA Finance",
     "Job": "Investment Banker",
     "Location": "Alexandria",
-    "Interests": ["finance", "traveling", "sports"],
     "Posts": [
       "Analyzing Q3 market forecasts—commodity prices look bullish this quarter! 📈",
       "سافرت الإسكندرية اليوم الصبح واستمتعت بجولة على الكورنيش، الجو رائع.",
@@ -2526,7 +2405,6 @@
     "Education": "MSc Public Health",
     "Job": "Health Researcher",
     "Location": "Giza",
-    "Interests": ["health", "education", "technology"],
     "Posts": [
       "بدأت دراسة عن تأثير النشاط البدني على الصحة النفسية—results promising!",
       "Attended webinar on telemedicine platforms—future of remote care is bright.",
@@ -2546,7 +2424,6 @@
     "Education": "BSc Mechanical Engineering",
     "Job": "Maintenance Supervisor",
     "Location": "Mansoura",
-    "Interests": ["automotive", "technology", "sports"],
     "Posts": [
       "Replaced hydraulic pump on industrial press—system now runs smoother!",
       "Watching F1 practice session—engineering marvels at every turn. 🏎️",
@@ -2566,7 +2443,6 @@
     "Education": "BSc Nutrition",
     "Job": "Diet Consultant",
     "Location": "Aswan",
-    "Interests": ["health", "food", "traveling"],
     "Posts": [
       "نصيحة اليوم: استبدلي الوجبات السريعة بالسلطات الملونة للحفاظ على الوزن. 🥗",
       "تجربة الأطباق النوبية التقليدية كانت رائعة—نكهات جديدة وأسرار صحية.",
@@ -2586,7 +2462,6 @@
     "Education": "BSc Sports Science",
     "Job": "Athletic Coach",
     "Location": "Port Said",
-    "Interests": ["sports", "health", "music"],
     "Posts": [
       "اليوم عملت تدريب دوافع عالية للاعبي الفريق—التحسن واضح في الأداء! 💪",
       "Listening to upbeat tracks before warm‑ups—music fuels the energy.",
@@ -2606,7 +2481,6 @@
     "Education": "High School",
     "Job": "Intern Photographer",
     "Location": "Alexandria",
-    "Interests": ["traveling", "music", "fashion"],
     "Posts": [
       "قضيت اليوم أصور sunrise على الكورنيش—الألوان في السماء كانت ساحرة! 🌅",
       "Trying out street style shoots—mixing urban vibes with vintage outfits.",
@@ -2626,7 +2500,6 @@
     "Education": "MBA Marketing",
     "Job": "Brand Strategist",
     "Location": "Giza",
-    "Interests": ["marketing", "education", "food"],
     "Posts": [
       "Developing brand voice guidelines for a new café chain—exciting project!",
       "عندي ورشة عن consumer psychology الأسبوع القادم—متحمسة للتقديم.",
@@ -2646,10 +2519,9 @@
     "Education": "PhD Computer Engineering",
     "Job": "AI Researcher",
     "Location": "Ismailia",
-    "Interests": ["technology", "education", "finance"],
     "Posts": [
       "Presented my latest paper on reinforcement learning at Cairo University—feedback great!",
-      "Discussing quantum computing potentials with colleagues—future of technology is bright.",
+      "Discussing quantum computing potentials with colleagues—future of  is bright.",
       "عندي كورس مجاني عن AI ethics—anyone interested in joining؟",
       "Analyzing fintech adoption in MENA—blockchain and AI integration are hot topics.",
       "Health reminder: code breaks مهمة للوقاية من إرهاق العين.",
@@ -2666,7 +2538,6 @@
     "Education": "BSc Fashion Design",
     "Job": "Merchandise Planner",
     "Location": "Mansoura",
-    "Interests": ["fashion", "music", "traveling"],
     "Posts": [
       "Analyzing spring collection trends—pastel tones are making a comeback!",
       "قضيت اليوم في سوق القماش—وجدت أقمشة موهير تناسب التصميمات الشتوية.",
@@ -2686,7 +2557,6 @@
     "Education": "BSc Automotive Engineering",
     "Job": "Technical Lead",
     "Location": "Tanta",
-    "Interests": ["automotive", "technology", "sports"],
     "Posts": [
       "Testing new ECU firmware on prototype—engine diagnostics look stable.",
       "Watching MotoGP highlights—engineering precision on two wheels is inspiring! 🏍️",
@@ -2706,7 +2576,6 @@
     "Education": "BSc Music",
     "Job": "Vocal Coach",
     "Location": "Luxor",
-    "Interests": ["music", "education", "health"],
     "Posts": [
       "بدأت جلسات تدريب صوتي للمبتدئين—التقدم واضح بعد أسبوعين!",
       "Listening to classical Arabic melodies while preparing vocal exercises.",
@@ -2726,7 +2595,6 @@
     "Education": "MBA Operations",
     "Job": "Logistics Manager",
     "Location": "Fayoum",
-    "Interests": ["technology", "finance", "traveling"],
     "Posts": [
       "Implementing TMS upgrade in our supply chain—efficiency improved by 15%.",
       "سافرت الفيوم أمس لزيارة مخازن جديدة—التخطيط اللوجستي أمر محوري.",
@@ -2746,7 +2614,6 @@
     "Education": "BSc Education",
     "Job": "E‑Learning Coordinator",
     "Location": "Zagazig",
-    "Interests": ["education", "technology", "music"],
     "Posts": [
       "Developing interactive modules for online courses—students love the gamification elements.",
       "عندي مقابلة مع ناشر محتوى تعليمي—متحمسة للتعاون!",
@@ -2766,7 +2633,6 @@
     "Education": "High School",
     "Job": "Café Owner",
     "Location": "Hurghada",
-    "Interests": ["food", "traveling", "finance"],
     "Posts": [
       "افتتحت قهوتي الجديدة على البحر—الأجواء هادئة والقبول ممتاز.",
       "Trying a new coffee blend from Ethiopia—notes of blueberry and chocolate.",
@@ -2786,7 +2652,6 @@
     "Education": "BSc Computer Engineering",
     "Job": "Software Tester",
     "Location": "Minya",
-    "Interests": ["technology", "gaming", "education"],
     "Posts": [
       "Testing latest mobile game build—bugs found in level transitions!",
       "Joined a hackathon last weekend—built a study planner app in 24 hours.",
@@ -2806,7 +2671,6 @@
     "Education": "BSc Civil Engineering",
     "Job": "Construction Manager",
     "Location": "Sohag",
-    "Interests": ["technology", "finance", "sports"],
     "Posts": [
       "Supervising bridge project—using drones for site inspections this week.",
       "Analyzing project budget variances—cost control is vital for success.",
@@ -2826,7 +2690,6 @@
     "Education": "MSc Marketing",
     "Job": "Digital Marketer",
     "Location": "Shibin El Kom",
-    "Interests": ["marketing", "music", "traveling"],
     "Posts": [
       "Launching new Instagram campaign tomorrow—creative briefs finalized! 📣",
       "عندي سؤال: إيه أفضل tool لجدولة المحتوى على LinkedIn؟",
@@ -2846,7 +2709,6 @@
     "Education": "High School",
     "Job": "Taxi Driver",
     "Location": "Alexandria",
-    "Interests": ["traveling", "sports", "food"],
     "Posts": [
       "Daily route: take tourists around Stanley Bridge and Montaza Palace—always busy!",
       "Listening to classic Egyptian folk songs أثناء القيادة للركاب.",
@@ -2866,7 +2728,6 @@
       "Education": "BSc Civil Engineering",
       "Job": "Construction Project Manager",
       "Location": "Cairo",
-      "Interests": ["technology", "automotive", "sports"],
       "Posts": [
         "تمت اليوم إطلاق مشروع سكني جديد في التجمع الخامس. التصميم يعتمد على أحدث التقنيات المستدامة في البناء. #عمارة_مستقبلية",
         "Just test-drove the new electric SUV from MG. Battery efficiency is impressive for Egyptian road conditions! Considering switching from petrol.",
@@ -2886,7 +2747,6 @@
       "Education": "Bachelor of Pharmacy",
       "Job": "Clinical Pharmacist",
       "Location": "Alexandria",
-      "Interests": ["health", "education", "fashion"],
       "Posts": [
         "نبهت اليوم عشرات المرضى عن التفاعلات الدوائية الخطيرة بين المسكنات وأدوية الضغط. الإهمال في الصيدليات كارثي!",
         "شاركت في حملة توعوية عن السكر في مدارس الإسكندرية. الأطفال اليوم أكثر وعياً بالغذاء الصحي من الأجيال السابقة.",
@@ -2906,10 +2766,9 @@
       "Education": "MBA Marketing",
       "Job": "Advertising Director",
       "Location": "Giza",
-      "Interests": ["finance", "technology", "traveling"],
       "Posts": [
         "حملتنا الجديدة لبنك مصر حققت أعلى معدل engagement في السوق المصري. السر؟ التركيز على القصص الإنسانية بدل الشعارات الرنانة!",
-        "Booked my flight to Dubai for GITEX Technology Week. Any Egyptian startups attending we should feature?",
+        "Booked my flight to Dubai for GITEX  Week. Any Egyptian startups attending we should feature?",
         "تحليل بيانات السوق بيظهر تحول كبير في إنفاق المستهلك المصري من السلع الكمالية للضرورية. تأثير التضخم واضح جداً.",
         "جربت تطبيق جديد لتحليل سلوك المستهلك باستخدام الذكاء الاصطناعي. النتائج أدق بمراحل من الدراسات التقليدية!",
         "نصيحة للمسوقين: الجيل Z في مصر ما بيديش بالشعارات. عايزين شفافية وأثر اجتماعي حقيقي. #تسويق_الجيل_الجديد",
@@ -2926,7 +2785,6 @@
       "Education": "MSc Nutrition Science",
       "Job": "Dietitian",
       "Location": "Mansoura",
-      "Interests": ["health", "food", "education"],
       "Posts": [
         "وضعت خطة غذائية جديدة لمريضات تكيس المبايض. التركيز على الألياف والبروتين قلل الأعراض بنسبة 70% خلال 3 شهور!",
         "ورشة التغذية الصحية للأطفال في مدارس المنصورة الأسبوع الجاي. الأمهات اللي حابين يحضروا يرسلوا رسالة خاصة.",
@@ -2946,7 +2804,6 @@
       "Education": "BSc Computer Engineering",
       "Job": "AI Developer",
       "Location": "Smart Village",
-      "Interests": ["technology", "finance", "music"],
       "Posts": [
         "طورت نموذج ذكاء اصطناعي يتوقع أسعار الذهب في مصر بدقة 89%. البيانات التاريخية من البورصة كانت مفاجئة!",
         "Just open-sourced my NLP library for Arabic dialect processing. Contributions welcome on GitHub! #AIforArabic",
@@ -2966,7 +2823,6 @@
       "Education": "BA English Literature",
       "Job": "Content Writer",
       "Location": "Zagazig",
-      "Interests": ["education", "traveling", "fashion"],
       "Posts": [
         "بدأت دورة جديدة لتعليم الكتابة الإبداعية للأطفال في مركز شباب الزقازيق. الإقبال أكثر من المتوقع!",
         "Just got published in 'Egypt Today' magazine! Wrote about Nubian cultural preservation efforts in Aswan.",
@@ -2986,7 +2842,6 @@
       "Education": "Diploma in Automotive Engineering",
       "Job": "Car Workshop Owner",
       "Location": "Suez",
-      "Interests": ["automotive", "technology", "sports"],
       "Posts": [
         "فككت محرك BMW موديل ٢٠٢٠ اليوم لأول مرة. التعقيدات الإلكترونية صعبة لكن التحدي ممتع!",
         "نصيحة لمالك العربية: تغيير زيت الفرامل كل سنتين ضروري حتى لو العربية جديدة. السلامة أولاً!",
@@ -3006,7 +2861,7 @@
       "Education": "BSc Tourism Management",
       "Job": "Travel Agent",
       "Location": "Luxor",
-      "Interests": ["traveling", "food", "education"],
+      "": ["traveling", "food", "education"],
       "Posts": [
         "صممت رحلة نيلية جديدة من الأقصر إلى أسوان تتضمن زيارة معابد نادرة مش موجودة في البرامج العادية.",
         "ورشة عمل عن السياحة المستدامة لمرشدي الأقصر. كيف نحمي الآثار ونقدم تجربة ممتازة للزوار؟",
@@ -3026,7 +2881,7 @@
       "Education": "PhD in Agriculture",
       "Job": "Agricultural Researcher",
       "Location": "Tanta",
-      "Interests": ["education", "health", "technology"],
+      "": ["education", "health", ""],
       "Posts": [
         "طورت سلالة جديدة من القمح مقاومة للملوحة مع فريق البحث في مركز البحوث الزراعية. الإنتاجية زادت ٢٠٪!",
         "محاضرة عن الزراعة الذكية في جامعة طنطا يوم الثلاثاء. المهتمين بالتحول الرقمي في الزراعة مدعوون.",
@@ -3046,7 +2901,7 @@
       "Education": "Bachelor of Fine Arts",
       "Job": "Interior Designer",
       "Location": "New Cairo",
-      "Interests": ["fashion", "education", "traveling"],
+      "": ["fashion", "education", "traveling"],
       "Posts": [
         "انتهيت من تصميم شقة عميل في التجمع الخامس بالاستيلاء على الطراز المملوكي الحديث. النتيجة مبهرة!",
         "ورشة تصميم داخلي للأماكن الصغيرة في أكاديمية الفنون يوم السبت. الأساليب العملية لتحقيق الاتساع البصري.",
@@ -3066,7 +2921,7 @@
       "Education": "BSc Electronics Engineering",
       "Job": "Telecom Engineer",
       "Location": "Port Said",
-      "Interests": ["technology", "sports", "automotive"],
+      "": ["", "sports", "automotive"],
       "Posts": [
         "قمت بترقية أبراج الاتصالات في بورسعيد لشبكة 5G. سرعة التنزيل وصلت 800 Mbps في الاختبارات!",
         "مباراة مصر وبوركينا فاسو النهاردة. فين أماكن التجمعات الكويسة في بورسعيد لمشاهدة المباراة؟",
@@ -3086,7 +2941,7 @@
       "Education": "Medical Student",
       "Job": "Intern Doctor",
       "Location": "Assiut",
-      "Interests": ["health", "education", "music"],
+      "": ["health", "education", "music"],
       "Posts": [
         "أول يوم لي في قسم الطوارئ بمستشفى أسيوط الجامعي. الضغط عالي لكن التجربة لا تقدر بثمن!",
         "شاركت في قافلة طبية لقرية نائية في الصعيد. الاحتياج للرعاية الصحية الأساسية مازال صادم!",
@@ -3106,7 +2961,7 @@
       "Education": "BSc Accounting",
       "Job": "Bank Branch Manager",
       "Location": "Ismailia",
-      "Interests": ["finance", "sports", "technology"],
+      "": ["finance", "sports", ""],
       "Posts": [
         "أطلقنا خدمة التمويل السريع للشركات الصغيرة في فرعنا بالإسماعيلية. الموافقة في 48 ساعة فقط!",
         "مباراة السلة بين الإسماعيلي والأهلي النهاردة. التشجيع الحقيقي يكون بالحضور لا بالصياح على السوشيال!",
@@ -3126,7 +2981,7 @@
       "Education": "Masters in Clinical Psychology",
       "Job": "Therapist",
       "Location": "Hurghada",
-      "Interests": ["health", "education", "traveling"],
+      "": ["health", "education", "traveling"],
       "Posts": [
         "عقدت جلسة علاج جماعي لضحايا الحوادث في الغردقة. الصدمات النفسية أهم من الجسدية في عملية التعافي!",
         "ورشة عن إدارة الضغط النفسي لموظفي الفنادق يوم الأربعاء. الصناعة السياحية فيها ضغط غير طبيعي!",
@@ -3146,7 +3001,7 @@
       "Education": "BSc Marine Biology",
       "Job": "Dive Instructor",
       "Location": "Sharm El Sheikh",
-      "Interests": ["traveling", "health", "sports"],
+      "": ["traveling", "health", "sports"],
       "Posts": [
         "قمت بغوصة اليوم في رأس محمد. شعب مرجانية نادرة بتبدأ تظهر تاني بعد سنوات من الحماية! #سياحة_مسؤولة",
         "دورة غوص متقدمة معتمدة من PADI تبدأ الأسبوع الجاي. الأماكن محدودة والموعد بسرعة!",
@@ -3166,7 +3021,7 @@
       "Education": "Diploma in Early Childhood Education",
       "Job": "Kindergarten Principal",
       "Location": "Damietta",
-      "Interests": ["education", "food", "music"],
+      "": ["education", "food", "music"],
       "Posts": [
         "طبقنا نظام مونتيسوري في روضتنا الجديدة في دمياط. النتائج مع الأطفال فوق الممتاز!",
         "ورشة صناعة ألعاب تعليمية من خامات البيئة يوم الثلاثاء. الأمهات والمعلمات مدعوات مجاناً!",
@@ -3186,7 +3041,7 @@
       "Education": "BSc Petroleum Engineering",
       "Job": "Oil Rig Supervisor",
       "Location": "Suez",
-      "Interests": ["technology", "automotive", "sports"],
+      "": ["", "automotive", "sports"],
       "Posts": [
         "بدأنا استخدام طائرات درونز لفحص منصات الحفر في البحر. التقنية وفرت وقت ومال ووقاية بشرية!",
         "تحديث أسطول الشركة من سيارات الدفع الرباعي. الجيل الجديد من تويوتا لاندكروزر صعب ينافس في الصحراء!",
@@ -3206,7 +3061,7 @@
       "Education": "Bachelor of Law",
       "Job": "Legal Consultant",
       "Location": "Mansoura",
-      "Interests": ["education", "finance", "fashion"],
+      "": ["education", "finance", "fashion"],
       "Posts": [
         "فزت اليوم بقضية تعويض ضد شركة تأمين لمريض سرطان. القضاء المصري بيحافظ على حقوق الضعفاء!",
         "محاضرة عن حقوق المستهلك في التعاملات البنكية في جامعة المنصورة. الطلاب تفاعلوا مع الأمثلة العملية!",
@@ -3226,7 +3081,7 @@
       "Education": "High School",
       "Job": "Restaurant Owner",
       "Location": "Aswan",
-      "Interests": ["food", "traveling", "music"],
+      "": ["food", "traveling", "music"],
       "Posts": [
         "أضفت طبق الكشرى النوبي لقائمة المطعم. السياح بيعشقوا التجارب الأصيلة مش التقليدية!",
         "رحلة لأسوان الجاية؟ عندكم تذوق وجبة نوبية كاملة في مطعمنا بجنوب الخزان. حجز مسبق ضروري!",
@@ -3246,7 +3101,7 @@
       "Education": "BSc Media Production",
       "Job": "Social Media Manager",
       "Location": "Cairo",
-      "Interests": ["fashion", "technology", "music"],
+      "": ["fashion", "", "music"],
       "Posts": [
         "حملتنا الأخيرة لعلامة أزياء محلية حققت 5 مليون مشاهدة على تيك توك. السر؟ المزج بين التراث والحداثة!",
         "ورشة إدارة محتوى السوشيال ميديا للشركات الناشئة في حرم الجامعة الأمريكية. التسجيل بــ 500 جنيه.",
@@ -3266,7 +3121,7 @@
       "Education": "BA History",
       "Job": "Tour Guide",
       "Location": "Luxor",
-      "Interests": ["traveling", "education", "music"],
+      "": ["traveling", "education", "music"],
       "Posts": [
         "أقمت جولة خاصة لوفد أمريكي في وادي الملوك اليوم. دهشتهم بالحضارة المصرية عمرها ما بتملى!",
         "محاضرة عن الملك توت عنخ آمون في المركز الثقافي الفرنسي بالأقصر. الدعوة عامة بالمجان!",
@@ -3287,7 +3142,7 @@
       "Education": "BSc Computer Science",
       "Job": "Web Developer",
       "Location": "Cairo",
-      "Interests": ["technology", "traveling", "food"],
+      "": ["", "traveling", "food"],
       "Posts": [
         "بدأت اليوم في تعلم ReactJS واكتشفت أنه framework رائع لبناء الواجهات! anyone tried Next.js before؟",
         "عندي ورشة عن Vue.js الأسبوع الجاي في Maadi، حد حابب ينضم؟ ☕",
@@ -3295,7 +3150,7 @@
         "خطط للسفر لأسوان في الصيف، بحب النيل والجو هناك، مين عنده نصائح عن الإقامة؟",
         "Coding all night debugging a CSS grid issue… الحياة أحياناً بتكون challenging! 😅",
         "تجربة البيتزا في مطعم Little Italy كانت رهيبة، العجينة طرية والجبنة melting beautifully.",
-        "Planning a weekend trip to Alexandria’s Library—love mixing technology with history.",
+        "Planning a weekend trip to Alexandria’s Library—love mixing  with history.",
         "What's your go‑to snack when you’re deep in code? أنا دائمًا بلاقي الشوكولاتة بتنشطني!"
       ]
     },
@@ -3307,7 +3162,7 @@
       "Education": "MBA Marketing",
       "Job": "Sales Executive",
       "Location": "Alexandria",
-      "Interests": ["finance", "traveling", "music"],
+      "": ["finance", "traveling", "music"],
       "Posts": [
         "عندي استفسار: إيه أفضل منصة لإدارة حملات Google Ads في 2025؟ حد جرب Google Marketing Platform؟",
         "Booked a business trip to Dubai next month—excited to network at the marketing summit ✈️",
@@ -3327,7 +3182,7 @@
       "Education": "High School",
       "Job": "Student",
       "Location": "Giza",
-      "Interests": ["fashion", "music", "food"],
+      "": ["fashion", "music", "food"],
       "Posts": [
         "اشتريت today حذاء جديد من Zara، لونه أحمر متوهج! 🔥 مين بيحب heeled boots؟",
         "Trying out a new makeup look inspired by 90s vibes—so retro and fun! 💄",
@@ -3347,7 +3202,7 @@
       "Education": "BSc Mechanical Engineering",
       "Job": "Automotive Engineer",
       "Location": "Mansoura",
-      "Interests": ["automotive", "technology", "sports"],
+      "": ["automotive", "", "sports"],
       "Posts": [
         "Today tested the new Tesla Model 3, handling is smooth جداً ومثيرة! anyone else excited for EVs؟",
         "شاركْت في ورشة عمل عن engine design optimization الشهر الماضي—كانت مفيدة فعلاً.",
@@ -3367,7 +3222,7 @@
       "Education": "MSc Nutrition",
       "Job": "Dietician",
       "Location": "Aswan",
-      "Interests": ["health", "food", "traveling"],
+      "": ["health", "food", "traveling"],
       "Posts": [
         "نصائح الرجيم اليوم: ركزي على الأطعمة الغنية بالبروتين والخضروات الورقية. 🥗",
         "Visited Elephantine Island today—المناظر طبيعية رائعة وأجواء هادئة.",
@@ -3387,7 +3242,7 @@
       "Education": "BSc Finance",
       "Job": "Financial Analyst",
       "Location": "Luxor",
-      "Interests": ["finance", "technology", "traveling"],
+      "": ["finance", "", "traveling"],
       "Posts": [
         "Analyzing Q2 financial reports—tech stocks outperforming banks this quarter! 💼📈",
         "سافرت Aswan last week وكانت تجربة روعة بالنسبة لي—النيل والجمال الفرعوني.",
@@ -3407,13 +3262,13 @@
       "Education": "BSc Education",
       "Job": "School Teacher",
       "Location": "Suez",
-      "Interests": ["education", "music", "traveling"],
+      "": ["education", "music", "traveling"],
       "Posts": [
         "Preparing lesson plan for teaching English literature—looking for new interactive activities.",
         "أخذت طلابي في رحلة مدرسية لقلعة قايتباي الأسبوع الماضي—كانت تجربة تعليمية ممتعة.",
         "Listening to classical piano pieces while grading exams—الجو يساعد على التركيز 🎹.",
         "Booked a family trip to Dahab during winter break—snorkeling time!",
-        "How do you integrate technology in the classroom? أحب أجرب tools جديدة.",
+        "How do you integrate  in the classroom? أحب أجرب tools جديدة.",
         "التعليم المشترك online and offline بيحقق تفاعل أكبر مع الطلاب.",
         "Visited the Music Conservatory in Cairo last month—inspiring environment for teachers.",
         "Favorite motivational quote for students: “Education is the passport to the future.”"
@@ -3427,7 +3282,7 @@
       "Education": "BSc Sports Science",
       "Job": "Fitness Trainer",
       "Location": "Port Said",
-      "Interests": ["sports", "health", "music"],
+      "": ["sports", "health", "music"],
       "Posts": [
         "اليوم عملت تمرين HIIT على الكورنيش—طاقتي عالية والجو رائع! 💪",
         "Listening to upbeat playlists during workouts—music always boosts motivation.",
@@ -3447,7 +3302,7 @@
       "Education": "MBA Finance",
       "Job": "Bank Manager",
       "Location": "Tanta",
-      "Interests": ["finance", "education", "technology"],
+      "": ["finance", "education", ""],
       "Posts": [
         "Discussing digital banking transformation with my team—AI and blockchain are game‑changers.",
         "عندي ورشة عن customer experience في المصارف الأسبوع الجاي—متحمسة للتقديم.",
@@ -3467,7 +3322,7 @@
       "Education": "PhD Computer Engineering",
       "Job": "Data Scientist",
       "Location": "Ismailia",
-      "Interests": ["technology", "education", "finance"],
+      "": ["", "education", "finance"],
       "Posts": [
         "Presented my research on neural network optimization at IEEE conference—excited by the feedback!",
         "بُدأت بتحضير كورس عن Data Science للطلبة، أي اقتراحات للمنهج؟",
@@ -3487,7 +3342,7 @@
       "Education": "BSc Food Science",
       "Job": "Quality Control Specialist",
       "Location": "Damanhur",
-      "Interests": ["food", "health", "education"],
+      "": ["food", "health", "education"],
       "Posts": [
         "Testing new cheese samples in the lab—flavors متوازنة والجودة ممتازة.",
         "Attended webinar on food safety standards—important for all manufacturers.",
@@ -3507,7 +3362,7 @@
       "Education": "BSc Civil Engineering",
       "Job": "Project Manager",
       "Location": "Fayoum",
-      "Interests": ["technology", "traveling", "finance"],
+      "": ["", "traveling", "finance"],
       "Posts": [
         "Planning new infrastructure project near Lake Qarun—studying sustainable materials.",
         "Just returned from Cairo for a conference on sustainable finance—eye‑opening discussions.",
@@ -3527,7 +3382,7 @@
       "Education": "BSc Music",
       "Job": "Sound Engineer",
       "Location": "Sharm El Sheikh",
-      "Interests": ["music", "traveling", "technology"],
+      "": ["music", "traveling", ""],
       "Posts": [
         "Recording session at the Red Sea Studio—the acoustics هنا فريدة من نوعها!",
         "Visited Ras Mohammed National Park yesterday—inspirational landscapes for composition.",
@@ -3547,7 +3402,7 @@
       "Education": "MBA Operations",
       "Job": "Operations Manager",
       "Location": "Sohag",
-      "Interests": ["technology", "finance", "sports"],
+      "": ["", "finance", "sports"],
       "Posts": [
         "Implemented ERP system upgrade—operational efficiency improved by 20%.",
         "عندي ورشة عمل عن Lean Management الأسبوع الجاي—متحمس إلقاء المحاضرة.",
@@ -3567,7 +3422,7 @@
       "Education": "BSc Fashion Design",
       "Job": "Fashion Designer",
       "Location": "Hurghada",
-      "Interests": ["fashion", "traveling", "food"],
+      "": ["fashion", "traveling", "food"],
       "Posts": [
         "Designing new summer collection inspired by coastal colors of Red Sea 🌊👗.",
         "Visited local textile market in Cairo—found beautiful silk prints.",
@@ -3587,7 +3442,7 @@
       "Education": "BSc Electrical Engineering",
       "Job": "System Engineer",
       "Location": "Minya",
-      "Interests": ["technology", "automotive", "sports"],
+      "": ["", "automotive", "sports"],
       "Posts": [
         "Installed solar panels on my rooftop—renewable energy is المستقبل!",
         "Testing new SCADA system in the field—data insights are invaluable.",
@@ -3607,7 +3462,6 @@
       "Education": "High School",
       "Job": "Intern",
       "Location": "Zagazig",
-      "Interests": ["education", "music", "fashion"],
       "Posts": [
         "Joining coding bootcamp next week—excited to learn Python! 🐍",
         "Sketching dress designs for prom—vintage style with floral prints.",
@@ -3627,7 +3481,6 @@
       "Education": "MSc Health Administration",
       "Job": "Hospital Administrator",
       "Location": "Assiut",
-      "Interests": ["health", "education", "technology"],
       "Posts": [
         "Implementing EHR system in our hospital—hoping to improve patient care records.",
         "ورشة عمل عن healthcare analytics الشهر ده—متابعة التطورات أمر ضروري.",
@@ -3647,7 +3500,6 @@
       "Education": "High School",
       "Job": "Restaurant Owner",
       "Location": "Beni Suef",
-      "Interests": ["food", "traveling", "finance"],
       "Posts": [
         "افتتحنا فرع جديد للمطعم في الدقي الأسبوع الماضي—الحمد لله الإقبال جيد.",
         "Trying fusion cuisine by mixing Egyptian spices with Italian recipes—نتائج مبهرة!",
@@ -3667,7 +3519,6 @@
       "Education": "BSc Education",
       "Job": "Teaching Assistant",
       "Location": "El-Mahalla El-Kubra",
-      "Interests": ["education", "music", "technology"],
       "Posts": [
         "Helping professor prepare digital materials for online classes—tech makes teaching easier.",
         "Listening to Mozart while grading assignments—music soothes الأعصاب.",
@@ -3685,10 +3536,9 @@
     "Age": 24,
     "Gender": "Male",
     "MaritalStatus": "Single",
-    "Education": "BSc Information Technology",
+    "Education": "BSc Information ",
     "Job": "IT Support Specialist",
     "Location": "Cairo",
-    "Interests": ["technology", "gaming", "music"],
     "Posts": [
       "الصبح اتعلمت طريقة جديدة لـ troubleshooting network issues في الــ LAN setup بالشركة. Feeling proud! 😊 #ITLife",
       "Anyone جرب سماعات Sony WH-1000XM5؟ جودة الصوت ممتازة لكن السعر high. رأيكم؟",
@@ -3708,7 +3558,6 @@
     "Education": "MBA",
     "Job": "Marketing Manager",
     "Location": "Alexandria",
-    "Interests": ["traveling", "fashion", "food"],
     "Posts": [
       "حجزت رحلة للإسكندرية weekend الجاي مع العيلة! مشتاقه لـ Corniche view و كبابجية شارع ابو قير. 🚗🌊",
       "Just finalized our Q3 campaign strategy—focusing on influencer partnerships and Instagram Reels. #MarketingTips",
@@ -3728,7 +3577,6 @@
     "Education": "BSc Civil Engineering",
     "Job": "Site Engineer",
     "Location": "Giza",
-    "Interests": ["technology", "traveling", "sports"],
     "Posts": [
       "الصبح تفاجئت باتصال من الموقع: كهرباء المعمل وقعت. استخدمت my multimeter وسويت fix مؤقت. ⚙️",
       "Planning a weekend trip to Siwa—looking forward to sandboarding and exploring the desert oasis! 🏜️",
@@ -3748,7 +3596,6 @@
     "Education": "BSc Pharmacy",
     "Job": "Pharmacist",
     "Location": "Mansoura",
-    "Interests": ["health", "food", "traveling"],
     "Posts": [
       "صباح الخير! نصيحتي لليوم: اشربوا شاي أخضر بدون سكر لتحسين الهضم. 🍵 #HealthTip",
       "Visited new organic café in Mansoura—عصير سموثي المانجا كان روعة! Highly recommend the tropical blend.",
@@ -3768,7 +3615,6 @@
     "Education": "MSc Education",
     "Job": "School Principal",
     "Location": "Tanta",
-    "Interests": ["education", "music", "traveling"],
     "Posts": [
       "عقدنا ورشة عمل للمعلمين عن Pedagogical methods وأدوات التعلم الرقمي. استجوبة المشاركين كانت ممتازة! 🎓",
       "Just back from Cairo Opera House—concert كان ساحر، especially the violin solo. #MusicLover",
@@ -3788,7 +3634,6 @@
     "Education": "MBA",
     "Job": "Sales Director",
     "Location": "Suez",
-    "Interests": ["finance", "automotive", "traveling"],
     "Posts": [
       "اجتمعنا اليوم مع فريق المبيعات—حققنا زيادة 15% في الإيرادات الشهرية! 🎉 #SalesGoals",
       "Just test-drove Mercedes C-Class—performance and luxury were on point. Definitely considering fleet upgrade. 🚗",
@@ -3808,7 +3653,6 @@
     "Education": "BSc Computer Science",
     "Job": "Web Developer",
     "Location": "Alexandria",
-    "Interests": ["technology", "fashion", "music"],
     "Posts": [
       "أنهيت تصميم الواجهة الجديدة للعميل باستخدام React و Tailwind—super responsive ومظهرة جميل! 🎨 #WebDev",
       "New playlist alert: mixing Egyptian shaabi with chillhop—perfect background for coding sessions. 🎧",
@@ -3828,7 +3672,6 @@
     "Education": "PhD Mechanical Engineering",
     "Job": "Research Engineer",
     "Location": "Minya",
-    "Interests": ["technology", "education", "automotive"],
     "Posts": [
       "نشرت ورقة بحثية جديدة عن heat transfer in electric vehicle batteries—Purdue Journal مستضيفة المقال. 🔬",
       "Teaching CFD workshop لطلبة الماجستير في الجامعة—sessions عملية عن ANSYS Fluent و meshing techniques.",
@@ -3848,7 +3691,6 @@
     "Education": "BSc Nutrition",
     "Job": "Dietitian",
     "Location": "Fayoum",
-    "Interests": ["health", "food", "traveling"],
     "Posts": [
       "Healthy breakfast idea: overnight oats with almond milk, chia seeds، وفواكه طازجة. صباحكم صحي! 🥣",
       "سافرت أسيوط last weekend for medical camp—قدمت استشارات غذائية للسكان المحليين وكان تفاعل رائع.",
@@ -3868,7 +3710,6 @@
     "Education": "BSc Finance",
     "Job": "Financial Analyst",
     "Location": "Damietta",
-    "Interests": ["finance", "traveling", "food"],
     "Posts": [
       "Analyzed monthly budget for Damietta port expansion—ROI المتوقع 18% over three years. 💼📈",
       "عايز أسافر أضفح اسيوط—أي حد عنده توصيات بـ budget-friendly guesthouse؟",
@@ -3888,7 +3729,6 @@
     "Education": "High School",
     "Job": "Home Maker",
     "Location": "Sohag",
-    "Interests": ["food", "health", "music"],
     "Posts": [
       "طبخت الملوخية اليوم مع الثومية والزيت البلدي—النتيجة كانت ممتازة! Family loved it. 🌿🍲",
       "Health tip: مارسوا رياضة المشي نصف ساعة يومياً لتحسين الدورة الدموية. 🚶‍♀️",
@@ -3908,7 +3748,6 @@
     "Education": "BSc Mechanical Engineering",
     "Job": "Automotive Technician",
     "Location": "Ismailia",
-    "Interests": ["automotive", "technology", "sports"],
     "Posts": [
       "Replaced brake discs on Toyota Corolla—performance and safety improved بشكل كبير. 🛠️🚗",
       "تابعت مباراة الأهلي والبنك الأهلي أمس—النهاية كانت درامية جداً! ⚽🔥",
@@ -3928,7 +3767,6 @@
     "Education": "BSc Music",
     "Job": "Music Teacher",
     "Location": "Luxor",
-    "Interests": ["music", "education", "traveling"],
     "Posts": [
       "عقدت درسين للعزف على العود في مدرسة الموسيقى—طلاب موهوبين جداً! 🎶🎸",
       "Just back from Cairo Jazz Festival—performances كانت رائعة وألهمتني لتأليف مقطوعة جديدة.",
@@ -3948,7 +3786,6 @@
     "Education": "BSc Electrical Engineering",
     "Job": "Control Systems Engineer",
     "Location": "Qena",
-    "Interests": ["technology", "sports", "traveling"],
     "Posts": [
       "Configured new PLC and SCADA system في مصنع السكر—automation process تحسين كبير في الإنتاج.",
       "تابعت ماتش الأهلي وبيراميدز أمس—الأداء الدفاعي كان ممتاز! ⚽🛡️",
@@ -3968,7 +3805,6 @@
     "Education": "Undergraduate BSc Business Administration",
     "Job": "Intern",
     "Location": "Damietta",
-    "Interests": ["finance", "education", "food"],
     "Posts": [
       "First day internship at local bank—shadowing credit analysis team وتعلمت أساسيات risk assessment.",
       "جربت مطعم Cornerstone في الدلتا—pizza هايلة وخدمة ممتازة! 🍕",
@@ -3988,7 +3824,6 @@
     "Education": "MBA",
     "Job": "Project Manager",
     "Location": "Damanhour",
-    "Interests": ["technology", "education", "traveling"],
     "Posts": [
       "أدير مشروع تطوير نظام ERP لشركة بتخزين الأدوية—phases and deliverables on track. 📊",
       "Visited Siemens HQ in Cairo for vendor meeting—discussed工业 automation and IoT integration.",
@@ -4008,7 +3843,6 @@
     "Education": "High School",
     "Job": "Taxi Driver",
     "Location": "Hurghada",
-    "Interests": ["traveling", "food", "music"],
     "Posts": [
       "قيت تاكسي لعميل من مطار الغردقة للسنترال—حبوا المناظر البحرية في الطريق! 🚕🌅",
       "جربت مطعم Seagulls جديد على الكورنيش—seafood platter كان لذيذ جداً! 🦐",
@@ -4020,46 +3854,7 @@
       "Health tip للسائقين: خذوا استراحة قصيرة كل ساعتين وتمشوا 10 دقائق."
     ]
   },
-  {
-    "UserName": "Nadia Fawzy",
-    "Age": 34,
-    "Gender": "Female",
-    "MaritalStatus": "Divorced",
-    "Education": "BEd Arabic Literature",
-    "Job": "High School Teacher",
-    "Location": "Asyut",
-    "Interests": ["education", "food", "traveling"],
-    "Posts": [
-      "حضرت اليوم درس عن الأدب الجاهلي—طلاب المدرسة تفاعلوا بشكل مميز مع القصائد.",
-      "تجربتي مع مطعم Al‑Masry في أسيوط كانت ممتازة—koshari و molokhia لا يعلى عليهما! 🍛",
-      "Planning cultural field trip to Luxor—معابد الكرنك ووادي الملوك on the itinerary.",
-      "Shared link to educational resources: www.asuit‑edu.org/literature for colleagues and students.",
-      "Late night grading essays—found some تحليلات أدبية رائعة من الطلاب.",
-      "Anyone جرب تطبيق Kahoot لتنفيذ quizzes في الفصل؟ Looking for interactive tools.",
-      "Weekend workshop عن كتابة السيرة الذاتية للثانويين—hoping to empower students for future careers.",
-      "Listening to Abdel Halim Hafez before النوم gives me energy لليوم التالي. 🎶"
-    ]
-  },
-  {
-    "UserName": "Hussein Adel",
-    "Age": 20,
-    "Gender": "Male",
-    "MaritalStatus": "Single",
-    "Education": "Undergraduate BSc Computer Engineering",
-    "Job": "Student",
-    "Location": "Zagazig",
-    "Interests": ["technology", "gaming", "sports"],
-    "Posts": [
-      "Finished my first FPGA project في lab—implemented simple UART communication. Feeling accomplished! 🖥️",
-      "لاحقاً هشارك في مسابقة البرمجة بـ ACM ICPC regional—wish me luck! 🤞",
-      "Anyone جرب Intel NUC كمبيوتر صغير للتطوير؟ بحب فكرة compact computing.",
-      "تابعت ماتش ليفربول ضد مانشستر يونايتد أمس—نهاية مثيرة! ⚽🔥",
-      "Late night gaming session: CS:GO مع الأصدقاء in LAN party—الأدرينالين عالي!",
-      "Reading about blockchain وتطبيقاته beyond cryptocurrency—could revolutionize supply chain.",
-      "Cooking my own pasta carbonara لأول مرة—نجحت التجربة واحلى نتيجة! 🍝",
-      "Shared link to my GitHub: github.com/hussein‑ael for capstone projects."
-    ]
-  },
+  
   {
     "UserName": "Fatma Rafik",
     "Age": 28,
@@ -4068,7 +3863,6 @@
     "Education": "MSc Psychology",
     "Job": "Counselor",
     "Location": "Port Said",
-    "Interests": ["health", "education", "music"],
     "Posts": [
       "عقدت جلسة group therapy للطلاب—focus on stress management coping strategies. تفاعل رائع من الجميع.",
       "Listening to calming piano pieces قبل الجلسات يساعدني في التركيز والهدوء. 🎹",
@@ -4088,7 +3882,6 @@
     "Education": "BSc Sports Science",
     "Job": "Fitness Trainer",
     "Location": "Faiyum",
-    "Interests": ["sports", "health", "food"],
     "Posts": [
       "Daily workout tip: اعمل 3 مجموعات من السكوات و 15 عدة لعضلات الأرجل—strength gains soon! 💪",
       "جربت وصفة بروتين شيك بالموز والحليب قليل الدسم—perfect post-workout snack! 🍌🥛",
@@ -4108,7 +3901,6 @@
     "Education": "BSc Education",
     "Job": "Private Tutor",
     "Location": "Beheira",
-    "Interests": ["education", "traveling", "food"],
     "Posts": [
       "عقدت جلسة خصوصيّة لتعليم Math لثاني ثانوي—طلاب يتحسنون بشكل ملحوظ! 📐",
       "Visiting Wadi El Natrun next month for cultural retreat—looking forward to monasteries tour.",
@@ -4128,7 +3920,6 @@
     "Education": "BSc Business Administration",
     "Job": "Sales Executive",
     "Location": "Beni Suef",
-    "Interests": ["finance", "traveling", "music"],
     "Posts": [
       "Met sales targets this quarter—زيادة 10% in new client acquisitions! 👏 #SalesAchievement",
       "حجزت رحلة لأسوان مع العائلة—looking forward to Nile views and local cuisine. 🚤🍲",
@@ -4148,7 +3939,6 @@
     "Education": "BSc Graphic Design",
     "Job": "Freelance Designer",
     "Location": "Damanhur",
-    "Interests": ["fashion", "technology", "music"],
     "Posts": [
       "أنجزت لوجو جديد لماركة أزياء محلية—combination of calligraphy and modern fonts. 🎨",
       "Listening to synthwave while sketching—boosts الإبداع والتركيز. 🎧✨",
@@ -4168,7 +3958,6 @@
     "Education": "MBA",
     "Job": "Restaurant Owner",
     "Location": "Hurghada",
-    "Interests": ["food", "traveling", "finance"],
     "Posts": [
       "افتتحت فرع جديد في السخنة—seafood specialties و أجواء بحرية. الزباين متحمسين جداً! 🦐🌊",
       "Analyzing monthly P&L statements—profit margin ارتفع بنسبة 5% بعد تحسين التكاليف.",
